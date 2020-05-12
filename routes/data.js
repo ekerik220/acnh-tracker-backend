@@ -46,7 +46,9 @@ const all_data = [].concat(
 router.get("/search", (req, res) => {
   const search = all_data.filter((ele) => ele[0].name.includes(req.query.s));
   const startIndex = (req.query.p - 1) * ITEMS_PER_PAGE;
-  const endIndex = req.query.p * ITEMS_PER_PAGE;
+  let endIndex = req.query.p * ITEMS_PER_PAGE;
+  // last page probably won't have exactly ITEMS_PER_PAGE results, so fix end index
+  if (endIndex >= search.length) endIndex = search.length - 1;
   const page = search.slice(startIndex, endIndex);
   res.send(page);
 });
@@ -55,7 +57,9 @@ router.get("/search", (req, res) => {
 router.get("/:data", (req, res) => {
   const data = eval(req.params.data);
   const startIndex = (req.query.p - 1) * ITEMS_PER_PAGE;
-  const endIndex = req.query.p * ITEMS_PER_PAGE;
+  let endIndex = req.query.p * ITEMS_PER_PAGE;
+  // last page probably won't have exactly ITEMS_PER_PAGE results, so fix end index
+  if (endIndex >= data.length) endIndex = data.length - 1;
   const page = data.slice(startIndex, endIndex);
   res.send(page);
 });
