@@ -14700,4 +14700,4 @@ const wallmounted = [
   },
 ];
 
-modules.exports = wallmounted;
+module.exports = wallmounted;

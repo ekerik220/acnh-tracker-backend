@@ -23013,4 +23013,4 @@ const tops = [
   },
 ];
 
-modules.exports = tops;
+module.exports = tops;

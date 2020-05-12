@@ -41785,4 +41785,4 @@ const misc = [
   },
 ];
 
-modules.exports = misc;
+module.exports = misc;
