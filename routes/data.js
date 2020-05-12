@@ -42,10 +42,13 @@ const all_data = [].concat(
   wallpaper
 );
 
-// Search by search term (req.query.s)
+// Search by search term (req.query.s), and use pagination (req.query.p)
 router.get("/search", (req, res) => {
   const search = all_data.filter((ele) => ele.name.includes(req.query.s));
-  res.send(search);
+  const startIndex = (req.query.p - 1) * ITEMS_PER_PAGE;
+  const endIndex = req.query.p * ITEMS_PER_PAGE;
+  const page = search.slice(startIndex, endIndex);
+  res.send(page);
 });
 
 // GETs desired page (req.query.p) of desired data (/:data)
