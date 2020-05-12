@@ -44,7 +44,7 @@ const all_data = [].concat(
 
 // Search by search term (req.query.s), and use pagination (req.query.p)
 router.get("/search", (req, res) => {
-  const search = all_data.filter((ele) => ele.name.includes(req.query.s));
+  const search = all_data.filter((ele) => ele[0].name.includes(req.query.s));
   const startIndex = (req.query.p - 1) * ITEMS_PER_PAGE;
   const endIndex = req.query.p * ITEMS_PER_PAGE;
   const page = search.slice(startIndex, endIndex);
