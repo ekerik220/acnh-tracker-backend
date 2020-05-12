@@ -5,6 +5,10 @@ const dotenv = require("dotenv");
 
 dotenv.config();
 
+// Import routes
+const dataRoute = require("./routes/data");
+app.use("/data", dataRoute);
+
 // CONNECT TO DB
 mongoose.connect(
   process.env.DB_URI,
