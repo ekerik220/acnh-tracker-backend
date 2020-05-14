@@ -6,8 +6,8 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 // Import routes
+const authRoute = require("./routes/auth");
 const dataRoute = require("./routes/data");
-app.use("/data", dataRoute);
 
 // CONNECT TO DB
 mongoose.connect(
@@ -20,6 +20,8 @@ mongoose.connect(
 
 // MIDDLEWARES
 app.use(express.json());
+app.use("/user", authRoute);
+app.use("/data", dataRoute);
 
 // START SERVER
 app.listen(4000, () => console.log("Server running!"));
