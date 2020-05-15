@@ -44,24 +44,32 @@ const all_data = [].concat(
 
 // Search by search term (req.query.s), and use pagination (req.query.p)
 router.get("/search", (req, res) => {
-  const search = all_data.filter((ele) => ele[0].name.includes(req.query.s));
-  const startIndex = (req.query.p - 1) * ITEMS_PER_PAGE;
-  let endIndex = req.query.p * ITEMS_PER_PAGE;
-  // last page probably won't have exactly ITEMS_PER_PAGE results, so fix end index
-  if (endIndex >= search.length) endIndex = search.length - 1;
-  const page = search.slice(startIndex, endIndex);
-  res.send(page);
+  const data = getDataBySearchTerm(req.query.s, req.query.p);
+  res.send(data);
 });
 
-// GETs desired page (req.query.p) of desired data (/:data)
-router.get("/:data", (req, res) => {
-  const data = eval(req.params.data);
-  const startIndex = (req.query.p - 1) * ITEMS_PER_PAGE;
-  let endIndex = req.query.p * ITEMS_PER_PAGE;
-  // last page probably won't have exactly ITEMS_PER_PAGE results, so fix end index
+// GETs desired page (req.query.p) of desired category (req.params.category)
+router.get("/:category", (req, res) => {
+  const data = getDataByCategory(req.params.category, req.query.p);
+  res.send(data);
+});
+
+const getDataBySearchTerm = (searchTerm, pageNumber) => {
+  const data = all_data.filter((ele) => ele[0].name.includes(searchTerm));
+  return paginate(data, pageNumber);
+};
+
+const getDataByCategory = (category, pageNumber) => {
+  const data = eval(category);
+  return paginate(data, pageNumber);
+};
+
+const paginate = (data, pageNumber) => {
+  const startIndex = (pageNumber - 1) * ITEMS_PER_PAGE;
+  let endIndex = pageNumber * ITEMS_PER_PAGE;
   if (endIndex >= data.length) endIndex = data.length - 1;
   const page = data.slice(startIndex, endIndex);
-  res.send(page);
-});
+  return page;
+};
 
 module.exports = router;
