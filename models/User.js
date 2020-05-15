@@ -23,6 +23,16 @@ const userSchema = new mongoose.Schema({
     type: Date,
     default: Date.now,
   },
+  list: {
+    type: [
+      {
+        item_name: String,
+        category: String,
+        variations: [String],
+      },
+    ],
+    default: [],
+  },
 });
 
 module.exports = mongoose.model("User", userSchema);
