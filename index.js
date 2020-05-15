@@ -6,7 +6,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 // Import routes
-const authRoute = require("./routes/auth");
+const authRoute = require("./routes/user");
 const dataRoute = require("./routes/data");
 
 // CONNECT TO DB
