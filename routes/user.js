@@ -27,33 +27,7 @@ router.post("/register", async (req, res) => {
     password: hashedPassword,
   });
 
-  // Create confirmation link that we can email the user
-  const token = jwt.sign({ name: user.name }, process.env.TOKEN_SECRET);
-  const link = "http://localhost:4000/user/confirm/" + token;
-
-  // Send an email with the confirmation link
-  const transporter = nodemailer.createTransport({
-    service: "gmail",
-    host: "smtp.gmail.com",
-    port: 587,
-    secure: false, // true for 465, false for other ports
-    auth: {
-      user: process.env.EMAIL, // generated ethereal user
-      pass: process.env.EMAIL_PASS, // generated ethereal password
-    },
-  });
-  const mailOptions = {
-    from: process.env.EMAIL,
-    to: user.email,
-    subject: "Please confirm your email.",
-    text: `Click this link to confirm your email: ${link}`,
-  };
-  transporter.sendMail(mailOptions, (err, data) => {
-    if (err) {
-      console.log(err);
-    }
-    console.log("Email sent!");
-  });
+  sendConfirmationEmail(user.email);
 
   try {
     const savedUser = await user.save();
@@ -77,6 +51,11 @@ router.post("/login", async (req, res) => {
   const validPass = await bcrypt.compare(req.body.password, user.password);
   if (!validPass) return res.status(400).send("Email or password is wrong");
 
+  if (!user.emailConfirmed)
+    return res
+      .status(400)
+      .send("The email for this account has not been confirmed.");
+
   // Create and assign a token
   const token = jwt.sign({ _id: user._id }, process.env.TOKEN_SECRET);
   res.header("auth-token", token).send(token);
@@ -86,9 +65,9 @@ router.post("/login", async (req, res) => {
 router.post("/confirm/:token", async (req, res) => {
   const token = req.params.token;
   const verified = jwt.verify(token, process.env.TOKEN_SECRET);
-  const userName = verified.name;
+  const userEmail = verified.email;
 
-  const user = await User.findOne({ name: userName });
+  const user = await User.findOne({ email: userEmail });
   if (!user)
     return res.status(400).send("No user matching this confirmation token.");
 
@@ -106,5 +85,50 @@ router.post("/confirm/:token", async (req, res) => {
     res.status(400).send(err);
   }
 });
+
+// RESEND CONFIRMATION EMAIL
+router.post("/resend/:email", async (req, res) => {
+  const user = await User.findOne({ email: req.params.email });
+  if (!user)
+    return res.status(400).send("No user matching this confirmation token.");
+
+  if (user.emailConfirmed)
+    return res
+      .status(400)
+      .send("This user's email has already been confirmed.");
+
+  sendConfirmationEmail(user.email);
+  res.status(200).send("Resent confirmation email.");
+});
+
+const sendConfirmationEmail = (to) => {
+  // Create confirmation link that we can email the user
+  const token = jwt.sign({ email: to }, process.env.TOKEN_SECRET);
+  const link = "http://localhost:4000/user/confirm/" + token;
+
+  // Send an email with the confirmation link
+  const transporter = nodemailer.createTransport({
+    service: "gmail",
+    host: "smtp.gmail.com",
+    port: 587,
+    secure: false, // true for 465, false for other ports
+    auth: {
+      user: process.env.EMAIL, // generated ethereal user
+      pass: process.env.EMAIL_PASS, // generated ethereal password
+    },
+  });
+  const mailOptions = {
+    from: process.env.EMAIL,
+    to: to,
+    subject: "Please confirm your email.",
+    text: `Click this link to confirm your email: ${link}`,
+  };
+  transporter.sendMail(mailOptions, (err, data) => {
+    if (err) {
+      console.log(err);
+    }
+    console.log("Email sent!");
+  });
+};
 
 module.exports = router;
