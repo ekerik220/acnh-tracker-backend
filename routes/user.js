@@ -3,7 +3,7 @@ const User = require("../models/User");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
 const { registerValidation, loginValidation } = require("../validation");
-const verify = require("./verifytoken");
+const verify = require("../middlewares/verifytoken");
 
 // REGISTER A USER
 router.post("/register", async (req, res) => {

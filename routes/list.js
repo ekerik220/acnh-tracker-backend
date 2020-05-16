@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const User = require("../models/User");
-const verify = require("./verifytoken");
+const verify = require("../middlewares/verifytoken");
 
 // ADD ITEM TO USER'S LIST
 // header: "auth-token" = user's jwt-token
