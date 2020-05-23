@@ -1,1234 +1,1389 @@
 const data = [
-  [
-    {
-      name: "apple umbrella",
-      diy: "Yes",
-      buy: 5600,
-      sell: 1400,
-      color1: "Yellow",
-      color2: "Red",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaApple0",
-      internalId: 9948,
-      uniqueEntryId: "FPxdw28z9s2gYgjmr",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "bat umbrella",
-      diy: "No",
-      buy: 840,
-      sell: 210,
-      color1: "Black",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaBat0",
-      internalId: 6919,
-      uniqueEntryId: "EZnRx49foq3M36yQ4",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "beach umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Blue",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaBeach0",
-      internalId: 9957,
-      uniqueEntryId: "3SSFuv6LiH63jych3",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "bear umbrella",
-      diy: "No",
-      buy: 1570,
-      sell: 392,
-      color1: "Brown",
-      color2: "Beige",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaBear0",
-      internalId: 7167,
-      uniqueEntryId: "s7KoPpysn27AeC5zi",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "black chic umbrella",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Black",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace5",
-      internalId: 12137,
-      uniqueEntryId: "p8yg9xiFwPscNDJNg",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "black lace umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Black",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaRace0",
-      internalId: 6915,
-      uniqueEntryId: "7vuSb5AutpNQA573q",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "blue dot parasol",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Blue",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPolkadot2",
-      internalId: 9956,
-      uniqueEntryId: "SwKuBi2vT7K365A3p",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "blue shiny-bows parasol",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Blue",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace2",
-      internalId: 12134,
-      uniqueEntryId: "BxZ4XdtfJEyWyBPFe",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "blue umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Blue",
-      color2: "Blue",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaStandard2",
-      internalId: 9959,
-      uniqueEntryId: "XyJaqSLnBjh5J6vLp",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "busted umbrella",
-      diy: "No",
-      buy: 1570,
-      sell: 392,
-      color1: "Black",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaBroken0",
-      internalId: 7182,
-      uniqueEntryId: "gkHD9GKJT9eAekxWQ",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "camo umbrella",
-      diy: "No",
-      buy: 650,
-      sell: 162,
-      color1: "Green",
-      color2: "Beige",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaOutdoor0",
-      internalId: 6923,
-      uniqueEntryId: "RJYB5itM7mDdtWHpv",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "candy umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Pink",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaGingham0",
-      internalId: 6926,
-      uniqueEntryId: "F6KFg5Yhzgf78pudR",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "cherry umbrella",
-      diy: "Yes",
-      buy: 5600,
-      sell: 1400,
-      color1: "Red",
-      color2: "Red",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaCherry0",
-      internalId: 9949,
-      uniqueEntryId: "YwHY3LQXsDeM2iosy",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "cherry-blossom umbrella",
-      diy: "Yes",
-      buy: 11200,
-      sell: 2800,
-      color1: "Pink",
-      color2: "Green",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaCherryblossom0",
-      internalId: 9945,
-      uniqueEntryId: "vTu5kLPipRb69vJA3",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "DAL umbrella",
-      diy: "No",
-      buy: 4040,
-      sell: 1010,
-      color1: "Blue",
-      color2: "Blue",
-      size: "1x1",
-      source: "Dodo Airlines",
-      sourceNotes:
-        "Received in mail from DAL after taking certain numbers of flights",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaDoc0",
-      internalId: 9560,
-      uniqueEntryId: "vTdEjywjFjr8AkePD",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "eggy parasol",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Yellow",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPolkadot1",
-      internalId: 9955,
-      uniqueEntryId: "qf7Hn5CKMDMBpge9r",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "exquisite parasol",
-      diy: "No",
-      buy: 1670,
-      sell: 417,
-      color1: "Yellow",
-      color2: "Pink",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaChina0",
-      internalId: 7171,
-      uniqueEntryId: "tFFuizXunsrHcMbEj",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "fairy-tale umbrella",
-      diy: "No",
-      buy: 820,
-      sell: 205,
-      color1: "Green",
-      color2: "Yellow",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaFairytale0",
-      internalId: 7175,
-      uniqueEntryId: "xKBGNFJd2qpWeDWjo",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "fish umbrella",
-      diy: "No",
-      buy: 320,
-      sell: 80,
-      color1: "Blue",
-      color2: "Light blue",
-      size: "1x1",
-      source: "Fishing Tourney",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaFish0",
-      internalId: 8768,
-      uniqueEntryId: "bvwaqJav8wmjPj2RC",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "frog umbrella",
-      diy: "No",
-      buy: 1570,
-      sell: 392,
-      color1: "Green",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaFrog0",
-      internalId: 6925,
-      uniqueEntryId: "nDBiFvLtf5KeStQNv",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "gelato umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Colorful",
-      color2: "Colorful",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaTricolor0",
-      internalId: 7180,
-      uniqueEntryId: "tupHZa6zDdFvobTEt",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "ghost umbrella",
-      diy: "No",
-      buy: 1670,
-      sell: 417,
-      color1: "White",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaTeruteru0",
-      internalId: 6924,
-      uniqueEntryId: "83zEbSL3S3dty4YjN",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "grape umbrella",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "Purple",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaGrape0",
-      internalId: 6911,
-      uniqueEntryId: "TJ9cw4XSj64u3uEsx",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "green chic umbrella",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Green",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace4",
-      internalId: 12136,
-      uniqueEntryId: "u2YWae8oz23XcT4u9",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "green umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Green",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaStandard3",
-      internalId: 9960,
-      uniqueEntryId: "8Hf4oRy3cQdundDJK",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "hydrangea umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Light blue",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaHydrangea0",
-      internalId: 6906,
-      uniqueEntryId: "dmFbrs5ALCJG4KpzB",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "kabuki umbrella",
-      diy: "No",
-      buy: 1670,
-      sell: 417,
-      color1: "Purple",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaKabuki0",
-      internalId: 7177,
-      uniqueEntryId: "QenZWqPCSZr9ZCrRh",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "kiwi umbrella",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "Green",
-      color2: "Brown",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaKiwi0",
-      internalId: 6908,
-      uniqueEntryId: "R9WBMjgoqLwiR3h76",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "lacy parasol",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "White",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaLace0",
-      internalId: 9946,
-      uniqueEntryId: "8ND7Jkfb2fxLJaR7n",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "ladybug umbrella",
-      diy: "No",
-      buy: 320,
-      sell: 80,
-      color1: "Red",
-      color2: "Black",
-      size: "1x1",
-      source: "Bug-Off",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaLadybug0",
-      internalId: 8767,
-      uniqueEntryId: "rHNt3mx5hEEDRSRiD",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "leaf umbrella",
-      diy: "Yes",
-      buy: 1200,
-      sell: 300,
-      color1: "Green",
-      color2: "Green",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaLeaf0",
-      internalId: 6840,
-      uniqueEntryId: "ZpYcNAofgCtnPfLj5",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "lemon umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Yellow",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaGingham4",
-      internalId: 9954,
-      uniqueEntryId: "yKb3LfnWDwptRPAWK",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "logo umbrella",
-      diy: "No",
-      buy: 650,
-      sell: 162,
-      color1: "Blue",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaLogo0",
-      internalId: 7172,
-      uniqueEntryId: "sFtYCcv9wy78ujaZr",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "maple-leaf umbrella",
-      diy: "Yes",
-      buy: 11200,
-      sell: 2800,
-      color1: "Orange",
-      color2: "Orange",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaAutumn0",
-      internalId: 7169,
-      uniqueEntryId: "b5gL4xdKJPZPjhYZM",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "melon umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Green",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaGingham1",
-      internalId: 9951,
-      uniqueEntryId: "oFFjNfN2G5BxasAem",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "mini-flower-print umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Pink",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaFlorets0",
-      internalId: 6914,
-      uniqueEntryId: "G9dRhHQxBzYJB5mmE",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "mint umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Brown",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaGingham2",
-      internalId: 9952,
-      uniqueEntryId: "F6fPRcpqGqhQ5oq7F",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "mush umbrella",
-      diy: "Yes",
-      buy: 4800,
-      sell: 1200,
-      color1: "Brown",
-      color2: "Beige",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaMushroom0",
-      internalId: 7174,
-      uniqueEntryId: "LLSQNPiMBWXXdTYFo",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "Nook Inc. umbrella",
-      diy: "No",
-      buy: 14000,
-      sell: 3500,
-      color1: "Green",
-      color2: "White",
-      size: "1x1",
-      source: "Nook Miles Shop",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaRco0",
-      internalId: 9561,
-      uniqueEntryId: "GX9s8tDymkHYHztY3",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "orange umbrella",
-      diy: "Yes",
-      buy: 5600,
-      sell: 1400,
-      color1: "Orange",
-      color2: "Yellow",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaOrange0",
-      internalId: 6912,
-      uniqueEntryId: "ovb5ZxHTXJtBWQQxF",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "panda umbrella",
-      diy: "No",
-      buy: 1570,
-      sell: 392,
-      color1: "White",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPanda0",
-      internalId: 7170,
-      uniqueEntryId: "AJkrWywbkBfFpke5b",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "paper parasol",
-      diy: "No",
-      buy: 870,
-      sell: 217,
-      color1: "Brown",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaBangasa0",
-      internalId: 7178,
-      uniqueEntryId: "Brvfu2wmEsgfpsfe6",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "patterned vinyl umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "White",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaBoundary0",
-      internalId: 6918,
-      uniqueEntryId: "KzFYhiwG4WmgGuewi",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "peach umbrella",
-      diy: "Yes",
-      buy: 5600,
-      sell: 1400,
-      color1: "Pink",
-      color2: "Green",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaPeach0",
-      internalId: 9947,
-      uniqueEntryId: "e7KPGj99m2g9dvYfe",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "pear umbrella",
-      diy: "Yes",
-      buy: 5600,
-      sell: 1400,
-      color1: "Yellow",
-      color2: "Green",
-      size: "1x1",
-      source: "Crafting",
-      version: "1.0.0",
-      catalog: "Not for sale",
-      filename: "UmbrellaPear0",
-      internalId: 9950,
-      uniqueEntryId: "2kKFs5wG5ioHGbGda",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "petal parasol",
-      diy: "No",
-      buy: 1590,
-      sell: 397,
-      color1: "White",
-      color2: "Yellow",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaMargaret0",
-      internalId: 7181,
-      uniqueEntryId: "5qqATjxvMpMHmcDns",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "picnic umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Purple",
-      color2: "Pink",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaGingham3",
-      internalId: 9953,
-      uniqueEntryId: "hvv9Bz2ey3iRvSnAL",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "pineapple umbrella",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "Yellow",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPineapple0",
-      internalId: 6910,
-      uniqueEntryId: "ohMyh5kSBGg8Zayyh",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "pink shiny-bows parasol",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Pink",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace0",
-      internalId: 7176,
-      uniqueEntryId: "PTvmPPNiXMZ4jhBKX",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "pink umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Pink",
-      color2: "Pink",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaSchool0",
-      internalId: 7164,
-      uniqueEntryId: "Cg8DXnxz3AtYJvdPE",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "purple chic umbrella",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Purple",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacoda0",
-      internalId: 7183,
-      uniqueEntryId: "2dXt6F6XwMf346Zbv",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "purple shiny-bows parasol",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Purple",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace1",
-      internalId: 12133,
-      uniqueEntryId: "J6FrqXxBPqGNBs4sC",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "rainbow umbrella",
-      diy: "No",
-      buy: 840,
-      sell: 210,
-      color1: "Colorful",
-      color2: "Colorful",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaRainbow0",
-      internalId: 7179,
-      uniqueEntryId: "P9bMZJY3n2dtooq5X",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "raindrop umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Yellow",
-      color2: "Light blue",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaRain0",
-      internalId: 6913,
-      uniqueEntryId: "Djdj6KiSLh82BHzqB",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "red chic umbrella",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "Red",
-      color2: "Black",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace6",
-      internalId: 12138,
-      uniqueEntryId: "kKoJtAcxMDNKq7tNu",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "red umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Red",
-      color2: "Red",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaStandard1",
-      internalId: 9958,
-      uniqueEntryId: "Z9yCA3wawXdQsbLSs",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "snowflake umbrella",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "Light blue",
-      color2: "Light blue",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaCrystal0",
-      internalId: 6905,
-      uniqueEntryId: "r5RwHucDKWJPg7dkv",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "spider umbrella",
-      diy: "No",
-      buy: 840,
-      sell: 210,
-      color1: "Black",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaSpider0",
-      internalId: 7173,
-      uniqueEntryId: "aaQhimbednGniK4NF",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "strawberry umbrella",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "Pink",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaStrawberry0",
-      internalId: 6907,
-      uniqueEntryId: "kKQHooYToACDqoqBm",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "striped umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Gray",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaStripe0",
-      internalId: 6916,
-      uniqueEntryId: "hF2THDnHbEJWTDT8L",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "sunny parasol",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Yellow",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaSunflower0",
-      internalId: 6904,
-      uniqueEntryId: "thr45xserbQqAm6o4",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "tartan-check umbrella",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Red",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPlaid0",
-      internalId: 6917,
-      uniqueEntryId: "HjZzRQKbMdXBKYawe",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "Toad parasol",
-      diy: "No",
-      buy: 750,
-      sell: 187,
-      color1: "Red",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPolkadotRed",
-      internalId: 5861,
-      uniqueEntryId: "HnmPeaovKNwg7ZuBL",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "two-tone umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "Red",
-      color2: "Yellow",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaTwocolor0",
-      internalId: 7166,
-      uniqueEntryId: "Da4xWXq9D2RFLnyYj",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "vinyl umbrella",
-      diy: "No",
-      buy: 770,
-      sell: 192,
-      color1: "White",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaVinyl0",
-      internalId: 7165,
-      uniqueEntryId: "q4Eo8vxPLFCL4ppac",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "watermelon umbrella",
-      diy: "No",
-      buy: 1550,
-      sell: 387,
-      color1: "Red",
-      color2: "Green",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaWater0",
-      internalId: 6909,
-      uniqueEntryId: "JTchAPvto4vHBJANw",
-      "item-type": "umbrellas",
-    },
-  ],
-  [
-    {
-      name: "white shiny-bows parasol",
-      diy: "No",
-      buy: 1620,
-      sell: 405,
-      color1: "White",
-      color2: "White",
-      size: "1x1",
-      source: "Nook's Cranny",
-      sourceNotes: "Available in Nook's Cranny (upgraded only)",
-      version: "1.0.0",
-      catalog: "For sale",
-      filename: "UmbrellaPacodarace3",
-      internalId: 12135,
-      uniqueEntryId: "4btSNLBHRoocAXfgE",
-      "item-type": "umbrellas",
-    },
-  ],
+  {
+    "name": "apple umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaApple0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 5600,
+    "sell": 1400,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "bat umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaBat0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 840,
+    "sell": 210,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "beach umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaBeach0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "bear umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaBear0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1570,
+    "sell": 392,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "black chic umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacodarace5"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "black lace umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaRace0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "blue dot parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPolkadot2"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "blue shiny-bows parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacodarace2"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "blue umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaStandard2"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "busted umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaBroken0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1570,
+    "sell": 392,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "camo umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaOutdoor0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 650,
+    "sell": 162,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "candy umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaGingham0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "cherry umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaCherry0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 5600,
+    "sell": 1400,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "cherry-blossom umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaCherryblossom0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 11200,
+    "sell": 2800,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "DAL umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaDoc0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 4040,
+    "sell": 1010,
+    "size": "1x1",
+    "source": "Dodo Airlines",
+    "sourceNotes": "Received in mail from DAL after taking certain numbers of flights",
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "eggy parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPolkadot1"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "exquisite parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaChina0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1670,
+    "sell": 417,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "fairy-tale umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaFairytale0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 820,
+    "sell": 205,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "fish umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaFish0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 320,
+    "sell": 80,
+    "size": "1x1",
+    "source": "Fishing Tourney",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "frog umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaFrog0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1570,
+    "sell": 392,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "gelato umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaTricolor0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "ghost umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaTeruteru0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1670,
+    "sell": 417,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "grape umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaGrape0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "green chic umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacodarace4"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "green umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaStandard3"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "hydrangea umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaHydrangea0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "kabuki umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaKabuki0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1670,
+    "sell": 417,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "kiwi umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaKiwi0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "lacy parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaLace0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "ladybug umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaLadybug0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 320,
+    "sell": 80,
+    "size": "1x1",
+    "source": "Bug-Off",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "leaf umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaLeaf0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1200,
+    "sell": 300,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "lemon umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaGingham4"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "logo umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaLogo0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 650,
+    "sell": 162,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "maple-leaf umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaAutumn0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 11200,
+    "sell": 2800,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "melon umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaGingham1"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "mini-flower-print umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaFlorets0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "mint umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaGingham2"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "mush umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaMushroom0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 4800,
+    "sell": 1200,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "Nook Inc. umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaRco0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 14000,
+    "sell": 3500,
+    "size": "1x1",
+    "source": "Nook Miles Shop",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "orange umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaOrange0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 5600,
+    "sell": 1400,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "panda umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPanda0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1570,
+    "sell": 392,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "paper parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaBangasa0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 870,
+    "sell": 217,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "patterned vinyl umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaBoundary0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "peach umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPeach0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 5600,
+    "sell": 1400,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "pear umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPear0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 5600,
+    "sell": 1400,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "Not for sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "petal parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaMargaret0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1590,
+    "sell": 397,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "picnic umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaGingham3"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "pineapple umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPineapple0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "pink shiny-bows parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacodarace0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "pink umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaSchool0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "purple chic umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacoda0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "purple shiny-bows parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacodarace1"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "rainbow umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaRainbow0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 840,
+    "sell": 210,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "raindrop umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaRain0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "red chic umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPacodarace6"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1620,
+    "sell": 405,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "red umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaStandard1"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "snowflake umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaCrystal0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "spider umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaSpider0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 840,
+    "sell": 210,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "strawberry umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaStrawberry0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "striped umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaStripe0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "sunny parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaSunflower0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "tartan-check umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPlaid0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "Toad parasol",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaPolkadotRed"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 750,
+    "sell": 187,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "two-tone umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaTwocolor0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "vinyl umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaVinyl0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 770,
+    "sell": 192,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  },
+  {
+    "name": "watermelon umbrella",
+    "variations": [
+      {
+        "name": null,
+        "img": "UmbrellaWater0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1550,
+    "sell": 387,
+    "size": "1x1",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only)",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "umbrellas"
+  }
 ];
 module.exports = data;

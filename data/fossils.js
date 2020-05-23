@@ -1,1390 +1,1515 @@
 const data = [
-  [
-    {
-      name: "acanthostega",
-      buy: "NFS",
-      sell: 2000,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilFirstFourLegs",
-      internalId: 4664,
-      uniqueEntryId: "LQkRP3kBn3T2jBboF",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "amber",
-      buy: "NFS",
-      sell: 1200,
-      color1: "Yellow",
-      color2: "Yellow",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAmber",
-      internalId: 294,
-      uniqueEntryId: "ANAhATcHWvAGEhRnt",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ammonite",
-      buy: "NFS",
-      sell: 1100,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAmmonoidea",
-      internalId: 295,
-      uniqueEntryId: "ojNKnr4YRrmPi2gPo",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ankylo skull",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAnkylosaurusA",
-      internalId: 169,
-      uniqueEntryId: "QQjxKmQ8Aac9cSoM2",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ankylo tail",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAnkylosaurusC",
-      internalId: 171,
-      uniqueEntryId: "wLWBm2R727RC3qSL2",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ankylo torso",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAnkylosaurusB",
-      internalId: 170,
-      uniqueEntryId: "5QNzf5buPckabN6cR",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "anomalocaris",
-      buy: "NFS",
-      sell: 2000,
-      color1: "Black",
-      color2: "Gray",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAnomalocaris",
-      internalId: 4651,
-      uniqueEntryId: "TYX964LM2tNZ3SYKC",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "archaeopteryx",
-      buy: "NFS",
-      sell: 1300,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilArchaeopteryx",
-      internalId: 298,
-      uniqueEntryId: "ky9pkmc2fmK9thuFH",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "archelon skull",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilArchelonA",
-      internalId: 177,
-      uniqueEntryId: "cYZhXfyNiqZy2hgeM",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "archelon tail",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilArchelonB",
-      internalId: 178,
-      uniqueEntryId: "CtosFxKjG5nzLGi4t",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "australopith",
-      buy: "NFS",
-      sell: 1100,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilAustralopithecus",
-      internalId: 301,
-      uniqueEntryId: "vE5WQNHepjDb36K6g",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "brachio chest",
-      buy: "NFS",
-      sell: 5500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrachiosaurusB",
-      internalId: 4689,
-      uniqueEntryId: "FykMyEnM2Xhzd54x8",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "brachio pelvis",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrachiosaurusC",
-      internalId: 4690,
-      uniqueEntryId: "5zCdNszyap3Gs7hZY",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "brachio skull",
-      buy: "NFS",
-      sell: 6000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrachiosaurusA",
-      internalId: 4688,
-      uniqueEntryId: "bECfoiR8RoGTXmqCL",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "brachio tail",
-      buy: "NFS",
-      sell: 5500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrachiosaurusD",
-      internalId: 4691,
-      uniqueEntryId: "RTtavecsrgWSGLm7C",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "coprolite",
-      buy: "NFS",
-      sell: 1100,
-      color1: "Brown",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilCoprolite",
-      internalId: 296,
-      uniqueEntryId: "hKbRzACFb4D24W8HJ",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "deinony tail",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDeinonychusB",
-      internalId: 211,
-      uniqueEntryId: "e3NuAF5y9iv7J52Sv",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "deinony torso",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDeinonychusA",
-      internalId: 210,
-      uniqueEntryId: "NSe8AQvNigyZqmLzo",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "dimetrodon skull",
-      buy: "NFS",
-      sell: 5500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDimetrodonA",
-      internalId: 184,
-      uniqueEntryId: "sEuSt7ycajTAqSzKg",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "dimetrodon torso",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDimetrodonB",
-      internalId: 185,
-      uniqueEntryId: "LcbJqY3JzLcQRoPGT",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "dinosaur track",
-      buy: "NFS",
-      sell: 1000,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilIchnology",
-      internalId: 300,
-      uniqueEntryId: "fJWu7dHhZuKxjRwTy",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "diplo chest",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDiplodocusC",
-      internalId: 218,
-      uniqueEntryId: "ZYuR9spddLgaZawiY",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "diplo neck",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDiplodocusB",
-      internalId: 217,
-      uniqueEntryId: "odxoEbLSduTmarKkm",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "diplo pelvis",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDiplodocusD",
-      internalId: 219,
-      uniqueEntryId: "kLYuD5QgNqfKJPfj7",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "diplo skull",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDiplodocusA",
-      internalId: 216,
-      uniqueEntryId: "n6cAybPhTSykws3Mb",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "diplo tail",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDiplodocusE",
-      internalId: 220,
-      uniqueEntryId: "iKsrdn2aAxSfe83qZ",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "diplo tail tip",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDiplodocusF",
-      internalId: 7251,
-      uniqueEntryId: "a2r3s8t7bg4uZvdSy",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "dunkleosteus",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Gray",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilDunkleosteus",
-      internalId: 4660,
-      uniqueEntryId: "AtCoTAfo9bKFiGzFD",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "eusthenopteron",
-      buy: "NFS",
-      sell: 2000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilFirstAmphibian",
-      internalId: 4663,
-      uniqueEntryId: "BHhdGwq7YeZuHmkEW",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "iguanodon skull",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilIguanodonA",
-      internalId: 188,
-      uniqueEntryId: "pDn2iASHjo7yWKE3k",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "iguanodon tail",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilIguanodonC",
-      internalId: 190,
-      uniqueEntryId: "GL2CuJXa4gYb4E4cE",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "iguanodon torso",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilIguanodonB",
-      internalId: 189,
-      uniqueEntryId: "dJRCXccvviu6chWyK",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "juramaia",
-      buy: "NFS",
-      sell: 1500,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilFirstMammal",
-      internalId: 4665,
-      uniqueEntryId: "Ch68dGRXX2mu7ABgC",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "left megalo side",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Beige",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilMegalocerosB",
-      internalId: 4659,
-      uniqueEntryId: "7YzSLZWsjXQNp5xRY",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "left ptera wing",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilPteranodonC",
-      internalId: 208,
-      uniqueEntryId: "GJtNP9DjAFjGQdMPN",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "left quetzal wing",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilQuetzalcoatlusC",
-      internalId: 4699,
-      uniqueEntryId: "rS4iizyMDxN4yizLT",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "mammoth skull",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Beige",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilMammothA",
-      internalId: 195,
-      uniqueEntryId: "96CTubnHfYqmHyd3s",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "mammoth torso",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Beige",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilMammothB",
-      internalId: 196,
-      uniqueEntryId: "hT68CXm4z8LreXqWS",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "megacero skull",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrontotheriumA",
-      internalId: 180,
-      uniqueEntryId: "8CF9fvWstP6cWRbRD",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "megacero tail",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrontotheriumC",
-      internalId: 182,
-      uniqueEntryId: "NQcfdw5y6fokTPNGs",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "megacero torso",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilBrontotheriumB",
-      internalId: 181,
-      uniqueEntryId: "NcbHKXp9gq6Y96Wtw",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "myllokunmingia",
-      buy: "NFS",
-      sell: 1500,
-      color1: "Gray",
-      color2: "Gray",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilFirstFish",
-      internalId: 4662,
-      uniqueEntryId: "XjLHtDMYXqwjZd4wT",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ophthalmo skull",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilOphthalmosaurusA",
-      internalId: 192,
-      uniqueEntryId: "Sq6yQQ6EH2AMqQo2A",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ophthalmo torso",
-      buy: "NFS",
-      sell: 2000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilOphthalmosaurusB",
-      internalId: 193,
-      uniqueEntryId: "8tzwNNwbSKAeWAzfP",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "pachy skull",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "Yes",
-      catalog: "Not for sale",
-      filename: "FtrFossilPachycephalosaurusA",
-      internalId: 198,
-      uniqueEntryId: "tgNyyjMaE9GbzMJzQ",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "pachy tail",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilPachycephalosaurusB",
-      internalId: 199,
-      uniqueEntryId: "assKMf95bhB6pe3PM",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "parasaur skull",
-      buy: "NFS",
-      sell: 3500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilParasaurolophusA",
-      internalId: 202,
-      uniqueEntryId: "6xAZRPKhHNNQLofoE",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "parasaur tail",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilParasaurolophusC",
-      internalId: 204,
-      uniqueEntryId: "fEFd7AbLQpNwkzC8a",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "parasaur torso",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilParasaurolophusB",
-      internalId: 203,
-      uniqueEntryId: "GgX3Tdgzmf4hjguGF",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "plesio body",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilElasmosaurusB",
-      internalId: 235,
-      uniqueEntryId: "jbfiPhmAcserk23rm",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "plesio skull",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilElasmosaurusA",
-      internalId: 234,
-      uniqueEntryId: "ioAEHvPecRoCBLJsK",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "plesio tail",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilElasmosaurusC",
-      internalId: 236,
-      uniqueEntryId: "7dLqS33KYzWRFvkde",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "ptera body",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilPteranodonA",
-      internalId: 206,
-      uniqueEntryId: "6oAjXjSy7DqrbifKT",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "quetzal torso",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilQuetzalcoatlusA",
-      internalId: 4697,
-      uniqueEntryId: "SoS8Q55cyTsEyqeZi",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "right megalo side",
-      buy: "NFS",
-      sell: 5500,
-      color1: "Beige",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilMegalocerosA",
-      internalId: 4658,
-      uniqueEntryId: "6qFWqu3vKF9SuPjRE",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "right ptera wing",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilPteranodonB",
-      internalId: 207,
-      uniqueEntryId: "z45jBDDaRufwQkiEf",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "right quetzal wing",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilQuetzalcoatlusB",
-      internalId: 4698,
-      uniqueEntryId: "aAXrsXuY5cTjq4yKi",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "sabertooth skull",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilSmilodonA",
-      internalId: 213,
-      uniqueEntryId: "4xkrLpphWXubgtRPw",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "sabertooth tail",
-      buy: "NFS",
-      sell: 2000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 3",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilSmilodonB",
-      internalId: 214,
-      uniqueEntryId: "iXfTo3dxakDrLZxnv",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "shark-tooth pattern",
-      buy: "NFS",
-      sell: 1000,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilShark",
-      internalId: 302,
-      uniqueEntryId: "yKE5xwKL9EeCJdN4D",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "spino skull",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "Yes",
-      catalog: "Not for sale",
-      filename: "FtrFossilSpinosaurusA",
-      internalId: 222,
-      uniqueEntryId: "qbzMLGPcJWikeTWAG",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "spino tail",
-      buy: "NFS",
-      sell: 2500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilSpinosaurusC",
-      internalId: 224,
-      uniqueEntryId: "7gnFZgeb6qq6K34Tb",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "spino torso",
-      buy: "NFS",
-      sell: 3000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilSpinosaurusB",
-      internalId: 223,
-      uniqueEntryId: "Ap8LgQD6Ht4dryTjk",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "stego skull",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilStegosaurusA",
-      internalId: 226,
-      uniqueEntryId: "DqsxWDoY5Mue6eQxg",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "stego tail",
-      buy: "NFS",
-      sell: 4000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilStegosaurusC",
-      internalId: 228,
-      uniqueEntryId: "DQgfeZCeApGKBazBL",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "stego torso",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilStegosaurusB",
-      internalId: 227,
-      uniqueEntryId: "Lv7ChzGsofd3qEjDL",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "T. rex skull",
-      buy: "NFS",
-      sell: 6000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "Yes",
-      catalog: "Not for sale",
-      filename: "FtrFossilTRexA",
-      internalId: 238,
-      uniqueEntryId: "9DunYGEb3QhJLwpPu",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "T. rex tail",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilTRexC",
-      internalId: 240,
-      uniqueEntryId: "AfeJAEkmJCdgtMrWj",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "T. rex torso",
-      buy: "NFS",
-      sell: 5500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilTRexB",
-      internalId: 239,
-      uniqueEntryId: "q9voJCHs9X5b32TWf",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "tricera skull",
-      buy: "NFS",
-      sell: 5500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "Yes",
-      catalog: "Not for sale",
-      filename: "FtrFossilTriceratopsA",
-      internalId: 242,
-      uniqueEntryId: "ueCYTncJDsf2RYJYx",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "tricera tail",
-      buy: "NFS",
-      sell: 4500,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilTriceratopsC",
-      internalId: 244,
-      uniqueEntryId: "TXbdqeAkhjtqBJAWC",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "tricera torso",
-      buy: "NFS",
-      sell: 5000,
-      color1: "Brown",
-      color2: "Brown",
-      size: "2x2",
-      source: "Dig spot",
-      museum: "Room 2",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilTriceratopsB",
-      internalId: 243,
-      uniqueEntryId: "s2EGQuuStMSwFdT8y",
-      "item-type": "fossils",
-    },
-  ],
-  [
-    {
-      name: "trilobite",
-      buy: "NFS",
-      sell: 1300,
-      color1: "Beige",
-      color2: "Brown",
-      size: "1x1",
-      source: "Dig spot",
-      museum: "Room 1",
-      version: "1.0.0",
-      interact: "No",
-      catalog: "Not for sale",
-      filename: "FtrFossilTrilobite",
-      internalId: 303,
-      uniqueEntryId: "qFoqCvDTBd2oyC5Gz",
-      "item-type": "fossils",
-    },
-  ],
+  {
+    "name": "acanthostega",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilFirstFourLegs"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2000,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "amber",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAmber"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1200,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ammonite",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAmmonoidea"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1100,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ankylo skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAnkylosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ankylo tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAnkylosaurusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ankylo torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAnkylosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "anomalocaris",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAnomalocaris"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2000,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "archaeopteryx",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilArchaeopteryx"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1300,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "archelon skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilArchelonA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "archelon tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilArchelonB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "australopith",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilAustralopithecus"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1100,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "brachio chest",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrachiosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "brachio pelvis",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrachiosaurusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "brachio skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrachiosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 6000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "brachio tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrachiosaurusD"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "coprolite",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilCoprolite"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1100,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "deinony tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDeinonychusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "deinony torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDeinonychusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "dimetrodon skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDimetrodonA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "dimetrodon torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDimetrodonB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "dinosaur track",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilIchnology"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1000,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "diplo chest",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDiplodocusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "diplo neck",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDiplodocusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "diplo pelvis",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDiplodocusD"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "diplo skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDiplodocusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "diplo tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDiplodocusE"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "diplo tail tip",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDiplodocusF"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "dunkleosteus",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilDunkleosteus"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "eusthenopteron",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilFirstAmphibian"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2000,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "iguanodon skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilIguanodonA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "iguanodon tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilIguanodonC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "iguanodon torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilIguanodonB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "juramaia",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilFirstMammal"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1500,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "left megalo side",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilMegalocerosB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "left ptera wing",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilPteranodonC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "left quetzal wing",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilQuetzalcoatlusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "mammoth skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilMammothA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "mammoth torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilMammothB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "megacero skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrontotheriumA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "megacero tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrontotheriumC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "megacero torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilBrontotheriumB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "myllokunmingia",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilFirstFish"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1500,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ophthalmo skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilOphthalmosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ophthalmo torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilOphthalmosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "pachy skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilPachycephalosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "Yes",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "pachy tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilPachycephalosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "parasaur skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilParasaurolophusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "parasaur tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilParasaurolophusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "parasaur torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilParasaurolophusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "plesio body",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilElasmosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "plesio skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilElasmosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "plesio tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilElasmosaurusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "ptera body",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilPteranodonA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "quetzal torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilQuetzalcoatlusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "right megalo side",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilMegalocerosA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "right ptera wing",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilPteranodonB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "right quetzal wing",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilQuetzalcoatlusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "sabertooth skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilSmilodonA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "sabertooth tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilSmilodonB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "shark-tooth pattern",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilShark"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 1000,
+    "size": "1x1",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "spino skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilSpinosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "Yes",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "spino tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilSpinosaurusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 2500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "spino torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilSpinosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 3000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "stego skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilStegosaurusA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "stego tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilStegosaurusC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "stego torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilStegosaurusB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "T. rex skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilTRexA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 6000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "Yes",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "T. rex tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilTRexC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "T. rex torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilTRexB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "tricera skull",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilTriceratopsA"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "Yes",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "tricera tail",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilTriceratopsC"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  },
+  {
+    "name": "tricera torso",
+    "variations": [
+      {
+        "name": null,
+        "img": "FtrFossilTriceratopsB"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": "NFS",
+    "sell": 5000,
+    "size": "2x2",
+    "source": "Dig spot",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "fossils"
+  }
 ];
 module.exports = data;
