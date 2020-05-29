@@ -1,10 +1,13 @@
 const router = require("express").Router();
-const ITEMS_PER_PAGE = 20;
+// TODO: if we delete 3 functions below we won't need this either.
+//const ITEMS_PER_PAGE = 20;
 
 // DATA
 // Storing the data locally on the backend since asking
 // the DB for it takes about 1.5 seconds. Data is too
-// big to realistically store front end, too.
+// big to realistically store front end when considering
+// mobile devices as well as future plans to increase amount
+// of data.
 const accessories = require("../data/accessories");
 const bags = require("../data/bags");
 const bottoms = require("../data/bottoms");
@@ -42,19 +45,20 @@ const all_data = [].concat(
   wallpaper
 );
 
-// Search by search term (req.query.s), and use pagination (req.query.p)
+// Search by search term (req.query.s)
 router.get("/search", (req, res) => {
-  const data = getDataBySearchTerm(req.query.s, req.query.p);
+  const data = all_data.filter((ele) => ele.name.includes(req.query.s));
   res.send(data);
 });
 
-// GETs desired page (req.query.p) of desired category (req.params.category)
+// GETs desired category (req.params.category)
 router.get("/:category", (req, res) => {
-  const data = getDataByCategory(req.params.category, req.query.p);
+  const data = eval(req.params.category);
   res.send(data);
 });
 
-const getDataBySearchTerm = (searchTerm, pageNumber) => {
+// TODO: Consider removing these functions.
+/*const getDataBySearchTerm = (searchTerm, pageNumber) => {
   const data = all_data.filter((ele) => ele[0].name.includes(searchTerm));
   return paginate(data, pageNumber);
 };
@@ -70,6 +74,6 @@ const paginate = (data, pageNumber) => {
   if (endIndex >= data.length) endIndex = data.length - 1;
   const page = data.slice(startIndex, endIndex);
   return page;
-};
+};*/
 
 module.exports = router;
