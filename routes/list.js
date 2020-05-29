@@ -1,31 +1,55 @@
 const router = require("express").Router();
 const User = require("../models/User");
 const verify = require("../middlewares/verifytoken");
+const { removeItemFromList, addItemToList } = require("../utilities");
 
 // ADD ITEM TO USER'S LIST
 // header: "auth-token" = user's jwt-token
 // body: JSON with item_name, category, variation (optional)
-router.post("/add", verify, async (req, res) => {
+router.post("/addToList", verify, async (req, res) => {
   const user = await User.findOne({ _id: req.user._id });
-  if (!user) return res.status(400).send("No user matching this token.");
+  const userWishList = user.wishList;
+  const userList = user.list;
+  const item = {
+    itemName: req.body.item_name,
+    category: req.body.category,
+    variation: req.body.variation,
+  };
 
-  const matchingIndex = user.list.findIndex(
-    (ele) => ele.item_name === req.body.item_name
-  );
+  if (!user)
+    return res
+      .status(400)
+      .send({ error: "Login session has expired. Please log in again." });
 
-  if (matchingIndex !== -1) {
-    if (!req.body.variation)
-      return res.status(400).send("Item already exists.");
-    if (user.list[matchingIndex].variations.includes(req.body.variation))
-      return res.status(400).send("Variation already exists");
-    user.list[matchingIndex].variations.push(req.body.variation);
-  } else {
-    user.list.push({
-      item_name: req.body.item_name,
-      category: req.body.category,
-      variations: req.body.variation ? [req.body.variation] : [],
-    });
+  removeItemFromList(userWishList, item);
+  addItemToList(userList, item);
+
+  try {
+    const savedUser = await user.save();
+    res.json(savedUser);
+  } catch (err) {
+    res.json({ message: err });
   }
+});
+
+// ADD ITEM TO USER'S WISHLIST
+// header: "auth-token" = user's jwt-token
+// body: JSON with item_name, category, variation (optional)
+router.post("/addToWishList", verify, async (req, res) => {
+  const user = await User.findOne({ _id: req.user._id });
+  const item = {
+    itemName: req.body.item_name,
+    category: req.body.category,
+    variation: req.body.variation,
+  };
+
+  if (!user)
+    return res
+      .status(400)
+      .send({ error: "Login session has expired. Please log in again." });
+
+  removeItemFromList(user.wishList, item);
+  addItemToList(user.list, item);
 
   try {
     const savedUser = await user.save();
@@ -39,29 +63,42 @@ router.post("/add", verify, async (req, res) => {
 // header: "auth-token" = user's jwt-token
 // body: JSON with item_name, category, variation (optional)
 // If variation provided, deletes that variation. If not provided, deletes entire item.
-router.post("/delete", verify, async (req, res) => {
+router.post("/listDelete", verify, async (req, res) => {
   const user = await User.findOne({ _id: req.user._id });
+  const item = {
+    itemName: req.body.item_name,
+    category: req.body.category,
+    variation: req.body.variation,
+  };
+
   if (!user) return res.status(400).send("No user matching this token.");
 
-  const matchingIndex = user.list.findIndex(
-    (ele) => ele.item_name === req.body.item_name
-  );
+  removeItemFromList(user.list, item);
 
-  if (matchingIndex === -1)
-    return res.status(400).send("Cannot delete item that is not in the list.");
-
-  if (!req.body.variation) user.list.splice(matchingIndex, 1);
-  else {
-    const delIndex = user.list[matchingIndex].variations.indexOf(
-      req.body.variation
-    );
-    if (delIndex === -1)
-      return res
-        .status(400)
-        .send("Cannot delete variation that is not in the list");
-
-    user.list[matchingIndex].variations.splice(delIndex, 1);
+  try {
+    const savedUser = await user.save();
+    res.json(savedUser);
+  } catch (err) {
+    res.json({ message: err });
   }
+});
+
+// DELETE ITEM FROM USER'S WISH LIST
+// header: "auth-token" = user's jwt-token
+// body: JSON with item_name, category, variation (optional)
+// If variation provided, deletes that variation. If not provided, deletes entire item.
+router.post("/wishDelete", verify, async (req, res) => {
+  const user = await User.findOne({ _id: req.user._id });
+  const item = {
+    itemName: req.body.item_name,
+    category: req.body.category,
+    variation: req.body.variation,
+  };
+
+  if (!user)
+    return res.status(400).send({ error: "No user matching this token." });
+
+  removeItemFromList(user.wishList, item);
 
   try {
     const savedUser = await user.save();
@@ -79,6 +116,7 @@ router.get("/:userName", async (req, res) => {
   res.json({
     name: user.name,
     list: user.list,
+    wishList: user.wishList,
   });
 });
 
