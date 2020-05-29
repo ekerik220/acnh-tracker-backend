@@ -10,11 +10,28 @@ const nodemailer = require("nodemailer");
 router.post("/register", async (req, res) => {
   // VALIDATE THE INPUT BEFORE SAVING USER
   const { error } = registerValidation(req.body);
-  if (error) return res.status(400).send(error.details[0].message);
+  if (error) return res.status(400).send({ error: error.details[0].message });
 
   // Checking if user is already in the database
   const emailExists = await User.findOne({ email: req.body.email });
-  if (emailExists) return res.status(400).send("Email already exists");
+  const userExists = await User.findOne({ name: req.body.name });
+
+  if (emailExists && userExists) {
+    return res.status(400).send({
+      error:
+        "An account with this email already exists.<br>That user name has already been taken.",
+    });
+  }
+
+  if (emailExists)
+    return res
+      .status(400)
+      .send({ error: "An account with this email already exists." });
+
+  if (userExists)
+    return res
+      .status(400)
+      .send({ error: "That user name has already been taken." });
 
   // Hash the password
   const salt = await bcrypt.genSalt(10);
@@ -33,7 +50,7 @@ router.post("/register", async (req, res) => {
     const savedUser = await user.save();
     res.send({ user: user._id });
   } catch (err) {
-    res.status(400).send(err);
+    res.status(400).send({ error: err });
   }
 });
 
@@ -41,48 +58,55 @@ router.post("/register", async (req, res) => {
 router.post("/login", async (req, res) => {
   // VALIDATE THE INPUT
   const { error } = loginValidation(req.body);
-  if (error) return res.status(400).send(error.details[0].message);
+  if (error) return res.status(400).send({ error: error.details[0].message });
 
   // Checking if email exists
   const user = await User.findOne({ email: req.body.email });
-  if (!user) return res.status(400).send("Email or password is wrong");
+  if (!user)
+    return res.status(400).send({ error: "Email or password is wrong" });
 
-  // PASSWORD IS CORRECT
+  // Check if password is correct
   const validPass = await bcrypt.compare(req.body.password, user.password);
-  if (!validPass) return res.status(400).send("Email or password is wrong");
+  if (!validPass)
+    return res.status(400).send({ error: "Email or password is wrong" });
 
-  if (!user.emailConfirmed)
-    return res
-      .status(400)
-      .send("The email for this account has not been confirmed.");
+  if (!user.emailConfirmed) {
+    sendConfirmationEmail(user.email);
+    return res.status(400).send({
+      error:
+        "The email for this account has not been confirmed. We'll send you a new confirmation email. If you don't see it, please check your spam folder.",
+    });
+  }
 
   // Create and assign a token
   const token = jwt.sign({ _id: user._id }, process.env.TOKEN_SECRET);
-  res.header("auth-token", token).send(token);
+  res.header("auth-token", token).send({ token: token, user: user.name });
 });
 
 // CONFIRM USER EMAIL
 router.post("/confirm/:token", async (req, res) => {
-  const token = req.params.token;
-  const verified = jwt.verify(token, process.env.TOKEN_SECRET);
-  const userEmail = verified.email;
-
-  const user = await User.findOne({ email: userEmail });
-  if (!user)
-    return res.status(400).send("No user matching this confirmation token.");
-
-  if (user.emailConfirmed)
-    return res
-      .status(400)
-      .send("This user's email has already been confirmed.");
-
-  user.emailConfirmed = true;
-
   try {
+    const token = req.params.token;
+    const verified = jwt.verify(token, process.env.TOKEN_SECRET);
+    const userEmail = verified.email;
+
+    const user = await User.findOne({ email: userEmail });
+    if (!user)
+      return res
+        .status(400)
+        .send({ error: "No user matching this confirmation token." });
+
+    if (user.emailConfirmed)
+      return res
+        .status(400)
+        .send({ error: "This user's email has already been confirmed." });
+
+    user.emailConfirmed = true;
+
     const savedUser = await user.save();
     res.send({ user: user._id });
   } catch (err) {
-    res.status(400).send(err);
+    res.status(400).send({ error: "Invalid token." });
   }
 });
 
@@ -90,21 +114,23 @@ router.post("/confirm/:token", async (req, res) => {
 router.post("/resend/:email", async (req, res) => {
   const user = await User.findOne({ email: req.params.email });
   if (!user)
-    return res.status(400).send("No user matching this confirmation token.");
+    return res
+      .status(400)
+      .send({ error: "No user matching this confirmation token." });
 
   if (user.emailConfirmed)
     return res
       .status(400)
-      .send("This user's email has already been confirmed.");
+      .send({ error: "This user's email has already been confirmed." });
 
   sendConfirmationEmail(user.email);
-  res.status(200).send("Resent confirmation email.");
+  res.status(200).send({ message: "Resent confirmation email." });
 });
 
 const sendConfirmationEmail = (to) => {
   // Create confirmation link that we can email the user
   const token = jwt.sign({ email: to }, process.env.TOKEN_SECRET);
-  const link = "http://localhost:4000/user/confirm/" + token;
+  const link = "http://localhost:3000/confirm/" + token;
 
   // Send an email with the confirmation link
   const transporter = nodemailer.createTransport({
