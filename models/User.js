@@ -33,6 +33,16 @@ const userSchema = new mongoose.Schema({
     ],
     default: [],
   },
+  wishList: {
+    type: [
+      {
+        item_name: String,
+        category: String,
+        variations: [String],
+      },
+    ],
+    default: [],
+  },
   emailConfirmed: {
     type: Boolean,
     default: false,
