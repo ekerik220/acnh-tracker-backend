@@ -36,6 +36,7 @@ router.post("/addToList", verify, async (req, res) => {
 // header: "auth-token" = user's jwt-token
 // body: JSON with item_name, category, variation (optional)
 router.post("/addToWishList", verify, async (req, res) => {
+  console.log("1");
   const user = await User.findOne({ _id: req.user._id });
   const item = {
     itemName: req.body.item_name,
