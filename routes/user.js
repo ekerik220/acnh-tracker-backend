@@ -6,6 +6,23 @@ const { registerValidation, loginValidation } = require("../validation");
 const verify = require("../middlewares/verifytoken");
 const nodemailer = require("nodemailer");
 
+// Get user info
+// Expects auth-token in the header
+router.get("/", verify, async (req, res) => {
+  const user = await User.findOne({ _id: req.user._id });
+
+  if (!user)
+    return res
+      .status(400)
+      .send({ error: "Login session has expired. Please log in again." });
+
+  res.send({
+    name: user.name,
+    list: user.list,
+    wishlist: user.wishList,
+  });
+});
+
 // REGISTER A USER
 router.post("/register", async (req, res) => {
   // VALIDATE THE INPUT BEFORE SAVING USER
