@@ -49,8 +49,8 @@ router.post("/addToWishList", verify, async (req, res) => {
       .status(400)
       .send({ error: "Login session has expired. Please log in again." });
 
-  removeItemFromList(user.wishList, item);
-  addItemToList(user.list, item);
+  removeItemFromList(user.list, item);
+  addItemToList(user.wishList, item);
 
   try {
     const savedUser = await user.save();
