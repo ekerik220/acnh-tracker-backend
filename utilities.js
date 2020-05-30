@@ -10,7 +10,8 @@ function removeItemFromList(arr, item) {
     if (variation) {
       const variations = arr[itemIndex].variations;
       const variationIndex = variations.indexOf(variation);
-      variations.splice(variationIndex, 1);
+      if (variationIndex > -1) variations.splice(variationIndex, 1);
+      if (variations.length === 0) arr.splice(itemIndex, 1);
     } else {
       arr.splice(itemIndex, 1);
     }
