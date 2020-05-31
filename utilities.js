@@ -22,6 +22,7 @@ function addItemToList(arr, item) {
   const itemName = item.itemName;
   const variation = item.variation;
   const category = item.category;
+  const variationCount = item.variationCount;
 
   const itemIndex = arr.findIndex((item) => item.item_name === itemName);
   const itemInList = itemIndex > -1;
@@ -35,6 +36,7 @@ function addItemToList(arr, item) {
       item_name: itemName,
       category: category,
       variations: variation ? [variation] : [],
+      variationCount: variationCount,
     });
   }
 }
