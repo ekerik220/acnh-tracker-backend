@@ -51,11 +51,61 @@ router.get("/search", (req, res) => {
   res.send(data);
 });
 
+// GETs the total amount of items/variations for each data type
+router.get("/count", (req, res) => {
+  res.send({
+    all: all_data.length,
+    all_v: totalVariations(all_data),
+    accessories: accessories.length,
+    accessories_v: totalVariations(accessories),
+    housewares: housewares.length,
+    housewares_v: totalVariations(housewares),
+    bags: bags.length,
+    bags_v: totalVariations(bags),
+    bottoms: bottoms.length,
+    bottoms_v: totalVariations(bottoms),
+    dressup: dressup.length,
+    dressup_v: totalVariations(dressup),
+    flooring: flooring.length,
+    flooring_v: totalVariations(flooring),
+    fossils: fossils.length,
+    fossils_v: totalVariations(fossils),
+    headwear: headwear.length,
+    headwear_v: totalVariations(headwear),
+    misc: misc.length,
+    misc_v: totalVariations(misc),
+    music: music.length,
+    music_v: totalVariations(music),
+    rugs: rugs.length,
+    rugs_v: totalVariations(rugs),
+    shoes: shoes.length,
+    shoes_v: totalVariations(shoes),
+    socks: socks.length,
+    socks_v: totalVariations(socks),
+    tops: tops.length,
+    tops_v: totalVariations(tops),
+    umbrellas: umbrellas.length,
+    umbrellas_v: totalVariations(umbrellas),
+    wallmounted: wallmounted.length,
+    wallmounted_v: totalVariations(wallmounted),
+    wallpaper: wallpaper.length,
+    wallpaper_v: totalVariations(wallpaper),
+  });
+});
+
 // GETs desired category (req.params.category)
 router.get("/:category", (req, res) => {
   const data = eval(req.params.category);
   res.send(data);
 });
+
+const totalVariations = (data) => {
+  let count = 0;
+  data.forEach((ele) => {
+    count += ele.variations.length;
+  });
+  return count;
+};
 
 // TODO: Consider removing these functions.
 /*const getDataBySearchTerm = (searchTerm, pageNumber) => {
