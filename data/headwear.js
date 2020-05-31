@@ -73,7 +73,7 @@ const data = [
     "name": "ancient administrator hat",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "CapHatKanboBlack"
       }
     ],
@@ -94,7 +94,7 @@ const data = [
     "name": "apple hat",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapHatApple0"
       }
     ],
@@ -230,7 +230,7 @@ const data = [
     "name": "bamboo hat",
     "variations": [
       {
-        "name": "Beige",
+        "name": "NA",
         "img": "CapHatAjiroBeige"
       }
     ],
@@ -251,7 +251,7 @@ const data = [
     "name": "barrette",
     "variations": [
       {
-        "name": "Pink",
+        "name": "NA",
         "img": "CapOrnamentTBarrette0"
       }
     ],
@@ -498,7 +498,7 @@ const data = [
     "name": "blue rose crown",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "CapOrnamentRose4"
       }
     ],
@@ -556,7 +556,7 @@ const data = [
     "name": "bridal veil",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "CapWigWedding"
       }
     ],
@@ -705,7 +705,7 @@ const data = [
     "name": "captain's hat",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapHatCaptainWhite"
       }
     ],
@@ -821,7 +821,7 @@ const data = [
     "name": "chef's hat",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapHatCockWhite"
       }
     ],
@@ -842,7 +842,7 @@ const data = [
     "name": "cherry hat",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapHatCherry0"
       }
     ],
@@ -863,7 +863,7 @@ const data = [
     "name": "chic mum crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentMum2"
       }
     ],
@@ -884,7 +884,7 @@ const data = [
     "name": "chic rose crown",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "CapOrnamentRose3"
       }
     ],
@@ -905,7 +905,7 @@ const data = [
     "name": "chic tulip crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentTulip2"
       }
     ],
@@ -926,7 +926,7 @@ const data = [
     "name": "coin headpiece",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "CapHelmetCoinGold"
       }
     ],
@@ -1013,7 +1013,7 @@ const data = [
     "name": "composer's wig",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapHelmetMusicBlack"
       }
     ],
@@ -1034,7 +1034,7 @@ const data = [
     "name": "cool hyacinth crown",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "CapOrnamentHyacinth2"
       }
     ],
@@ -1055,7 +1055,7 @@ const data = [
     "name": "cool pansy crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentPansy2"
       }
     ],
@@ -1076,7 +1076,7 @@ const data = [
     "name": "cool windflower crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentAnemone2"
       }
     ],
@@ -1097,7 +1097,7 @@ const data = [
     "name": "cosmos crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentCosmos1"
       }
     ],
@@ -1118,7 +1118,7 @@ const data = [
     "name": "crown",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "CapOrnamentAQueen0"
       }
     ],
@@ -1139,7 +1139,7 @@ const data = [
     "name": "cute lily crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentYuri2"
       }
     ],
@@ -1160,7 +1160,7 @@ const data = [
     "name": "cute rose crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentRose2"
       }
     ],
@@ -1230,7 +1230,7 @@ const data = [
     "name": "DAL cap",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "CapHatDal0"
       }
     ],
@@ -1292,7 +1292,7 @@ const data = [
     "name": "dark cosmos crown",
     "variations": [
       {
-        "name": "Dark red",
+        "name": "NA",
         "img": "CapOrnamentCosmos3"
       }
     ],
@@ -1313,7 +1313,7 @@ const data = [
     "name": "dark lily crown",
     "variations": [
       {
-        "name": "Dark red",
+        "name": "NA",
         "img": "CapOrnamentYuri3"
       }
     ],
@@ -1334,7 +1334,7 @@ const data = [
     "name": "dark tulip crown",
     "variations": [
       {
-        "name": "Dark red",
+        "name": "NA",
         "img": "CapOrnamentTulip3"
       }
     ],
@@ -1524,7 +1524,7 @@ const data = [
     "name": "earth-egg shell",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggground0"
       }
     ],
@@ -1545,7 +1545,7 @@ const data = [
     "name": "egg party hat",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggparty0"
       }
     ],
@@ -1566,7 +1566,7 @@ const data = [
     "name": "eggshell",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapHatEggWhite"
       }
     ],
@@ -1587,7 +1587,7 @@ const data = [
     "name": "elder mask",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapMaskOkinaWhite"
       }
     ],
@@ -2162,7 +2162,7 @@ const data = [
     "name": "glengarry",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "CapHatGreeneryRed"
       }
     ],
@@ -2183,7 +2183,7 @@ const data = [
     "name": "gold helmet",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "CapFullfaceKnightGold"
       }
     ],
@@ -2204,7 +2204,7 @@ const data = [
     "name": "gold rose crown",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "CapOrnamentRose5"
       }
     ],
@@ -2266,7 +2266,7 @@ const data = [
     "name": "grape hat",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "CapHatGrape"
       }
     ],
@@ -2287,7 +2287,7 @@ const data = [
     "name": "halo",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "CapOrnamentAAngel0"
       }
     ],
@@ -2391,7 +2391,7 @@ const data = [
     "name": "headkerchief",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "CapFullfaceHokkamuriGreen"
       }
     ],
@@ -2531,7 +2531,7 @@ const data = [
     "name": "hockey mask",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "AccessoryGlassmouthHockeyWhite"
       }
     ],
@@ -2552,7 +2552,7 @@ const data = [
     "name": "hot-dog hood",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapBangsSausage"
       }
     ],
@@ -2573,7 +2573,7 @@ const data = [
     "name": "hyacinth crown",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapOrnamentHyacinth1"
       }
     ],
@@ -2594,7 +2594,7 @@ const data = [
     "name": "imitation cow skull",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapHatCowWhite"
       }
     ],
@@ -2776,7 +2776,7 @@ const data = [
     "name": "kiwi hat",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "CapHatKiwi"
       }
     ],
@@ -2797,7 +2797,7 @@ const data = [
     "name": "knight's helmet",
     "variations": [
       {
-        "name": "Gray",
+        "name": "NA",
         "img": "CapFullfaceKnightIron"
       }
     ],
@@ -2994,7 +2994,7 @@ const data = [
     "name": "leaf mask",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "CapMaskLeaf0"
       }
     ],
@@ -3015,7 +3015,7 @@ const data = [
     "name": "leaf-egg shell",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggleaf0"
       }
     ],
@@ -3065,7 +3065,7 @@ const data = [
     "name": "lily crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentYuri1"
       }
     ],
@@ -3086,7 +3086,7 @@ const data = [
     "name": "lovely cosmos crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentCosmos2"
       }
     ],
@@ -3169,7 +3169,7 @@ const data = [
     "name": "matronly bun",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapWigOnionhair"
       }
     ],
@@ -3235,7 +3235,7 @@ const data = [
     "name": "milkmaid hat",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapBangsVolendamWhite"
       }
     ],
@@ -3256,7 +3256,7 @@ const data = [
     "name": "mohawk wig",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapWigMohican"
       }
     ],
@@ -3277,7 +3277,7 @@ const data = [
     "name": "mum crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentMum1"
       }
     ],
@@ -3298,7 +3298,7 @@ const data = [
     "name": "mummy mask",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapFullfaceMummyWhite"
       }
     ],
@@ -3466,7 +3466,7 @@ const data = [
     "name": "Noh mask",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapMaskNomenWhite"
       }
     ],
@@ -3487,7 +3487,7 @@ const data = [
     "name": "Nook Inc. bandanna",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "CapHatBandanaRco"
       }
     ],
@@ -3508,7 +3508,7 @@ const data = [
     "name": "Nook Inc. cap",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "CapHatMeshcapRco"
       }
     ],
@@ -3579,7 +3579,7 @@ const data = [
     "name": "orange hat",
     "variations": [
       {
-        "name": "Orange",
+        "name": "NA",
         "img": "CapHatOrange"
       }
     ],
@@ -3768,7 +3768,7 @@ const data = [
     "name": "pansy crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentPansy1"
       }
     ],
@@ -3789,7 +3789,7 @@ const data = [
     "name": "paper bag",
     "variations": [
       {
-        "name": "Beige",
+        "name": "NA",
         "img": "CapFullfacePaperbagBeige"
       }
     ],
@@ -3876,7 +3876,7 @@ const data = [
     "name": "peach hat",
     "variations": [
       {
-        "name": "Peach",
+        "name": "NA",
         "img": "CapHatPeach0"
       }
     ],
@@ -3897,7 +3897,7 @@ const data = [
     "name": "pear hat",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "CapHatPear0"
       }
     ],
@@ -3918,7 +3918,7 @@ const data = [
     "name": "pigtail",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapWigPigtail"
       }
     ],
@@ -3997,7 +3997,7 @@ const data = [
     "name": "pineapple cap",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "CapHatPineapple"
       }
     ],
@@ -4055,7 +4055,7 @@ const data = [
     "name": "police cap",
     "variations": [
       {
-        "name": "Navy blue",
+        "name": "NA",
         "img": "CapHatPoliceNavy"
       }
     ],
@@ -4117,7 +4117,7 @@ const data = [
     "name": "pompadour wig",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapWigRegent"
       }
     ],
@@ -4171,7 +4171,7 @@ const data = [
     "name": "purple hyacinth crown",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "CapOrnamentHyacinth3"
       }
     ],
@@ -4192,7 +4192,7 @@ const data = [
     "name": "purple pansy crown",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "CapOrnamentPansy3"
       }
     ],
@@ -4213,7 +4213,7 @@ const data = [
     "name": "purple windflower crown",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "CapOrnamentAnemone3"
       }
     ],
@@ -4443,7 +4443,7 @@ const data = [
     "name": "rose crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentRose1"
       }
     ],
@@ -4464,7 +4464,7 @@ const data = [
     "name": "royal crown",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapHatCrownRed"
       }
     ],
@@ -4588,7 +4588,7 @@ const data = [
     "name": "samurai wig",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapWigSamurai"
       }
     ],
@@ -4596,7 +4596,7 @@ const data = [
     "bodyCustomize": null,
     "patternCustomize": null,
     "kitCost": null,
-    "buy": 3200,
+    "buy": "NFS",
     "sell": 800,
     "size": "1x1",
     "source": "Gulliver",
@@ -4778,7 +4778,7 @@ const data = [
     "name": "simple mum crown",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "CapOrnamentMum3"
       }
     ],
@@ -4836,7 +4836,7 @@ const data = [
     "name": "skeleton hood",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapCostumeSkullWhite"
       }
     ],
@@ -4894,7 +4894,7 @@ const data = [
     "name": "sky-egg shell",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggsky0"
       }
     ],
@@ -4944,7 +4944,7 @@ const data = [
     "name": "snowperson head",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapCostumeSnowball0"
       }
     ],
@@ -5112,7 +5112,7 @@ const data = [
     "name": "space helmet",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "CapFullfaceAstronautWhite"
       }
     ],
@@ -5166,7 +5166,7 @@ const data = [
     "name": "stagehand hat",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "CapFullfaceKurokoBlack"
       }
     ],
@@ -5224,7 +5224,7 @@ const data = [
     "name": "star head",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "CapCostumeStar0"
       }
     ],
@@ -5245,7 +5245,7 @@ const data = [
     "name": "stone-egg shell",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggrock0"
       }
     ],
@@ -5344,7 +5344,7 @@ const data = [
     "name": "straw umbrella hat",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "CapHatSandogasa0"
       }
     ],
@@ -5365,7 +5365,7 @@ const data = [
     "name": "strawberry hat",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapHatStrawberry"
       }
     ],
@@ -5818,7 +5818,7 @@ const data = [
     "name": "tulip crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentTulip1"
       }
     ],
@@ -6029,7 +6029,7 @@ const data = [
     "name": "visual-punk wig",
     "variations": [
       {
-        "name": "Hair Color",
+        "name": "NA",
         "img": "CapWigVisual"
       }
     ],
@@ -6050,7 +6050,7 @@ const data = [
     "name": "water-egg shell",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggfish0"
       }
     ],
@@ -6071,7 +6071,7 @@ const data = [
     "name": "watermelon hat",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapHatWatermelon"
       }
     ],
@@ -6092,7 +6092,7 @@ const data = [
     "name": "welding mask",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "CapMaskWelderRed"
       }
     ],
@@ -6142,7 +6142,7 @@ const data = [
     "name": "windflower crown",
     "variations": [
       {
-        "name": "Colorful",
+        "name": "NA",
         "img": "CapOrnamentAnemone1"
       }
     ],
@@ -6188,7 +6188,7 @@ const data = [
     "name": "wood-egg shell",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "CapHatEggforest0"
       }
     ],
@@ -6288,6 +6288,55 @@ const data = [
     "kitCost": null,
     "buy": 1600,
     "sell": 400,
+    "size": "1x1",
+    "source": "Able Sisters",
+    "sourceNotes": "Available from Able Sisters shop only",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "headwear"
+  },
+  {
+    "name": "zen hair clip",
+    "variations": [
+      {
+        "name": "Red",
+        "img": "CapOrnamentLTsumamizaiku0"
+      },
+      {
+        "name": "Aqua",
+        "img": "CapOrnamentLTsumamizaiku1"
+      },
+      {
+        "name": "Dark blue",
+        "img": "CapOrnamentLTsumamizaiku2"
+      },
+      {
+        "name": "Golden yellow",
+        "img": "CapOrnamentLTsumamizaiku3"
+      },
+      {
+        "name": "Purple",
+        "img": "CapOrnamentLTsumamizaiku4"
+      },
+      {
+        "name": "Pink",
+        "img": "CapOrnamentLTsumamizaiku5"
+      },
+      {
+        "name": "Green",
+        "img": "CapOrnamentLTsumamizaiku6"
+      },
+      {
+        "name": "Sky blue",
+        "img": "CapOrnamentLTsumamizaiku7"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 4300,
+    "sell": 1075,
     "size": "1x1",
     "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",

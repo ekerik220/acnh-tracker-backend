@@ -4309,48 +4309,6 @@ const data = [
     "item-type": "misc"
   },
   {
-    "name": "grand Atlas moth model",
-    "variations": [
-      {
-        "name": "NA",
-        "img": "FtrInsectYonagunisanToy"
-      }
-    ],
-    "diy": "No",
-    "bodyCustomize": "No",
-    "patternCustomize": "No",
-    "kitCost": "NA",
-    "buy": "NFS",
-    "sell": 9000,
-    "size": "1x1",
-    "source": "Flick",
-    "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
-    "interact": "No",
-    "catalog": "Not for sale",
-    "item-type": "misc"
-  },
-  {
-    "name": "grand b. dragonfly model",
-    "variations": [
-      {
-        "name": "NA",
-        "img": "FtrInsectOniyanmaToy"
-      }
-    ],
-    "diy": "No",
-    "bodyCustomize": "No",
-    "patternCustomize": "No",
-    "kitCost": "NA",
-    "buy": "NFS",
-    "sell": 13500,
-    "size": "1x1",
-    "source": "Flick",
-    "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
-    "interact": "No",
-    "catalog": "Not for sale",
-    "item-type": "misc"
-  },
-  {
     "name": "grand giraffe stag model",
     "variations": [
       {
@@ -4364,7 +4322,7 @@ const data = [
     "kitCost": "NA",
     "buy": "NFS",
     "sell": 36000,
-    "size": "1x1",
+    "size": "2x1",
     "source": "Flick",
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "interact": "No",
@@ -4385,7 +4343,7 @@ const data = [
     "kitCost": "NA",
     "buy": "NFS",
     "sell": 24000,
-    "size": "1x1",
+    "size": "2x1",
     "source": "Flick",
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "interact": "No",
@@ -4406,28 +4364,7 @@ const data = [
     "kitCost": "NA",
     "buy": "NFS",
     "sell": 36000,
-    "size": "1x1",
-    "source": "Flick",
-    "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
-    "interact": "No",
-    "catalog": "Not for sale",
-    "item-type": "misc"
-  },
-  {
-    "name": "grand Q. A. birdwing model",
-    "variations": [
-      {
-        "name": "NA",
-        "img": "FtrInsectArekisandoratoribaneagehaToy"
-      }
-    ],
-    "diy": "No",
-    "bodyCustomize": "No",
-    "patternCustomize": "No",
-    "kitCost": "NA",
-    "buy": "NFS",
-    "sell": 12000,
-    "size": "1x1",
+    "size": "2x1",
     "source": "Flick",
     "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
     "interact": "No",
@@ -7355,27 +7292,6 @@ const data = [
     "kitCost": "NA",
     "buy": "NFS",
     "sell": 27000,
-    "size": "2x1",
-    "source": "C.J.",
-    "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
-    "interact": "No",
-    "catalog": "Not for sale",
-    "item-type": "misc"
-  },
-  {
-    "name": "ocean sunfish model",
-    "variations": [
-      {
-        "name": "NA",
-        "img": "FtrFishManbouToy"
-      }
-    ],
-    "diy": "No",
-    "bodyCustomize": "No",
-    "patternCustomize": "No",
-    "kitCost": "NA",
-    "buy": "NFS",
-    "sell": 12000,
     "size": "2x1",
     "source": "C.J.",
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
@@ -10626,8 +10542,8 @@ const data = [
     "buy": 600,
     "sell": 150,
     "size": "1x1",
-    "source": "Father's Day",
-    "sourceNotes": null,
+    "source": "Nook Shopping Seasonal",
+    "sourceNotes": "Only available during the month Father's Day occurs, region dependant",
     "interact": "No",
     "catalog": "Not in catalog",
     "item-type": "misc"
@@ -10647,8 +10563,8 @@ const data = [
     "buy": 600,
     "sell": 150,
     "size": "1x1",
-    "source": "Mother's Day",
-    "sourceNotes": null,
+    "source": "Nook Shopping Seasonal",
+    "sourceNotes": "Only available during the month Mother's Day occurs, region dependant",
     "interact": "No",
     "catalog": "Not in catalog",
     "item-type": "misc"
@@ -11591,7 +11507,7 @@ const data = [
     "item-type": "misc"
   },
   {
-    "name": "wobbling Zipper toy",
+    "name": "Wobbling Zipper toy",
     "variations": [
       {
         "name": "NA",
@@ -11794,6 +11710,27 @@ const data = [
     "kitCost": "NA",
     "buy": "NFS",
     "sell": 900,
+    "size": "1x1",
+    "source": "C.J.",
+    "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "misc"
+  },
+  {
+    "name": "zebra turkeyfish model",
+    "variations": [
+      {
+        "name": "NA",
+        "img": "FtrFishMinokasagoToy"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": "No",
+    "patternCustomize": "No",
+    "kitCost": "NA",
+    "buy": "NFS",
+    "sell": 1500,
     "size": "1x1",
     "source": "C.J.",
     "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",

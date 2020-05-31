@@ -5164,6 +5164,27 @@ const data = [
     "interact": null,
     "catalog": "For sale",
     "item-type": "wallpaper"
+  },
+  {
+    "name": "yellow-striped wall",
+    "variations": [
+      {
+        "name": null,
+        "img": "RoomTexWallStripe04"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1520,
+    "sell": 380,
+    "size": null,
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "wallpaper"
   }
 ];
 module.exports = data;

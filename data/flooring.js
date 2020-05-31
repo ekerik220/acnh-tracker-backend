@@ -2216,7 +2216,7 @@ const data = [
     "bodyCustomize": null,
     "patternCustomize": null,
     "kitCost": null,
-    "buy": 24000,
+    "buy": "NFS",
     "sell": 6000,
     "size": null,
     "source": "Nook Miles Shop",
@@ -3667,6 +3667,27 @@ const data = [
     "kitCost": null,
     "buy": 1520,
     "sell": 380,
+    "size": null,
+    "source": "Nook's Cranny",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "flooring"
+  },
+  {
+    "name": "zebra-print flooring",
+    "variations": [
+      {
+        "name": null,
+        "img": "RoomTexFloorAnimal02"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1300,
+    "sell": 325,
     "size": null,
     "source": "Nook's Cranny",
     "sourceNotes": null,

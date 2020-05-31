@@ -374,7 +374,7 @@ const data = [
     "bodyCustomize": "No",
     "patternCustomize": "No",
     "kitCost": "NA",
-    "buy": 1200,
+    "buy": "NFS",
     "sell": 300,
     "size": "1x1",
     "source": "International Museum Day",
@@ -1239,7 +1239,7 @@ const data = [
     "bodyCustomize": "No",
     "patternCustomize": "No",
     "kitCost": "NA",
-    "buy": 1200,
+    "buy": "NFS",
     "sell": 300,
     "size": "1x1",
     "source": "International Museum Day",
@@ -1429,7 +1429,7 @@ const data = [
     "bodyCustomize": "No",
     "patternCustomize": "No",
     "kitCost": "NA",
-    "buy": 1200,
+    "buy": "NFS",
     "sell": 300,
     "size": "1x1",
     "source": "International Museum Day",
@@ -2340,7 +2340,7 @@ const data = [
     "diy": "No",
     "bodyCustomize": "Yes",
     "patternCustomize": "No",
-    "kitCost": "NA",
+    "kitCost": 1,
     "buy": "NFS",
     "sell": 88,
     "size": "1x1 ",
@@ -2381,7 +2381,7 @@ const data = [
     "diy": "No",
     "bodyCustomize": "Yes",
     "patternCustomize": "No",
-    "kitCost": "NA",
+    "kitCost": 1,
     "buy": "NFS",
     "sell": 88,
     "size": "1x1 ",
@@ -3851,15 +3851,15 @@ const data = [
     "variations": [
       {
         "name": "Cute",
-        "img": "FtrWeddingFlowerWall_Remake_1_0"
+        "img": "FtrWeddingFlowerWall_Remake_0_0"
       },
       {
         "name": "Chic",
-        "img": "FtrWeddingFlowerWall_Remake_2_0"
+        "img": "FtrWeddingFlowerWall_Remake_1_0"
       },
       {
         "name": "Garden",
-        "img": "FtrWeddingFlowerWall_Remake_0_0"
+        "img": "FtrWeddingFlowerWall_Remake_2_0"
       }
     ],
     "diy": "No",
@@ -3987,6 +3987,39 @@ const data = [
     "size": "2x1",
     "source": "Nintendo; Nook Shopping",
     "sourceNotes": null,
+    "interact": "No",
+    "catalog": "For sale",
+    "item-type": "wallmounted"
+  },
+  {
+    "name": "writing poster",
+    "variations": [
+      {
+        "name": "Alphabet",
+        "img": "FtrStudyposter_Remake_0_0"
+      },
+      {
+        "name": "Multiplication tables",
+        "img": "FtrStudyposter_Remake_1_0"
+      },
+      {
+        "name": "Periodic table",
+        "img": "FtrStudyposter_Remake_2_0"
+      },
+      {
+        "name": "Constellations",
+        "img": "FtrStudyposter_Remake_3_0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": "No",
+    "patternCustomize": "No",
+    "kitCost": "NA",
+    "buy": 640,
+    "sell": 160,
+    "size": "2x1 ",
+    "source": "Nook's Cranny",
+    "sourceNotes": "Available in Nook's Cranny (upgraded only), in the unique furniture slot",
     "interact": "No",
     "catalog": "For sale",
     "item-type": "wallmounted"

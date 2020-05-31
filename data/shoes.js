@@ -32,7 +32,7 @@ const data = [
     "name": "armor shoes",
     "variations": [
       {
-        "name": "Gray",
+        "name": "NA",
         "img": "ShoesKneeKnightIron"
       }
     ],
@@ -520,7 +520,7 @@ const data = [
     "name": "DAL slippers",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "AccessoryGlassSlippers0"
       }
     ],
@@ -541,7 +541,7 @@ const data = [
     "name": "earth-egg shoes",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "ShoesLowcutEggground0"
       }
     ],
@@ -866,7 +866,7 @@ const data = [
     "name": "gold-armor shoes",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "ShoesKneeKnightGold"
       }
     ],
@@ -1145,7 +1145,7 @@ const data = [
     "name": "kung-fu shoes",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "ShoesLowcutKungfu0"
       }
     ],
@@ -1281,7 +1281,7 @@ const data = [
     "name": "leaf-egg shoes",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "ShoesLowcutEggleaf0"
       }
     ],
@@ -1560,7 +1560,7 @@ const data = [
     "name": "Nook Inc. slippers",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "ShoesSandalRco"
       }
     ],
@@ -1876,7 +1876,7 @@ const data = [
     "name": "recycled boots",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "ShoesKneeRecyclingboots0"
       }
     ],
@@ -2241,7 +2241,7 @@ const data = [
     "name": "sky-egg shoes",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "ShoesLowcutEggsky0"
       }
     ],
@@ -2446,7 +2446,7 @@ const data = [
     "name": "space boots",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "ShoesKneeSpaceWhite"
       }
     ],
@@ -2557,7 +2557,7 @@ const data = [
     "name": "stone-egg shoes",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "ShoesLowcutEggrock0"
       }
     ],
@@ -2791,7 +2791,7 @@ const data = [
     "name": "visual-punk boots",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "ShoesKneeVisualBlack"
       }
     ],
@@ -2939,7 +2939,7 @@ const data = [
     "name": "water-egg shoes",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "ShoesLowcutEggfish0"
       }
     ],
@@ -3080,7 +3080,7 @@ const data = [
     "name": "wood-egg shoes",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "ShoesLowcutEggforest0"
       }
     ],
@@ -3228,7 +3228,7 @@ const data = [
     "name": "zap boots",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "ShoesKneeHeroWhite"
       }
     ],
@@ -3241,6 +3241,55 @@ const data = [
     "size": "1x1",
     "source": "Kicks",
     "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "shoes"
+  },
+  {
+    "name": "zori",
+    "variations": [
+      {
+        "name": "Black",
+        "img": "ShoesSandalZori0"
+      },
+      {
+        "name": "Gold",
+        "img": "ShoesSandalZori1"
+      },
+      {
+        "name": "Pink",
+        "img": "ShoesSandalZori2"
+      },
+      {
+        "name": "Light pink",
+        "img": "ShoesSandalZori3"
+      },
+      {
+        "name": "Green",
+        "img": "ShoesSandalZori4"
+      },
+      {
+        "name": "White",
+        "img": "ShoesSandalZori5"
+      },
+      {
+        "name": "Aqua",
+        "img": "ShoesSandalZori6"
+      },
+      {
+        "name": "Red",
+        "img": "ShoesSandalZori7"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 4300,
+    "sell": 1075,
+    "size": "1x1",
+    "source": "Able Sisters",
+    "sourceNotes": "Available from Able Sisters shop only",
     "interact": null,
     "catalog": "For sale",
     "item-type": "shoes"

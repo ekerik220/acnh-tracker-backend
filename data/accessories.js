@@ -28,7 +28,7 @@ const data = [
     "name": "bandage",
     "variations": [
       {
-        "name": "Beige",
+        "name": "NA",
         "img": "AccessoryMouthBandageSkin"
       }
     ],
@@ -49,7 +49,7 @@ const data = [
     "name": "beak",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "AccessoryMouthBeakYellow"
       }
     ],
@@ -334,7 +334,7 @@ const data = [
     "name": "cucumber pack",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "AccessoryMouthCucumber"
       }
     ],
@@ -355,7 +355,7 @@ const data = [
     "name": "curly mustache",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryMouthRollingmustacheBlack"
       }
     ],
@@ -417,7 +417,7 @@ const data = [
     "name": "DAL eye mask",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "AccessoryGlassDalmask0"
       }
     ],
@@ -438,7 +438,7 @@ const data = [
     "name": "DAL sunglasses",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "AccessoryGlassDalglass0"
       }
     ],
@@ -459,7 +459,7 @@ const data = [
     "name": "doctor's mask",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "AccessoryMouthMaskWhite"
       }
     ],
@@ -616,7 +616,7 @@ const data = [
     "name": "eye patch",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryGlassPatchBlack"
       }
     ],
@@ -637,7 +637,7 @@ const data = [
     "name": "facial mask",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "AccessoryGlassmouthPackWhite"
       }
     ],
@@ -658,7 +658,7 @@ const data = [
     "name": "fake nose",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "AccessoryGlassmouthNoseRed"
       }
     ],
@@ -716,7 +716,7 @@ const data = [
     "name": "food mess",
     "variations": [
       {
-        "name": "Pasta",
+        "name": "NA",
         "img": "AccessoryMouthPasta"
       }
     ],
@@ -791,7 +791,7 @@ const data = [
     "name": "glass-bottle glasses",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryGlassBottleBlack"
       }
     ],
@@ -812,7 +812,7 @@ const data = [
     "name": "goatee",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryMouthBeardChinBlack"
       }
     ],
@@ -874,7 +874,7 @@ const data = [
     "name": "handlebar mustache",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryMouthBeardBlack"
       }
     ],
@@ -932,7 +932,7 @@ const data = [
     "name": "HMD",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "AccessoryGlassHmdWhite"
       }
     ],
@@ -1068,7 +1068,7 @@ const data = [
     "name": "leaf",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "AccessoryMouthLeafGreen"
       }
     ],
@@ -1159,7 +1159,7 @@ const data = [
     "name": "night-vision goggles",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryGlassNightvisionBlack"
       }
     ],
@@ -1180,7 +1180,7 @@ const data = [
     "name": "Nook Inc. eye mask",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "AccessoryGlassNook0"
       }
     ],
@@ -1201,7 +1201,7 @@ const data = [
     "name": "nose drip",
     "variations": [
       {
-        "name": "Light blue",
+        "name": "NA",
         "img": "AccessoryMouthJokeDripCyan"
       }
     ],
@@ -1353,7 +1353,7 @@ const data = [
     "name": "pig nose",
     "variations": [
       {
-        "name": "Pink",
+        "name": "NA",
         "img": "AccessoryMouthPigPink"
       }
     ],
@@ -1432,7 +1432,7 @@ const data = [
     "name": "pleather mask",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryMouthLeatherBlack"
       }
     ],
@@ -1453,7 +1453,7 @@ const data = [
     "name": "post-op patch",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "AccessoryGlassEyepatchWhite"
       }
     ],
@@ -1474,7 +1474,7 @@ const data = [
     "name": "privacy mask",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryMouthCrowBlack"
       }
     ],
@@ -1495,7 +1495,7 @@ const data = [
     "name": "reflector",
     "variations": [
       {
-        "name": "Gray",
+        "name": "NA",
         "img": "AccessoryGlassMirrorGray"
       }
     ],
@@ -1705,7 +1705,7 @@ const data = [
     "name": "rounded beard",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryMouthBeardRoundBlack"
       }
     ],
@@ -1726,7 +1726,7 @@ const data = [
     "name": "shattered glasses",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryGlassCrackBlack"
       }
     ],
@@ -1945,7 +1945,7 @@ const data = [
     "name": "sticky rice",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "AccessoryMouthRice"
       }
     ],
@@ -1966,7 +1966,7 @@ const data = [
     "name": "superhero mask",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "AccessoryGlassHeromaskBlack"
       }
     ],
@@ -2079,6 +2079,31 @@ const data = [
     "kitCost": null,
     "buy": 880,
     "sell": 220,
+    "size": "1x1",
+    "source": "Able Sisters",
+    "sourceNotes": "Available from either Mable's temporary shop or Able Sisters shop",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "accessories"
+  },
+  {
+    "name": "wooden-frame glasses",
+    "variations": [
+      {
+        "name": "Brown",
+        "img": "AccessoryGlassWood0"
+      },
+      {
+        "name": "Dark brown",
+        "img": "AccessoryGlassWood1"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1560,
+    "sell": 390,
     "size": "1x1",
     "source": "Able Sisters",
     "sourceNotes": "Available from either Mable's temporary shop or Able Sisters shop",

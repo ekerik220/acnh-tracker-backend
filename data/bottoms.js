@@ -972,7 +972,7 @@ const data = [
     "name": "comic shorts",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "BottomsTexPantsHalfComic0"
       }
     ],
@@ -2521,7 +2521,7 @@ const data = [
     "name": "grass skirt",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "BottomsTexSkirtBoxGrass0"
       }
     ],
@@ -2542,7 +2542,7 @@ const data = [
     "name": "green grass skirt",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "BottomsTexSkirtBoxGrass1"
       }
     ],
@@ -3500,7 +3500,7 @@ const data = [
     "name": "pearl skirt",
     "variations": [
       {
-        "name": "Navy blue",
+        "name": "NA",
         "img": "BottomsTexSkirtAlinePearlNavy"
       }
     ],
@@ -5135,7 +5135,7 @@ const data = [
     "name": "western pants",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "BottomsTexPantsWideCowboyBrown"
       }
     ],
@@ -5277,6 +5277,39 @@ const data = [
     "kitCost": null,
     "buy": 1100,
     "sell": 275,
+    "size": "1x1",
+    "source": "Able Sisters",
+    "sourceNotes": "Available from either Mable's temporary shop or Able Sisters shop",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "bottoms"
+  },
+  {
+    "name": "yacht shorts",
+    "variations": [
+      {
+        "name": "Light blue",
+        "img": "BottomsTexPantsHotYacht0"
+      },
+      {
+        "name": "Red",
+        "img": "BottomsTexPantsHotYacht1"
+      },
+      {
+        "name": "Pink",
+        "img": "BottomsTexPantsHotYacht2"
+      },
+      {
+        "name": "Purple",
+        "img": "BottomsTexPantsHotYacht3"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 840,
+    "sell": 210,
     "size": "1x1",
     "source": "Able Sisters",
     "sourceNotes": "Available from either Mable's temporary shop or Able Sisters shop",

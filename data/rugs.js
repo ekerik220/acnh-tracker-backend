@@ -2749,6 +2749,27 @@ const data = [
     "interact": null,
     "catalog": "For sale",
     "item-type": "rugs"
+  },
+  {
+    "name": "yellow-design kitchen mat",
+    "variations": [
+      {
+        "name": null,
+        "img": "RugRectNativeKitchenS02"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 1000,
+    "sell": 250,
+    "size": "2x1 ",
+    "source": "Saharah",
+    "sourceNotes": "Small rug",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "rugs"
   }
 ];
 module.exports = data;

@@ -8125,6 +8125,48 @@ const data = [
     "item-type": "housewares"
   },
   {
+    "name": "grand Atlas moth model",
+    "variations": [
+      {
+        "name": "NA",
+        "img": "FtrInsectYonagunisanToy"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": "No",
+    "patternCustomize": "No",
+    "kitCost": "NA",
+    "buy": "NFS",
+    "sell": 9000,
+    "size": "2x2",
+    "source": "Flick",
+    "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "housewares"
+  },
+  {
+    "name": "grand b. dragonfly model",
+    "variations": [
+      {
+        "name": "NA",
+        "img": "FtrInsectOniyanmaToy"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": "No",
+    "patternCustomize": "No",
+    "kitCost": "NA",
+    "buy": "NFS",
+    "sell": 13500,
+    "size": "2x2",
+    "source": "Flick",
+    "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
+    "interact": "No",
+    "catalog": "Not for sale",
+    "item-type": "housewares"
+  },
+  {
     "name": "grand piano",
     "variations": [
       {
@@ -8155,6 +8197,27 @@ const data = [
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the third unique furniture slot",
     "interact": "Yes",
     "catalog": "For sale",
+    "item-type": "housewares"
+  },
+  {
+    "name": "grand Q. A. birdwing model",
+    "variations": [
+      {
+        "name": "NA",
+        "img": "FtrInsectArekisandoratoribaneagehaToy"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": "No",
+    "patternCustomize": "No",
+    "kitCost": "NA",
+    "buy": "NFS",
+    "sell": 12000,
+    "size": "2x2",
+    "source": "Flick",
+    "sourceNotes": "Trade 3 insects to receive a model in the mail the next day",
+    "interact": "No",
+    "catalog": "Not for sale",
     "item-type": "housewares"
   },
   {
@@ -12562,6 +12625,27 @@ const data = [
     "sourceNotes": "Available in Nook's Cranny (upgraded only), in the third unique furniture slot",
     "interact": "Yes",
     "catalog": "For sale",
+    "item-type": "housewares"
+  },
+  {
+    "name": "ocean sunfish model",
+    "variations": [
+      {
+        "name": "NA",
+        "img": "FtrFishManbouToy"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": "No",
+    "patternCustomize": "No",
+    "kitCost": "NA",
+    "buy": "NFS",
+    "sell": 12000,
+    "size": "2x1",
+    "source": "C.J.",
+    "sourceNotes": "Trade 3 fish to receive a model in the mail the next day",
+    "interact": "No",
+    "catalog": "Not for sale",
     "item-type": "housewares"
   },
   {
@@ -17769,7 +17853,7 @@ const data = [
     "kitCost": "NA",
     "buy": "NFS",
     "sell": 1200,
-    "size": "1x1",
+    "size": "2x2",
     "source": "Crafting",
     "sourceNotes": null,
     "interact": "Yes",
@@ -18480,8 +18564,8 @@ const data = [
     "buy": "NFS",
     "sell": 7420,
     "size": "1x1",
-    "source": "Snowman",
-    "sourceNotes": "Reward for making a perfect snow-person",
+    "source": "Crafting",
+    "sourceNotes": null,
     "interact": "No",
     "catalog": "Not for sale",
     "item-type": "housewares"
@@ -22020,6 +22104,43 @@ const data = [
     "sourceNotes": "Available in Nook's Cranny (either upgrade tier) in the unique furniture slot",
     "interact": "Yes",
     "catalog": "For sale",
+    "item-type": "housewares"
+  },
+  {
+    "name": "zen-style stone",
+    "variations": [
+      {
+        "name": "White granite",
+        "img": "FtrGravestoneJapan_Remake_0_0"
+      },
+      {
+        "name": "Andesite",
+        "img": "FtrGravestoneJapan_Remake_1_0"
+      },
+      {
+        "name": "Black granite",
+        "img": "FtrGravestoneJapan_Remake_2_0"
+      },
+      {
+        "name": "Brown granite",
+        "img": "FtrGravestoneJapan_Remake_3_0"
+      },
+      {
+        "name": "Mossy stone",
+        "img": "FtrGravestoneJapan_Remake_4_0"
+      }
+    ],
+    "diy": "Yes",
+    "bodyCustomize": "Yes",
+    "patternCustomize": "No",
+    "kitCost": 6,
+    "buy": "NFS",
+    "sell": 4500,
+    "size": "1x1",
+    "source": "Crafting",
+    "sourceNotes": null,
+    "interact": "No",
+    "catalog": "Not for sale",
     "item-type": "housewares"
   }
 ];

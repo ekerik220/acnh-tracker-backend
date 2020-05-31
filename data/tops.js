@@ -3154,7 +3154,7 @@ const data = [
     "name": "four-ball tee",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "TopsTexTopTshirtsHNumberball4"
       }
     ],
@@ -9388,6 +9388,27 @@ const data = [
     "size": "1x1",
     "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "tops"
+  },
+  {
+    "name": "zigzag shirt",
+    "variations": [
+      {
+        "name": "NA",
+        "img": "TopsTexTopTshirtsLJagged0"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 960,
+    "sell": 240,
+    "size": "1x1",
+    "source": "Nook Shopping Catalog",
+    "sourceNotes": null,
     "interact": null,
     "catalog": "For sale",
     "item-type": "tops"

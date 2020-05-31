@@ -3,7 +3,7 @@ const data = [
     "name": "acorn pochette",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "BagShoulderAcorn0"
       }
     ],
@@ -24,7 +24,7 @@ const data = [
     "name": "basket pack",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "BagBackpackBasket0"
       }
     ],
@@ -45,7 +45,7 @@ const data = [
     "name": "bug cage",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "BagShoulderCage0"
       }
     ],
@@ -66,7 +66,7 @@ const data = [
     "name": "Bunny Day bag",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "BagBackpackEgg0"
       }
     ],
@@ -87,7 +87,7 @@ const data = [
     "name": "butterfly backpack",
     "variations": [
       {
-        "name": "Pink",
+        "name": "NA",
         "img": "BagBackpackButterfly0"
       }
     ],
@@ -108,7 +108,7 @@ const data = [
     "name": "canvas backpack",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "BagBackpackTote0"
       }
     ],
@@ -129,7 +129,7 @@ const data = [
     "name": "cherry-blossom pochette",
     "variations": [
       {
-        "name": "Pink",
+        "name": "NA",
         "img": "BagShoulderCherryblossoms0"
       }
     ],
@@ -237,7 +237,7 @@ const data = [
     "name": "DAL backpack",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "BagBackpackDal0"
       }
     ],
@@ -370,7 +370,7 @@ const data = [
     "name": "fish pochette",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "BagShoulderFish0"
       }
     ],
@@ -528,7 +528,7 @@ const data = [
     "name": "knitted-grass backpack",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "BagBackpackGrass0"
       }
     ],
@@ -549,7 +549,7 @@ const data = [
     "name": "log pack",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "BagBackpackWood0"
       }
     ],
@@ -570,7 +570,7 @@ const data = [
     "name": "maple-leaf pochette",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "BagShoulderMaple0"
       }
     ],
@@ -694,7 +694,7 @@ const data = [
     "name": "Nook Inc. knapsack",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "BagBackpackNook0"
       }
     ],
@@ -877,7 +877,7 @@ const data = [
     "name": "shellfish pochette",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "BagShoulderShell0"
       }
     ],
@@ -898,7 +898,7 @@ const data = [
     "name": "snowflake pochette",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "BagShoulderSnow0"
       }
     ],
@@ -948,7 +948,7 @@ const data = [
     "name": "star pochette",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "BagShoulderStar0"
       }
     ],
@@ -969,7 +969,7 @@ const data = [
     "name": "straw pochette",
     "variations": [
       {
-        "name": "Brown",
+        "name": "NA",
         "img": "BagShoulderRattan0"
       }
     ],
@@ -1015,7 +1015,7 @@ const data = [
     "name": "tackle bag",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "BagShoulderFishing0"
       }
     ],
@@ -1036,7 +1036,7 @@ const data = [
     "name": "tool bag",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "BagShoulderTool0"
       }
     ],
@@ -1112,6 +1112,35 @@ const data = [
     "kitCost": null,
     "buy": 840,
     "sell": 210,
+    "size": "1x1",
+    "source": "Kicks",
+    "sourceNotes": null,
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "bags"
+  },
+  {
+    "name": "traveler's backpack",
+    "variations": [
+      {
+        "name": "Orange",
+        "img": "BagBackpackJourney0"
+      },
+      {
+        "name": "Blue",
+        "img": "BagBackpackJourney1"
+      },
+      {
+        "name": "Brown",
+        "img": "BagBackpackJourney2"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 2940,
+    "sell": 735,
     "size": "1x1",
     "source": "Kicks",
     "sourceNotes": null,

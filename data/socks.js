@@ -1341,7 +1341,7 @@ const data = [
     "name": "Nook Inc. socks",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "SocksTexBorderRco"
       }
     ],
@@ -2378,6 +2378,43 @@ const data = [
     "size": "1x1",
     "source": "Able Sisters",
     "sourceNotes": "Available from Able Sisters shop only",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "socks"
+  },
+  {
+    "name": "wave-print socks",
+    "variations": [
+      {
+        "name": "Blue",
+        "img": "SocksTexWave0"
+      },
+      {
+        "name": "Brown",
+        "img": "SocksTexWave1"
+      },
+      {
+        "name": "Purple",
+        "img": "SocksTexWave2"
+      },
+      {
+        "name": "Green",
+        "img": "SocksTexWave3"
+      },
+      {
+        "name": "Gray",
+        "img": "SocksTexWave4"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 600,
+    "sell": 150,
+    "size": "1x1",
+    "source": "Kicks",
+    "sourceNotes": null,
     "interact": null,
     "catalog": "For sale",
     "item-type": "socks"

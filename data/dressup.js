@@ -32,7 +32,7 @@ const data = [
     "name": "adventure dress",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "TopsTexOnepieceBalloonHStrangeBlue"
       }
     ],
@@ -222,7 +222,7 @@ const data = [
     "name": "apple dress",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNApple0"
       }
     ],
@@ -716,7 +716,7 @@ const data = [
     "name": "bingata dress",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "TopsTexOnepieceKimonoLBingata0"
       }
     ],
@@ -919,7 +919,7 @@ const data = [
     "name": "bone costume",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLBoneWhite"
       }
     ],
@@ -1307,7 +1307,7 @@ const data = [
     "name": "cherry dress",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNCherry0"
       }
     ],
@@ -1398,7 +1398,7 @@ const data = [
     "name": "china poblana",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceDressHChinapoblanaRed"
       }
     ],
@@ -1419,7 +1419,7 @@ const data = [
     "name": "chiton",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceBoxNGreece"
       }
     ],
@@ -1860,7 +1860,7 @@ const data = [
     "name": "dragon suit",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLDragonYellow"
       }
     ],
@@ -1914,7 +1914,7 @@ const data = [
     "name": "earth-egg outfit",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEggground0"
       }
     ],
@@ -1935,7 +1935,7 @@ const data = [
     "name": "egg party dress",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceBalloonLEgg0"
       }
     ],
@@ -1956,7 +1956,7 @@ const data = [
     "name": "egg-sushi costume",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEgg"
       }
     ],
@@ -2256,7 +2256,7 @@ const data = [
     "name": "festive dress",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceBalloonNXmasRed"
       }
     ],
@@ -2692,7 +2692,7 @@ const data = [
     "name": "folk-dance outfit",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLVolendam"
       }
     ],
@@ -2956,7 +2956,7 @@ const data = [
     "name": "gizzard-shad-sushi costume",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNKohada"
       }
     ],
@@ -2977,7 +2977,7 @@ const data = [
     "name": "gold armor",
     "variations": [
       {
-        "name": "Gold",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLPlatearmorGold"
       }
     ],
@@ -2998,7 +2998,7 @@ const data = [
     "name": "grape dress",
     "variations": [
       {
-        "name": "Purple",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNGrape"
       }
     ],
@@ -3073,7 +3073,7 @@ const data = [
     "name": "hakama with crest",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "TopsTexOnepieceKimonoLCrested0"
       }
     ],
@@ -3123,7 +3123,7 @@ const data = [
     "name": "hot-dog costume",
     "variations": [
       {
-        "name": "Mustard",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNHotdogMustard"
       }
     ],
@@ -3218,7 +3218,7 @@ const data = [
     "name": "icy dress",
     "variations": [
       {
-        "name": "Ice blue",
+        "name": "NA",
         "img": "TopsTexOnepieceRobeLIcequeen0"
       }
     ],
@@ -3313,7 +3313,7 @@ const data = [
     "name": "iron armor",
     "variations": [
       {
-        "name": "Gray",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLPlatearmorIron"
       }
     ],
@@ -3519,7 +3519,7 @@ const data = [
     "name": "junihitoe kimono",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceKimonoLTwelve0"
       }
     ],
@@ -3623,7 +3623,7 @@ const data = [
     "name": "kiwi dress",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNKiwi"
       }
     ],
@@ -3805,7 +3805,7 @@ const data = [
     "name": "leaf-egg outfit",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEggleaf0"
       }
     ],
@@ -3863,7 +3863,7 @@ const data = [
     "name": "lively plaid dress",
     "variations": [
       {
-        "name": "Green",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineHPlaid0"
       }
     ],
@@ -4374,7 +4374,7 @@ const data = [
     "name": "moldy dress",
     "variations": [
       {
-        "name": "Beige",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineLMold"
       }
     ],
@@ -4428,7 +4428,7 @@ const data = [
     "name": "mummy outfit",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLMummyWhite"
       }
     ],
@@ -4753,7 +4753,7 @@ const data = [
     "name": "orange dress",
     "variations": [
       {
-        "name": "Orange",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNOrange"
       }
     ],
@@ -4955,7 +4955,7 @@ const data = [
     "name": "palatial tank dress",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceAlongNNile"
       }
     ],
@@ -5042,7 +5042,7 @@ const data = [
     "name": "peach dress",
     "variations": [
       {
-        "name": "Peach",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNPeach0"
       }
     ],
@@ -5088,7 +5088,7 @@ const data = [
     "name": "pear dress",
     "variations": [
       {
-        "name": "Beige",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNPear0"
       }
     ],
@@ -5109,7 +5109,7 @@ const data = [
     "name": "pharaoh's outfit",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceBlongHEgypt"
       }
     ],
@@ -5188,7 +5188,7 @@ const data = [
     "name": "pineapple dress",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNPineapple"
       }
     ],
@@ -5933,7 +5933,7 @@ const data = [
     "name": "school smock",
     "variations": [
       {
-        "name": "Blue",
+        "name": "NA",
         "img": "TopsTexOnepieceBoxLSchoolsmockNavy"
       }
     ],
@@ -5954,7 +5954,7 @@ const data = [
     "name": "security uniform",
     "variations": [
       {
-        "name": "Navy blue",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLPoliceNavy"
       }
     ],
@@ -6300,7 +6300,7 @@ const data = [
     "name": "sky-egg outfit",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEggsky0"
       }
     ],
@@ -6440,7 +6440,7 @@ const data = [
     "name": "space suit",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLSpaceWhite"
       }
     ],
@@ -6605,7 +6605,7 @@ const data = [
     "name": "stone-egg outfit",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEggrock0"
       }
     ],
@@ -6626,7 +6626,7 @@ const data = [
     "name": "strawberry dress",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNStrawberry"
       }
     ],
@@ -7265,7 +7265,7 @@ const data = [
     "name": "tuna-sushi costume",
     "variations": [
       {
-        "name": "White",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNTuna"
       }
     ],
@@ -7356,7 +7356,7 @@ const data = [
     "name": "visual-punk dress",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "TopsTexOnepieceBalloonHVisual0"
       }
     ],
@@ -7377,7 +7377,7 @@ const data = [
     "name": "visual-punk outfit",
     "variations": [
       {
-        "name": "Black",
+        "name": "NA",
         "img": "TopsTexOnepieceOverallLVisualBlack"
       }
     ],
@@ -7398,7 +7398,7 @@ const data = [
     "name": "water-egg outfit",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEggfish0"
       }
     ],
@@ -7419,7 +7419,7 @@ const data = [
     "name": "watermelon dress",
     "variations": [
       {
-        "name": "Red",
+        "name": "NA",
         "img": "TopsTexOnepieceAlineNWatermelon"
       }
     ],
@@ -7486,7 +7486,7 @@ const data = [
     "name": "wood-egg outfit",
     "variations": [
       {
-        "name": "None",
+        "name": "NA",
         "img": "TopsTexOnepieceRibNEggforest0"
       }
     ],
@@ -7615,6 +7615,47 @@ const data = [
     "kitCost": null,
     "buy": 2760,
     "sell": 690,
+    "size": "1x1",
+    "source": "Able Sisters",
+    "sourceNotes": "Available from either Mable's temporary shop or Able Sisters shop",
+    "interact": null,
+    "catalog": "For sale",
+    "item-type": "dressup"
+  },
+  {
+    "name": "zigzag-print dress",
+    "variations": [
+      {
+        "name": "Purple",
+        "img": "TopsTexOnepieceAlongNEthnic0"
+      },
+      {
+        "name": "Green",
+        "img": "TopsTexOnepieceAlongNEthnic1"
+      },
+      {
+        "name": "Orange",
+        "img": "TopsTexOnepieceAlongNEthnic2"
+      },
+      {
+        "name": "Coral",
+        "img": "TopsTexOnepieceAlongNEthnic3"
+      },
+      {
+        "name": "Lime",
+        "img": "TopsTexOnepieceAlongNEthnic4"
+      },
+      {
+        "name": "Brown",
+        "img": "TopsTexOnepieceAlongNEthnic5"
+      }
+    ],
+    "diy": "No",
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 2000,
+    "sell": 500,
     "size": "1x1",
     "source": "Able Sisters",
     "sourceNotes": "Available from either Mable's temporary shop or Able Sisters shop",

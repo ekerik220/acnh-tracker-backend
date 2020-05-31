@@ -2035,6 +2035,27 @@ const data = [
     "interact": null,
     "catalog": "Not in catalog",
     "item-type": "music"
+  },
+  {
+    "name": "Hazure03",
+    "variations": [
+      {
+        "name": null,
+        "img": "mjk_Miss3"
+      }
+    ],
+    "diy": null,
+    "bodyCustomize": null,
+    "patternCustomize": null,
+    "kitCost": null,
+    "buy": 3200,
+    "sell": 800,
+    "size": "1x2",
+    "source": "K.K. concert",
+    "sourceNotes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
+    "interact": null,
+    "catalog": "Not in catalog",
+    "item-type": "music"
   }
 ];
 module.exports = data;
