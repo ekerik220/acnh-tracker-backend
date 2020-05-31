@@ -45,10 +45,8 @@ const all_data = [].concat(
   wallpaper
 );
 
-// Search by search term (req.query.s)
-router.get("/search", (req, res) => {
-  const data = all_data.filter((ele) => ele.name.includes(req.query.s));
-  res.send(data);
+router.get("/list", (req, res) => {
+  res.send(all_data);
 });
 
 // GETs the total amount of items/variations for each data type
@@ -93,12 +91,6 @@ router.get("/count", (req, res) => {
   });
 });
 
-// GETs desired category (req.params.category)
-router.get("/:category", (req, res) => {
-  const data = eval(req.params.category);
-  res.send(data);
-});
-
 const totalVariations = (data) => {
   let count = 0;
   data.forEach((ele) => {
@@ -106,6 +98,19 @@ const totalVariations = (data) => {
   });
   return count;
 };
+
+// TODO: Consider removing these functions.
+// // Search by search term (req.query.s)
+// router.get("/search", (req, res) => {
+//   const data = all_data.filter((ele) => ele.name.includes(req.query.s));
+//   res.send(data);
+// });
+
+// // GETs desired category (req.params.category)
+// router.get("/:category", (req, res) => {
+//   const data = eval(req.params.category);
+//   res.send(data);
+// });
 
 // TODO: Consider removing these functions.
 /*const getDataBySearchTerm = (searchTerm, pageNumber) => {
