@@ -14,7 +14,7 @@ router.post("/addToList", verify, async (req, res) => {
     itemName: req.body.item_name,
     category: req.body.category,
     variation: req.body.variation,
-    variationCount: req.body.variationCount,
+    variationList: req.body.variationList,
   };
 
   if (!user)
@@ -43,7 +43,7 @@ router.post("/addToWishList", verify, async (req, res) => {
     itemName: req.body.item_name,
     category: req.body.category,
     variation: req.body.variation,
-    variationCount: req.body.variationCount,
+    variationList: req.body.variationList,
   };
 
   if (!user)
@@ -72,7 +72,7 @@ router.post("/listDelete", verify, async (req, res) => {
     itemName: req.body.item_name,
     category: req.body.category,
     variation: req.body.variation,
-    variationCount: req.body.variationCount,
+    variationList: req.body.variationList,
   };
 
   if (!user) return res.status(400).send("No user matching this token.");
@@ -97,7 +97,7 @@ router.post("/wishDelete", verify, async (req, res) => {
     itemName: req.body.item_name,
     category: req.body.category,
     variation: req.body.variation,
-    variationCount: req.body.variationCount,
+    variationList: req.body.variationList,
   };
 
   if (!user)
