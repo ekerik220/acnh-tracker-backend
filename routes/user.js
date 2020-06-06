@@ -131,9 +131,7 @@ router.post("/confirm/:token", async (req, res) => {
 router.post("/resend/:email", async (req, res) => {
   const user = await User.findOne({ email: req.params.email });
   if (!user)
-    return res
-      .status(400)
-      .send({ error: "No user matching this confirmation token." });
+    return res.status(400).send({ error: "No user matching this email." });
 
   if (user.emailConfirmed)
     return res

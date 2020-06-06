@@ -27,9 +27,9 @@ router.post("/addToList", verify, async (req, res) => {
 
   try {
     const savedUser = await user.save();
-    res.json(savedUser);
+    res.send(savedUser);
   } catch (err) {
-    res.json({ message: err });
+    res.send({ error: err });
   }
 });
 
@@ -37,7 +37,6 @@ router.post("/addToList", verify, async (req, res) => {
 // header: "auth-token" = user's jwt-token
 // body: JSON with item_name, category, variation (optional)
 router.post("/addToWishList", verify, async (req, res) => {
-  console.log("1");
   const user = await User.findOne({ _id: req.user._id });
   const item = {
     itemName: req.body.item_name,
@@ -56,9 +55,9 @@ router.post("/addToWishList", verify, async (req, res) => {
 
   try {
     const savedUser = await user.save();
-    res.json(savedUser);
+    res.send(savedUser);
   } catch (err) {
-    res.json({ message: err });
+    res.send({ error: err });
   }
 });
 
@@ -81,9 +80,9 @@ router.post("/listDelete", verify, async (req, res) => {
 
   try {
     const savedUser = await user.save();
-    res.json(savedUser);
+    res.send(savedUser);
   } catch (err) {
-    res.json({ message: err });
+    res.send({ error: err });
   }
 });
 
@@ -107,9 +106,9 @@ router.post("/wishDelete", verify, async (req, res) => {
 
   try {
     const savedUser = await user.save();
-    res.json(savedUser);
+    res.send(savedUser);
   } catch (err) {
-    res.json({ message: err });
+    res.send({ error: err });
   }
 });
 
@@ -118,7 +117,7 @@ router.get("/:userName", async (req, res) => {
   const user = await User.findOne({ name: req.params.userName });
   if (!user) return res.status(400).send("No user matching this user name.");
 
-  res.json({
+  res.send({
     name: user.name,
     list: user.list,
     wishList: user.wishList,
