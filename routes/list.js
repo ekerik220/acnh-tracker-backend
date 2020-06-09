@@ -115,7 +115,8 @@ router.post("/wishDelete", verify, async (req, res) => {
 // GET the list of user with given user name.
 router.get("/:userName", async (req, res) => {
   const user = await User.findOne({ name: req.params.userName });
-  if (!user) return res.status(400).send("No user matching this user name.");
+  if (!user)
+    return res.status(400).send({ error: "No user matching this user name." });
 
   res.send({
     name: user.name,
