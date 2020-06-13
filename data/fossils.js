@@ -3,7 +3,7 @@ const data = [
     "name": "acanthostega",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilFirstFourLegs"
       }
     ],
@@ -24,7 +24,7 @@ const data = [
     "name": "amber",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAmber"
       }
     ],
@@ -45,7 +45,7 @@ const data = [
     "name": "ammonite",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAmmonoidea"
       }
     ],
@@ -66,7 +66,7 @@ const data = [
     "name": "ankylo skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAnkylosaurusA"
       }
     ],
@@ -87,7 +87,7 @@ const data = [
     "name": "ankylo tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAnkylosaurusC"
       }
     ],
@@ -108,7 +108,7 @@ const data = [
     "name": "ankylo torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAnkylosaurusB"
       }
     ],
@@ -129,7 +129,7 @@ const data = [
     "name": "anomalocaris",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAnomalocaris"
       }
     ],
@@ -150,7 +150,7 @@ const data = [
     "name": "archaeopteryx",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilArchaeopteryx"
       }
     ],
@@ -171,7 +171,7 @@ const data = [
     "name": "archelon skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilArchelonA"
       }
     ],
@@ -192,7 +192,7 @@ const data = [
     "name": "archelon tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilArchelonB"
       }
     ],
@@ -213,7 +213,7 @@ const data = [
     "name": "australopith",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilAustralopithecus"
       }
     ],
@@ -234,7 +234,7 @@ const data = [
     "name": "brachio chest",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrachiosaurusB"
       }
     ],
@@ -255,7 +255,7 @@ const data = [
     "name": "brachio pelvis",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrachiosaurusC"
       }
     ],
@@ -276,7 +276,7 @@ const data = [
     "name": "brachio skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrachiosaurusA"
       }
     ],
@@ -297,7 +297,7 @@ const data = [
     "name": "brachio tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrachiosaurusD"
       }
     ],
@@ -318,7 +318,7 @@ const data = [
     "name": "coprolite",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilCoprolite"
       }
     ],
@@ -339,7 +339,7 @@ const data = [
     "name": "deinony tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDeinonychusB"
       }
     ],
@@ -360,7 +360,7 @@ const data = [
     "name": "deinony torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDeinonychusA"
       }
     ],
@@ -381,7 +381,7 @@ const data = [
     "name": "dimetrodon skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDimetrodonA"
       }
     ],
@@ -402,7 +402,7 @@ const data = [
     "name": "dimetrodon torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDimetrodonB"
       }
     ],
@@ -423,7 +423,7 @@ const data = [
     "name": "dinosaur track",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilIchnology"
       }
     ],
@@ -444,7 +444,7 @@ const data = [
     "name": "diplo chest",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDiplodocusC"
       }
     ],
@@ -465,7 +465,7 @@ const data = [
     "name": "diplo neck",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDiplodocusB"
       }
     ],
@@ -486,7 +486,7 @@ const data = [
     "name": "diplo pelvis",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDiplodocusD"
       }
     ],
@@ -507,7 +507,7 @@ const data = [
     "name": "diplo skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDiplodocusA"
       }
     ],
@@ -528,7 +528,7 @@ const data = [
     "name": "diplo tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDiplodocusE"
       }
     ],
@@ -549,7 +549,7 @@ const data = [
     "name": "diplo tail tip",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDiplodocusF"
       }
     ],
@@ -570,7 +570,7 @@ const data = [
     "name": "dunkleosteus",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilDunkleosteus"
       }
     ],
@@ -591,7 +591,7 @@ const data = [
     "name": "eusthenopteron",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilFirstAmphibian"
       }
     ],
@@ -612,7 +612,7 @@ const data = [
     "name": "iguanodon skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilIguanodonA"
       }
     ],
@@ -633,7 +633,7 @@ const data = [
     "name": "iguanodon tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilIguanodonC"
       }
     ],
@@ -654,7 +654,7 @@ const data = [
     "name": "iguanodon torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilIguanodonB"
       }
     ],
@@ -675,7 +675,7 @@ const data = [
     "name": "juramaia",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilFirstMammal"
       }
     ],
@@ -696,7 +696,7 @@ const data = [
     "name": "left megalo side",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilMegalocerosB"
       }
     ],
@@ -717,7 +717,7 @@ const data = [
     "name": "left ptera wing",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilPteranodonC"
       }
     ],
@@ -738,7 +738,7 @@ const data = [
     "name": "left quetzal wing",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilQuetzalcoatlusC"
       }
     ],
@@ -759,7 +759,7 @@ const data = [
     "name": "mammoth skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilMammothA"
       }
     ],
@@ -780,7 +780,7 @@ const data = [
     "name": "mammoth torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilMammothB"
       }
     ],
@@ -801,7 +801,7 @@ const data = [
     "name": "megacero skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrontotheriumA"
       }
     ],
@@ -822,7 +822,7 @@ const data = [
     "name": "megacero tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrontotheriumC"
       }
     ],
@@ -843,7 +843,7 @@ const data = [
     "name": "megacero torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilBrontotheriumB"
       }
     ],
@@ -864,7 +864,7 @@ const data = [
     "name": "myllokunmingia",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilFirstFish"
       }
     ],
@@ -885,7 +885,7 @@ const data = [
     "name": "ophthalmo skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilOphthalmosaurusA"
       }
     ],
@@ -906,7 +906,7 @@ const data = [
     "name": "ophthalmo torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilOphthalmosaurusB"
       }
     ],
@@ -927,7 +927,7 @@ const data = [
     "name": "pachy skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilPachycephalosaurusA"
       }
     ],
@@ -948,7 +948,7 @@ const data = [
     "name": "pachy tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilPachycephalosaurusB"
       }
     ],
@@ -969,7 +969,7 @@ const data = [
     "name": "parasaur skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilParasaurolophusA"
       }
     ],
@@ -990,7 +990,7 @@ const data = [
     "name": "parasaur tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilParasaurolophusC"
       }
     ],
@@ -1011,7 +1011,7 @@ const data = [
     "name": "parasaur torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilParasaurolophusB"
       }
     ],
@@ -1032,7 +1032,7 @@ const data = [
     "name": "plesio body",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilElasmosaurusB"
       }
     ],
@@ -1053,7 +1053,7 @@ const data = [
     "name": "plesio skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilElasmosaurusA"
       }
     ],
@@ -1074,7 +1074,7 @@ const data = [
     "name": "plesio tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilElasmosaurusC"
       }
     ],
@@ -1095,7 +1095,7 @@ const data = [
     "name": "ptera body",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilPteranodonA"
       }
     ],
@@ -1116,7 +1116,7 @@ const data = [
     "name": "quetzal torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilQuetzalcoatlusA"
       }
     ],
@@ -1137,7 +1137,7 @@ const data = [
     "name": "right megalo side",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilMegalocerosA"
       }
     ],
@@ -1158,7 +1158,7 @@ const data = [
     "name": "right ptera wing",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilPteranodonB"
       }
     ],
@@ -1179,7 +1179,7 @@ const data = [
     "name": "right quetzal wing",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilQuetzalcoatlusB"
       }
     ],
@@ -1200,7 +1200,7 @@ const data = [
     "name": "sabertooth skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilSmilodonA"
       }
     ],
@@ -1221,7 +1221,7 @@ const data = [
     "name": "sabertooth tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilSmilodonB"
       }
     ],
@@ -1242,7 +1242,7 @@ const data = [
     "name": "shark-tooth pattern",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilShark"
       }
     ],
@@ -1263,7 +1263,7 @@ const data = [
     "name": "spino skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilSpinosaurusA"
       }
     ],
@@ -1284,7 +1284,7 @@ const data = [
     "name": "spino tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilSpinosaurusC"
       }
     ],
@@ -1305,7 +1305,7 @@ const data = [
     "name": "spino torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilSpinosaurusB"
       }
     ],
@@ -1326,7 +1326,7 @@ const data = [
     "name": "stego skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilStegosaurusA"
       }
     ],
@@ -1347,7 +1347,7 @@ const data = [
     "name": "stego tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilStegosaurusC"
       }
     ],
@@ -1368,7 +1368,7 @@ const data = [
     "name": "stego torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilStegosaurusB"
       }
     ],
@@ -1389,7 +1389,7 @@ const data = [
     "name": "T. rex skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTRexA"
       }
     ],
@@ -1410,7 +1410,7 @@ const data = [
     "name": "T. rex tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTRexC"
       }
     ],
@@ -1431,7 +1431,7 @@ const data = [
     "name": "T. rex torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTRexB"
       }
     ],
@@ -1452,7 +1452,7 @@ const data = [
     "name": "tricera skull",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTriceratopsA"
       }
     ],
@@ -1473,7 +1473,7 @@ const data = [
     "name": "tricera tail",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTriceratopsC"
       }
     ],
@@ -1494,7 +1494,7 @@ const data = [
     "name": "tricera torso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTriceratopsB"
       }
     ],
@@ -1515,7 +1515,7 @@ const data = [
     "name": "trilobite",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrFossilTrilobite"
       }
     ],

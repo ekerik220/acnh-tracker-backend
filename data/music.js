@@ -3,7 +3,7 @@ const data = [
     "name": "Agent K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Keiji"
       }
     ],
@@ -24,7 +24,7 @@ const data = [
     "name": "Aloha K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Aloha"
       }
     ],
@@ -45,7 +45,7 @@ const data = [
     "name": "Animal City",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_DoubutuNoMachi"
       }
     ],
@@ -66,7 +66,7 @@ const data = [
     "name": "Bubblegum K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Idol"
       }
     ],
@@ -87,7 +87,7 @@ const data = [
     "name": "Caf\u00e9 K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Paris"
       }
     ],
@@ -108,7 +108,7 @@ const data = [
     "name": "Comrade K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_ShowaKayo"
       }
     ],
@@ -129,7 +129,7 @@ const data = [
     "name": "DJ K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_EuroBeat"
       }
     ],
@@ -150,7 +150,7 @@ const data = [
     "name": "Drivin'",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Drive"
       }
     ],
@@ -171,7 +171,7 @@ const data = [
     "name": "Farewell",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Sayonara"
       }
     ],
@@ -192,7 +192,7 @@ const data = [
     "name": "Forest Life",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_MoriNoSeikatsu"
       }
     ],
@@ -213,7 +213,7 @@ const data = [
     "name": "Go K.K. Rider",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_KekeRider"
       }
     ],
@@ -234,7 +234,7 @@ const data = [
     "name": "Hypno K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_UtataneNoYume"
       }
     ],
@@ -255,7 +255,7 @@ const data = [
     "name": "I Love You",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Daisuki"
       }
     ],
@@ -276,7 +276,7 @@ const data = [
     "name": "Imperial K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_China"
       }
     ],
@@ -297,7 +297,7 @@ const data = [
     "name": "K.K. Adventure",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Hollywood"
       }
     ],
@@ -318,7 +318,7 @@ const data = [
     "name": "K.K. Aria",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Maria"
       }
     ],
@@ -339,7 +339,7 @@ const data = [
     "name": "K.K. Ballad",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Ballad"
       }
     ],
@@ -360,7 +360,7 @@ const data = [
     "name": "K.K. Bazaar",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Roma"
       }
     ],
@@ -381,7 +381,7 @@ const data = [
     "name": "K.K. Birthday",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_BirthdaySong"
       }
     ],
@@ -402,7 +402,7 @@ const data = [
     "name": "K.K. Blues",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Blues"
       }
     ],
@@ -423,7 +423,7 @@ const data = [
     "name": "K.K. Bossa",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Bossa"
       }
     ],
@@ -444,7 +444,7 @@ const data = [
     "name": "K.K. Calypso",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Caripso"
       }
     ],
@@ -465,7 +465,7 @@ const data = [
     "name": "K.K. Casbah",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Turkey"
       }
     ],
@@ -486,7 +486,7 @@ const data = [
     "name": "K.K. Chorale",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Sanbika"
       }
     ],
@@ -507,7 +507,7 @@ const data = [
     "name": "K.K. Condor",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Peru"
       }
     ],
@@ -528,7 +528,7 @@ const data = [
     "name": "K.K. Country",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Country"
       }
     ],
@@ -549,7 +549,7 @@ const data = [
     "name": "K.K. Cruisin'",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Urban"
       }
     ],
@@ -570,7 +570,7 @@ const data = [
     "name": "K.K. D&B",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Drumnbass"
       }
     ],
@@ -591,7 +591,7 @@ const data = [
     "name": "K.K. Dirge",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_KowaiUta"
       }
     ],
@@ -612,7 +612,7 @@ const data = [
     "name": "K.K. Disco",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Disco"
       }
     ],
@@ -633,7 +633,7 @@ const data = [
     "name": "K.K. Dixie",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Dixie"
       }
     ],
@@ -654,7 +654,7 @@ const data = [
     "name": "K.K. \u00c9tude",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Etude"
       }
     ],
@@ -675,7 +675,7 @@ const data = [
     "name": "K.K. Faire",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Haisai"
       }
     ],
@@ -696,7 +696,7 @@ const data = [
     "name": "K.K. Flamenco",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Flamenco"
       }
     ],
@@ -717,7 +717,7 @@ const data = [
     "name": "K.K. Folk",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Minyo"
       }
     ],
@@ -738,7 +738,7 @@ const data = [
     "name": "K.K. Fusion",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Fusion"
       }
     ],
@@ -759,7 +759,7 @@ const data = [
     "name": "K.K. Groove",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Raregroove"
       }
     ],
@@ -780,7 +780,7 @@ const data = [
     "name": "K.K. Gumbo",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_NewOrleans"
       }
     ],
@@ -801,7 +801,7 @@ const data = [
     "name": "K.K. House",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_House"
       }
     ],
@@ -822,7 +822,7 @@ const data = [
     "name": "K.K. Island",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_DoubutsuNoShima"
       }
     ],
@@ -843,7 +843,7 @@ const data = [
     "name": "K.K. Jazz",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Jazz"
       }
     ],
@@ -864,7 +864,7 @@ const data = [
     "name": "K.K. Jongara",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Jongara"
       }
     ],
@@ -885,7 +885,7 @@ const data = [
     "name": "K.K. Lament",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Enka"
       }
     ],
@@ -906,7 +906,7 @@ const data = [
     "name": "K.K. Love Song",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_LoveSong"
       }
     ],
@@ -927,7 +927,7 @@ const data = [
     "name": "K.K. Lullaby",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Lullaby"
       }
     ],
@@ -948,7 +948,7 @@ const data = [
     "name": "K.K. Mambo",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Mambo"
       }
     ],
@@ -969,7 +969,7 @@ const data = [
     "name": "K.K. Marathon",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Gamelan"
       }
     ],
@@ -990,7 +990,7 @@ const data = [
     "name": "K.K. March",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_March"
       }
     ],
@@ -1011,7 +1011,7 @@ const data = [
     "name": "K.K. Mariachi",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Senor"
       }
     ],
@@ -1032,7 +1032,7 @@ const data = [
     "name": "K.K. Metal",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Metal"
       }
     ],
@@ -1053,7 +1053,7 @@ const data = [
     "name": "K.K. Milonga",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Milonga"
       }
     ],
@@ -1074,7 +1074,7 @@ const data = [
     "name": "K.K. Moody",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Bolero"
       }
     ],
@@ -1095,7 +1095,7 @@ const data = [
     "name": "K.K. Oasis",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Maharaja"
       }
     ],
@@ -1116,7 +1116,7 @@ const data = [
     "name": "K.K. Parade",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Parade"
       }
     ],
@@ -1137,7 +1137,7 @@ const data = [
     "name": "K.K. Ragtime",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_RagTime"
       }
     ],
@@ -1158,7 +1158,7 @@ const data = [
     "name": "K.K. Rally",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Ondo"
       }
     ],
@@ -1179,7 +1179,7 @@ const data = [
     "name": "K.K. Reggae",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Reggae"
       }
     ],
@@ -1200,7 +1200,7 @@ const data = [
     "name": "K.K. Rock",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Rock"
       }
     ],
@@ -1221,7 +1221,7 @@ const data = [
     "name": "K.K. Rockabilly",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_KekeBilly"
       }
     ],
@@ -1242,7 +1242,7 @@ const data = [
     "name": "K.K. Safari",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Afro"
       }
     ],
@@ -1263,7 +1263,7 @@ const data = [
     "name": "K.K. Salsa",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Salsa"
       }
     ],
@@ -1284,7 +1284,7 @@ const data = [
     "name": "K.K. Samba",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Samba"
       }
     ],
@@ -1305,7 +1305,7 @@ const data = [
     "name": "K.K. Ska",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Ska"
       }
     ],
@@ -1326,7 +1326,7 @@ const data = [
     "name": "K.K. Sonata",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Sonata"
       }
     ],
@@ -1347,7 +1347,7 @@ const data = [
     "name": "K.K. Song",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_KekeSong"
       }
     ],
@@ -1368,7 +1368,7 @@ const data = [
     "name": "K.K. Soul",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Soul"
       }
     ],
@@ -1389,7 +1389,7 @@ const data = [
     "name": "K.K. Steppe",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Cossack"
       }
     ],
@@ -1410,7 +1410,7 @@ const data = [
     "name": "K.K. Stroll",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Osanpo"
       }
     ],
@@ -1431,7 +1431,7 @@ const data = [
     "name": "K.K. Swing",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Swing"
       }
     ],
@@ -1452,7 +1452,7 @@ const data = [
     "name": "K.K. Synth",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Electronica"
       }
     ],
@@ -1473,7 +1473,7 @@ const data = [
     "name": "K.K. Tango",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Tango"
       }
     ],
@@ -1494,7 +1494,7 @@ const data = [
     "name": "K.K. Technopop",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_TechnoBeat"
       }
     ],
@@ -1515,7 +1515,7 @@ const data = [
     "name": "K.K. Waltz",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Waltz"
       }
     ],
@@ -1536,7 +1536,7 @@ const data = [
     "name": "K.K. Western",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Western"
       }
     ],
@@ -1557,7 +1557,7 @@ const data = [
     "name": "King K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Daimyo"
       }
     ],
@@ -1578,7 +1578,7 @@ const data = [
     "name": "Lucky K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Irish"
       }
     ],
@@ -1599,7 +1599,7 @@ const data = [
     "name": "Marine Song 2001",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_HunaUta2001"
       }
     ],
@@ -1620,7 +1620,7 @@ const data = [
     "name": "Mountain Song",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Alpine"
       }
     ],
@@ -1641,7 +1641,7 @@ const data = [
     "name": "Mr. K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Sensei"
       }
     ],
@@ -1662,7 +1662,7 @@ const data = [
     "name": "My Place",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_BokuNoBasho"
       }
     ],
@@ -1683,7 +1683,7 @@ const data = [
     "name": "Neapolitan",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Napolitan"
       }
     ],
@@ -1704,7 +1704,7 @@ const data = [
     "name": "Only Me",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_OnlyMe"
       }
     ],
@@ -1725,7 +1725,7 @@ const data = [
     "name": "Pondering",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_KangaeChu"
       }
     ],
@@ -1746,7 +1746,7 @@ const data = [
     "name": "Rockin' K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_RocknRoll"
       }
     ],
@@ -1767,7 +1767,7 @@ const data = [
     "name": "Soulful K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Gospel"
       }
     ],
@@ -1788,7 +1788,7 @@ const data = [
     "name": "Space K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Minimal"
       }
     ],
@@ -1809,7 +1809,7 @@ const data = [
     "name": "Spring Blossoms",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_HaruNoKomorebi"
       }
     ],
@@ -1830,7 +1830,7 @@ const data = [
     "name": "Stale Cupcakes",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_BlueOnigiri"
       }
     ],
@@ -1851,7 +1851,7 @@ const data = [
     "name": "Steep Hill",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_NiDanZaka"
       }
     ],
@@ -1872,7 +1872,7 @@ const data = [
     "name": "Surfin' K.K.",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Eleki"
       }
     ],
@@ -1893,7 +1893,7 @@ const data = [
     "name": "The K. Funk",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Funk"
       }
     ],
@@ -1914,7 +1914,7 @@ const data = [
     "name": "To the Edge",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_NamiNami"
       }
     ],
@@ -1935,7 +1935,7 @@ const data = [
     "name": "Two Days Ago",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Ototoi"
       }
     ],
@@ -1956,7 +1956,7 @@ const data = [
     "name": "Wandering",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Horo"
       }
     ],
@@ -1977,7 +1977,7 @@ const data = [
     "name": "Welcome Horizons",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_MainTheme"
       }
     ],
@@ -1998,7 +1998,7 @@ const data = [
     "name": "Hazure01",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Miss1"
       }
     ],
@@ -2019,7 +2019,7 @@ const data = [
     "name": "Hazure02",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Miss2"
       }
     ],
@@ -2040,7 +2040,7 @@ const data = [
     "name": "Hazure03",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "mjk_Miss3"
       }
     ],

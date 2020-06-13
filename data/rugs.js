@@ -3,7 +3,7 @@ const data = [
     "name": "aluminum rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectAluminumM00"
       }
     ],
@@ -24,7 +24,7 @@ const data = [
     "name": "apple rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherAppleM00"
       }
     ],
@@ -45,7 +45,7 @@ const data = [
     "name": "Bell-bag rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherBellM00"
       }
     ],
@@ -66,7 +66,7 @@ const data = [
     "name": "black blocks rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareBlockM03"
       }
     ],
@@ -87,7 +87,7 @@ const data = [
     "name": "black wooden-deck rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDeckM03"
       }
     ],
@@ -108,7 +108,7 @@ const data = [
     "name": "black-design kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectNativeKitchenS03"
       }
     ],
@@ -129,7 +129,7 @@ const data = [
     "name": "blue argyle rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectArgyleL02"
       }
     ],
@@ -150,7 +150,7 @@ const data = [
     "name": "blue blocks rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareBlockM01"
       }
     ],
@@ -171,7 +171,7 @@ const data = [
     "name": "blue dotted rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDotL03"
       }
     ],
@@ -192,7 +192,7 @@ const data = [
     "name": "blue kilim-style carpet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareKirimL01"
       }
     ],
@@ -213,7 +213,7 @@ const data = [
     "name": "blue kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectKitchenS02"
       }
     ],
@@ -234,7 +234,7 @@ const data = [
     "name": "blue medium round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleM02"
       }
     ],
@@ -255,7 +255,7 @@ const data = [
     "name": "blue message mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherMessageS01"
       }
     ],
@@ -276,7 +276,7 @@ const data = [
     "name": "blue Persian rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquarePersianL01"
       }
     ],
@@ -297,7 +297,7 @@ const data = [
     "name": "blue shaggy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareShaggyL02"
       }
     ],
@@ -318,7 +318,7 @@ const data = [
     "name": "blue small round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleS02"
       }
     ],
@@ -339,7 +339,7 @@ const data = [
     "name": "blue stripes rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBorderL02"
       }
     ],
@@ -360,7 +360,7 @@ const data = [
     "name": "blue vinyl sheet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectVinylM01"
       }
     ],
@@ -381,7 +381,7 @@ const data = [
     "name": "blue wavy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectWaveL02"
       }
     ],
@@ -402,7 +402,7 @@ const data = [
     "name": "blue wedding rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectJuneBrideM00"
       }
     ],
@@ -423,7 +423,7 @@ const data = [
     "name": "blue-design kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectNativeKitchenS01"
       }
     ],
@@ -444,7 +444,7 @@ const data = [
     "name": "botanical rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBotanicalL00"
       }
     ],
@@ -465,7 +465,7 @@ const data = [
     "name": "brown argyle rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectArgyleL03"
       }
     ],
@@ -486,7 +486,7 @@ const data = [
     "name": "brown kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectKitchenS00"
       }
     ],
@@ -507,7 +507,7 @@ const data = [
     "name": "brown shaggy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareShaggyL01"
       }
     ],
@@ -528,7 +528,7 @@ const data = [
     "name": "brown wooden-deck rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDeckM00"
       }
     ],
@@ -549,7 +549,7 @@ const data = [
     "name": "Bunny Day rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherEasterM00"
       }
     ],
@@ -570,7 +570,7 @@ const data = [
     "name": "cherry rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherCherryM00"
       }
     ],
@@ -591,7 +591,7 @@ const data = [
     "name": "colorful vinyl sheet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectVinylM00"
       }
     ],
@@ -612,7 +612,7 @@ const data = [
     "name": "dark bamboo rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBambooM01"
       }
     ],
@@ -633,7 +633,7 @@ const data = [
     "name": "Earth rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundEarthM00"
       }
     ],
@@ -654,7 +654,7 @@ const data = [
     "name": "fish rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherFishM00"
       }
     ],
@@ -675,7 +675,7 @@ const data = [
     "name": "fluffy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherCloudM00"
       }
     ],
@@ -696,7 +696,7 @@ const data = [
     "name": "fossil rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherFossilM00"
       }
     ],
@@ -717,7 +717,7 @@ const data = [
     "name": "green checked rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareCheckQuiltL03"
       }
     ],
@@ -738,7 +738,7 @@ const data = [
     "name": "green kilim-style carpet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareKirimL02"
       }
     ],
@@ -759,7 +759,7 @@ const data = [
     "name": "green kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectKitchenS03"
       }
     ],
@@ -780,7 +780,7 @@ const data = [
     "name": "green shaggy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareShaggyL00"
       }
     ],
@@ -801,7 +801,7 @@ const data = [
     "name": "green stripes rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBorderL03"
       }
     ],
@@ -822,7 +822,7 @@ const data = [
     "name": "iron entrance mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectIronmatS00"
       }
     ],
@@ -843,7 +843,7 @@ const data = [
     "name": "ivory medium round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleM00"
       }
     ],
@@ -864,7 +864,7 @@ const data = [
     "name": "ivory simple bath mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBathmatS00"
       }
     ],
@@ -885,7 +885,7 @@ const data = [
     "name": "ivory small round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleS00"
       }
     ],
@@ -906,7 +906,7 @@ const data = [
     "name": "lacy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundLaceM00"
       }
     ],
@@ -927,7 +927,7 @@ const data = [
     "name": "ladybug rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundLadybirdM00"
       }
     ],
@@ -948,7 +948,7 @@ const data = [
     "name": "light bamboo rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBambooM00"
       }
     ],
@@ -969,7 +969,7 @@ const data = [
     "name": "magic-circle rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundMagicM00"
       }
     ],
@@ -990,7 +990,7 @@ const data = [
     "name": "modern wavy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectWaveL00"
       }
     ],
@@ -1011,7 +1011,7 @@ const data = [
     "name": "Mom's cool kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectMomS00"
       }
     ],
@@ -1032,7 +1032,7 @@ const data = [
     "name": "Mom's lively kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectMomS02"
       }
     ],
@@ -1053,7 +1053,7 @@ const data = [
     "name": "Mom's playful kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectMomS01"
       }
     ],
@@ -1074,7 +1074,7 @@ const data = [
     "name": "Mom's reliable kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectMomS03"
       }
     ],
@@ -1095,7 +1095,7 @@ const data = [
     "name": "monochromatic dotted rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDotL00"
       }
     ],
@@ -1116,7 +1116,7 @@ const data = [
     "name": "monochromatic wavy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectWaveL01"
       }
     ],
@@ -1137,7 +1137,7 @@ const data = [
     "name": "mush rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherMushM00"
       }
     ],
@@ -1158,7 +1158,7 @@ const data = [
     "name": "natural wooden-deck rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDeckM01"
       }
     ],
@@ -1179,7 +1179,7 @@ const data = [
     "name": "Nook Inc. botanical rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherTanukiM00"
       }
     ],
@@ -1200,7 +1200,7 @@ const data = [
     "name": "Nook Inc. rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherLeafM00"
       }
     ],
@@ -1221,7 +1221,7 @@ const data = [
     "name": "Nook Inc. silk rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectTanukiL00"
       }
     ],
@@ -1242,7 +1242,7 @@ const data = [
     "name": "orange rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherOrangeM00"
       }
     ],
@@ -1263,7 +1263,7 @@ const data = [
     "name": "oval entrance mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherCountryS00"
       }
     ],
@@ -1284,7 +1284,7 @@ const data = [
     "name": "peach checked rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareCheckQuiltL02"
       }
     ],
@@ -1305,7 +1305,7 @@ const data = [
     "name": "peach rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherPeachM00"
       }
     ],
@@ -1326,7 +1326,7 @@ const data = [
     "name": "peach stripes rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBorderL01"
       }
     ],
@@ -1347,7 +1347,7 @@ const data = [
     "name": "pear rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherPearM00"
       }
     ],
@@ -1368,7 +1368,7 @@ const data = [
     "name": "pink heart rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherHeartM00"
       }
     ],
@@ -1389,7 +1389,7 @@ const data = [
     "name": "pink rose rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherRoseM00"
       }
     ],
@@ -1410,7 +1410,7 @@ const data = [
     "name": "purple heart rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherHeartM02"
       }
     ],
@@ -1431,7 +1431,7 @@ const data = [
     "name": "purple Persian rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquarePersianL03"
       }
     ],
@@ -1452,7 +1452,7 @@ const data = [
     "name": "purple shaggy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareShaggyL03"
       }
     ],
@@ -1473,7 +1473,7 @@ const data = [
     "name": "red argyle rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectArgyleL01"
       }
     ],
@@ -1494,7 +1494,7 @@ const data = [
     "name": "red blocks rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareBlockM00"
       }
     ],
@@ -1515,7 +1515,7 @@ const data = [
     "name": "red carpet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectElegantM00"
       }
     ],
@@ -1536,7 +1536,7 @@ const data = [
     "name": "red dotted rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDotL02"
       }
     ],
@@ -1557,7 +1557,7 @@ const data = [
     "name": "red kilim-style carpet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareKirimL00"
       }
     ],
@@ -1578,7 +1578,7 @@ const data = [
     "name": "red medium round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleM01"
       }
     ],
@@ -1599,7 +1599,7 @@ const data = [
     "name": "red message mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherMessageS03"
       }
     ],
@@ -1620,7 +1620,7 @@ const data = [
     "name": "red Persian rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquarePersianL00"
       }
     ],
@@ -1641,7 +1641,7 @@ const data = [
     "name": "red rose rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherRoseM01"
       }
     ],
@@ -1662,7 +1662,7 @@ const data = [
     "name": "red small round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleS01"
       }
     ],
@@ -1683,7 +1683,7 @@ const data = [
     "name": "red vinyl sheet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectVinylM02"
       }
     ],
@@ -1704,7 +1704,7 @@ const data = [
     "name": "red wavy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectWaveL03"
       }
     ],
@@ -1725,7 +1725,7 @@ const data = [
     "name": "red wedding rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectJuneBrideM02"
       }
     ],
@@ -1746,7 +1746,7 @@ const data = [
     "name": "red-and-blue checked rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareCheckQuiltL00"
       }
     ],
@@ -1767,7 +1767,7 @@ const data = [
     "name": "red-design kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectNativeKitchenS00"
       }
     ],
@@ -1788,7 +1788,7 @@ const data = [
     "name": "retro dotted rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDotL01"
       }
     ],
@@ -1809,7 +1809,7 @@ const data = [
     "name": "rough rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDoormatS00"
       }
     ],
@@ -1830,7 +1830,7 @@ const data = [
     "name": "rubber mud mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectRubberScraperS00"
       }
     ],
@@ -1851,7 +1851,7 @@ const data = [
     "name": "shanty mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareOldStrawL00"
       }
     ],
@@ -1872,7 +1872,7 @@ const data = [
     "name": "shell rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherShellM00"
       }
     ],
@@ -1893,7 +1893,7 @@ const data = [
     "name": "simple green bath mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBathmatS03"
       }
     ],
@@ -1914,7 +1914,7 @@ const data = [
     "name": "simple medium avocado mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM03"
       }
     ],
@@ -1935,7 +1935,7 @@ const data = [
     "name": "simple medium black mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM07"
       }
     ],
@@ -1956,7 +1956,7 @@ const data = [
     "name": "simple medium blue mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM02"
       }
     ],
@@ -1977,7 +1977,7 @@ const data = [
     "name": "simple medium brown mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM01"
       }
     ],
@@ -1998,7 +1998,7 @@ const data = [
     "name": "simple medium orange mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM05"
       }
     ],
@@ -2019,7 +2019,7 @@ const data = [
     "name": "simple medium purple mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM06"
       }
     ],
@@ -2040,7 +2040,7 @@ const data = [
     "name": "simple medium red mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM04"
       }
     ],
@@ -2061,7 +2061,7 @@ const data = [
     "name": "simple navy bath mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBathmatS01"
       }
     ],
@@ -2082,7 +2082,7 @@ const data = [
     "name": "simple pink bath mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBathmatS02"
       }
     ],
@@ -2103,7 +2103,7 @@ const data = [
     "name": "simple small avocado mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS03"
       }
     ],
@@ -2124,7 +2124,7 @@ const data = [
     "name": "simple small black mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS07"
       }
     ],
@@ -2145,7 +2145,7 @@ const data = [
     "name": "simple small blue mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS02"
       }
     ],
@@ -2166,7 +2166,7 @@ const data = [
     "name": "simple small brown mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS01"
       }
     ],
@@ -2187,7 +2187,7 @@ const data = [
     "name": "simple small orange mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS05"
       }
     ],
@@ -2208,7 +2208,7 @@ const data = [
     "name": "simple small purple mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS06"
       }
     ],
@@ -2229,7 +2229,7 @@ const data = [
     "name": "simple small red mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS04"
       }
     ],
@@ -2250,7 +2250,7 @@ const data = [
     "name": "sloppy rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherSloppyL00"
       }
     ],
@@ -2271,7 +2271,7 @@ const data = [
     "name": "snowflake rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSnowM00"
       }
     ],
@@ -2292,7 +2292,7 @@ const data = [
     "name": "tatami mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectTatamiM00"
       }
     ],
@@ -2313,7 +2313,7 @@ const data = [
     "name": "tropical rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundIslandM00"
       }
     ],
@@ -2334,7 +2334,7 @@ const data = [
     "name": "turquoise heart rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherHeartM01"
       }
     ],
@@ -2355,7 +2355,7 @@ const data = [
     "name": "white heart rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherHeartM03"
       }
     ],
@@ -2376,7 +2376,7 @@ const data = [
     "name": "white message mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherMessageS00"
       }
     ],
@@ -2397,7 +2397,7 @@ const data = [
     "name": "white rose rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherRoseM03"
       }
     ],
@@ -2418,7 +2418,7 @@ const data = [
     "name": "white simple medium mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleM00"
       }
     ],
@@ -2439,7 +2439,7 @@ const data = [
     "name": "white simple small mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareSimpleS00"
       }
     ],
@@ -2460,7 +2460,7 @@ const data = [
     "name": "white wedding rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectJuneBrideM03"
       }
     ],
@@ -2481,7 +2481,7 @@ const data = [
     "name": "white wooden-deck rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectDeckM02"
       }
     ],
@@ -2502,7 +2502,7 @@ const data = [
     "name": "yellow argyle rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectArgyleL00"
       }
     ],
@@ -2523,7 +2523,7 @@ const data = [
     "name": "yellow blocks rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareBlockM02"
       }
     ],
@@ -2544,7 +2544,7 @@ const data = [
     "name": "yellow checked rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareCheckQuiltL01"
       }
     ],
@@ -2565,7 +2565,7 @@ const data = [
     "name": "yellow kilim-style carpet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquareKirimL03"
       }
     ],
@@ -2586,7 +2586,7 @@ const data = [
     "name": "yellow kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectKitchenS01"
       }
     ],
@@ -2607,7 +2607,7 @@ const data = [
     "name": "yellow medium round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleM03"
       }
     ],
@@ -2628,7 +2628,7 @@ const data = [
     "name": "yellow message mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherMessageS02"
       }
     ],
@@ -2649,7 +2649,7 @@ const data = [
     "name": "yellow Persian rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugSquarePersianL02"
       }
     ],
@@ -2670,7 +2670,7 @@ const data = [
     "name": "yellow rose rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugOtherRoseM02"
       }
     ],
@@ -2691,7 +2691,7 @@ const data = [
     "name": "yellow small round mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRoundSimpleS03"
       }
     ],
@@ -2712,7 +2712,7 @@ const data = [
     "name": "yellow stripes rug",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectBorderL00"
       }
     ],
@@ -2733,7 +2733,7 @@ const data = [
     "name": "yellow vinyl sheet",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectVinylM03"
       }
     ],
@@ -2754,7 +2754,7 @@ const data = [
     "name": "yellow-design kitchen mat",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "RugRectNativeKitchenS02"
       }
     ],

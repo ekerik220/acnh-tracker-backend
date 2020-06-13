@@ -405,99 +405,99 @@ const data = [
     "name": "Baby bear",
     "variations": [
       {
-        "name": "Cream",
+        "name": "Cream None",
         "img": "FtrBearS_Remake_0_0"
       },
       {
-        "name": "Cream",
+        "name": "Cream Heart",
         "img": "FtrBearS_Remake_0_1"
       },
       {
-        "name": "Cream",
+        "name": "Cream Fish",
         "img": "FtrBearS_Remake_0_2"
       },
       {
-        "name": "Cream",
+        "name": "Cream Star",
         "img": "FtrBearS_Remake_0_3"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha None",
         "img": "FtrBearS_Remake_1_0"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Heart",
         "img": "FtrBearS_Remake_1_1"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Fish",
         "img": "FtrBearS_Remake_1_2"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Star",
         "img": "FtrBearS_Remake_1_3"
       },
       {
-        "name": "Choco",
+        "name": "Choco None",
         "img": "FtrBearS_Remake_2_0"
       },
       {
-        "name": "Choco",
+        "name": "Choco Heart",
         "img": "FtrBearS_Remake_2_1"
       },
       {
-        "name": "Choco",
+        "name": "Choco Fish",
         "img": "FtrBearS_Remake_2_2"
       },
       {
-        "name": "Choco",
+        "name": "Choco Star",
         "img": "FtrBearS_Remake_2_3"
       },
       {
-        "name": "Floral",
+        "name": "Floral None",
         "img": "FtrBearS_Remake_3_0"
       },
       {
-        "name": "Floral",
+        "name": "Floral Heart",
         "img": "FtrBearS_Remake_3_1"
       },
       {
-        "name": "Floral",
+        "name": "Floral Fish",
         "img": "FtrBearS_Remake_3_2"
       },
       {
-        "name": "Floral",
+        "name": "Floral Star",
         "img": "FtrBearS_Remake_3_3"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered None",
         "img": "FtrBearS_Remake_4_0"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Heart",
         "img": "FtrBearS_Remake_4_1"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Fish",
         "img": "FtrBearS_Remake_4_2"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Star",
         "img": "FtrBearS_Remake_4_3"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed None",
         "img": "FtrBearS_Remake_5_0"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Heart",
         "img": "FtrBearS_Remake_5_1"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Fish",
         "img": "FtrBearS_Remake_5_2"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Star",
         "img": "FtrBearS_Remake_5_3"
       }
     ],
@@ -1500,51 +1500,51 @@ const data = [
     "name": "cartoonist's set",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black Blank",
         "img": "FtrCartoonistset_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Comic plan",
         "img": "FtrCartoonistset_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Gag comic",
         "img": "FtrCartoonistset_Remake_0_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Blank",
         "img": "FtrCartoonistset_Remake_1_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Comic plan",
         "img": "FtrCartoonistset_Remake_1_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Gag comic",
         "img": "FtrCartoonistset_Remake_1_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Blank",
         "img": "FtrCartoonistset_Remake_2_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Comic plan",
         "img": "FtrCartoonistset_Remake_2_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Gag comic",
         "img": "FtrCartoonistset_Remake_2_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Blank",
         "img": "FtrCartoonistset_Remake_3_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Comic plan",
         "img": "FtrCartoonistset_Remake_3_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Gag comic",
         "img": "FtrCartoonistset_Remake_3_2"
       }
     ],
@@ -2267,27 +2267,27 @@ const data = [
     "name": "cushion",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA White",
         "img": "FtrCushion_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Floral",
         "img": "FtrCushion_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Alphabet",
         "img": "FtrCushion_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Paisley",
         "img": "FtrCushion_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Rainbow colors",
         "img": "FtrCushion_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Pop",
         "img": "FtrCushion_Remake_0_5"
       }
     ],
@@ -2345,51 +2345,51 @@ const data = [
     "name": "cutting board",
     "variations": [
       {
-        "name": "No finish",
+        "name": "No finish Red",
         "img": "FtrCuttingboard_Remake_0_0"
       },
       {
-        "name": "No finish",
+        "name": "No finish Blue",
         "img": "FtrCuttingboard_Remake_0_1"
       },
       {
-        "name": "No finish",
+        "name": "No finish Yellow",
         "img": "FtrCuttingboard_Remake_0_2"
       },
       {
-        "name": "Cherry brown",
+        "name": "Cherry brown Red",
         "img": "FtrCuttingboard_Remake_1_0"
       },
       {
-        "name": "Cherry brown",
+        "name": "Cherry brown Blue",
         "img": "FtrCuttingboard_Remake_1_1"
       },
       {
-        "name": "Cherry brown",
+        "name": "Cherry brown Yellow",
         "img": "FtrCuttingboard_Remake_1_2"
       },
       {
-        "name": "Dark",
+        "name": "Dark Red",
         "img": "FtrCuttingboard_Remake_2_0"
       },
       {
-        "name": "Dark",
+        "name": "Dark Blue",
         "img": "FtrCuttingboard_Remake_2_1"
       },
       {
-        "name": "Dark",
+        "name": "Dark Yellow",
         "img": "FtrCuttingboard_Remake_2_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Red",
         "img": "FtrCuttingboard_Remake_3_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Blue",
         "img": "FtrCuttingboard_Remake_3_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Yellow",
         "img": "FtrCuttingboard_Remake_3_2"
       }
     ],
@@ -2684,115 +2684,115 @@ const data = [
     "name": "desktop computer",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black Desktop",
         "img": "FtrDesktopPC_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Search engine",
         "img": "FtrDesktopPC_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Calculations",
         "img": "FtrDesktopPC_Remake_0_2"
       },
       {
-        "name": "Black",
+        "name": "Black Web browsing",
         "img": "FtrDesktopPC_Remake_0_3"
       },
       {
-        "name": "Black",
+        "name": "Black Programming",
         "img": "FtrDesktopPC_Remake_0_4"
       },
       {
-        "name": "Black",
+        "name": "Black Art program",
         "img": "FtrDesktopPC_Remake_0_5"
       },
       {
-        "name": "Black",
+        "name": "Black Digital audio workstation",
         "img": "FtrDesktopPC_Remake_0_6"
       },
       {
-        "name": "Silver",
+        "name": "Silver Desktop",
         "img": "FtrDesktopPC_Remake_1_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Search engine",
         "img": "FtrDesktopPC_Remake_1_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Calculations",
         "img": "FtrDesktopPC_Remake_1_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Web browsing",
         "img": "FtrDesktopPC_Remake_1_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Programming",
         "img": "FtrDesktopPC_Remake_1_4"
       },
       {
-        "name": "Silver",
+        "name": "Silver Art program",
         "img": "FtrDesktopPC_Remake_1_5"
       },
       {
-        "name": "Silver",
+        "name": "Silver Digital audio workstation",
         "img": "FtrDesktopPC_Remake_1_6"
       },
       {
-        "name": "White",
+        "name": "White Desktop",
         "img": "FtrDesktopPC_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Search engine",
         "img": "FtrDesktopPC_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Calculations",
         "img": "FtrDesktopPC_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Web browsing",
         "img": "FtrDesktopPC_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Programming",
         "img": "FtrDesktopPC_Remake_2_4"
       },
       {
-        "name": "White",
+        "name": "White Art program",
         "img": "FtrDesktopPC_Remake_2_5"
       },
       {
-        "name": "White",
+        "name": "White Digital audio workstation",
         "img": "FtrDesktopPC_Remake_2_6"
       },
       {
-        "name": "Pink",
+        "name": "Pink Desktop",
         "img": "FtrDesktopPC_Remake_3_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Search engine",
         "img": "FtrDesktopPC_Remake_3_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Calculations",
         "img": "FtrDesktopPC_Remake_3_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Web browsing",
         "img": "FtrDesktopPC_Remake_3_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Programming",
         "img": "FtrDesktopPC_Remake_3_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Art program",
         "img": "FtrDesktopPC_Remake_3_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Digital audio workstation",
         "img": "FtrDesktopPC_Remake_3_6"
       }
     ],
@@ -2945,19 +2945,19 @@ const data = [
     "name": "document stack",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Resource documents",
         "img": "FtrOfficePapers_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Text documents",
         "img": "FtrOfficePapers_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Exam papers",
         "img": "FtrOfficePapers_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Storyboards",
         "img": "FtrOfficePapers_Remake_0_3"
       }
     ],
@@ -3277,67 +3277,67 @@ const data = [
     "name": "fax machine",
     "variations": [
       {
-        "name": "White",
+        "name": "White Document",
         "img": "FtrFax_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Graph",
         "img": "FtrFax_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Illustration",
         "img": "FtrFax_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Written note",
         "img": "FtrFax_Remake_0_3"
       },
       {
-        "name": "Red",
+        "name": "Red Document",
         "img": "FtrFax_Remake_1_0"
       },
       {
-        "name": "Red",
+        "name": "Red Graph",
         "img": "FtrFax_Remake_1_1"
       },
       {
-        "name": "Red",
+        "name": "Red Illustration",
         "img": "FtrFax_Remake_1_2"
       },
       {
-        "name": "Red",
+        "name": "Red Written note",
         "img": "FtrFax_Remake_1_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Document",
         "img": "FtrFax_Remake_2_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Graph",
         "img": "FtrFax_Remake_2_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Illustration",
         "img": "FtrFax_Remake_2_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Written note",
         "img": "FtrFax_Remake_2_3"
       },
       {
-        "name": "Black",
+        "name": "Black Document",
         "img": "FtrFax_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Graph",
         "img": "FtrFax_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black Illustration",
         "img": "FtrFax_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Written note",
         "img": "FtrFax_Remake_3_3"
       }
     ],
@@ -4956,19 +4956,19 @@ const data = [
     "name": "ironing set",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA White",
         "img": "FtrIron_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow",
         "img": "FtrIron_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Pink",
         "img": "FtrIron_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrIron_Remake_0_3"
       }
     ],
@@ -5313,171 +5313,171 @@ const data = [
     "name": "laptop",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black Desktop",
         "img": "FtrLaptop_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Search engine",
         "img": "FtrLaptop_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Calculations",
         "img": "FtrLaptop_Remake_0_2"
       },
       {
-        "name": "Black",
+        "name": "Black Web browsing",
         "img": "FtrLaptop_Remake_0_3"
       },
       {
-        "name": "Black",
+        "name": "Black Online shopping",
         "img": "FtrLaptop_Remake_0_4"
       },
       {
-        "name": "Black",
+        "name": "Black Chat tool",
         "img": "FtrLaptop_Remake_0_5"
       },
       {
-        "name": "Silver",
+        "name": "Silver Desktop",
         "img": "FtrLaptop_Remake_1_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Search engine",
         "img": "FtrLaptop_Remake_1_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Calculations",
         "img": "FtrLaptop_Remake_1_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Web browsing",
         "img": "FtrLaptop_Remake_1_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Online shopping",
         "img": "FtrLaptop_Remake_1_4"
       },
       {
-        "name": "Silver",
+        "name": "Silver Chat tool",
         "img": "FtrLaptop_Remake_1_5"
       },
       {
-        "name": "White",
+        "name": "White Desktop",
         "img": "FtrLaptop_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Search engine",
         "img": "FtrLaptop_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Calculations",
         "img": "FtrLaptop_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Web browsing",
         "img": "FtrLaptop_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Online shopping",
         "img": "FtrLaptop_Remake_2_4"
       },
       {
-        "name": "White",
+        "name": "White Chat tool",
         "img": "FtrLaptop_Remake_2_5"
       },
       {
-        "name": "Red",
+        "name": "Red Desktop",
         "img": "FtrLaptop_Remake_3_0"
       },
       {
-        "name": "Red",
+        "name": "Red Search engine",
         "img": "FtrLaptop_Remake_3_1"
       },
       {
-        "name": "Red",
+        "name": "Red Calculations",
         "img": "FtrLaptop_Remake_3_2"
       },
       {
-        "name": "Red",
+        "name": "Red Web browsing",
         "img": "FtrLaptop_Remake_3_3"
       },
       {
-        "name": "Red",
+        "name": "Red Online shopping",
         "img": "FtrLaptop_Remake_3_4"
       },
       {
-        "name": "Red",
+        "name": "Red Chat tool",
         "img": "FtrLaptop_Remake_3_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Desktop",
         "img": "FtrLaptop_Remake_4_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Search engine",
         "img": "FtrLaptop_Remake_4_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Calculations",
         "img": "FtrLaptop_Remake_4_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Web browsing",
         "img": "FtrLaptop_Remake_4_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Online shopping",
         "img": "FtrLaptop_Remake_4_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Chat tool",
         "img": "FtrLaptop_Remake_4_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Desktop",
         "img": "FtrLaptop_Remake_5_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Search engine",
         "img": "FtrLaptop_Remake_5_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Calculations",
         "img": "FtrLaptop_Remake_5_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Web browsing",
         "img": "FtrLaptop_Remake_5_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Online shopping",
         "img": "FtrLaptop_Remake_5_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Chat tool",
         "img": "FtrLaptop_Remake_5_5"
       },
       {
-        "name": "Gold",
+        "name": "Gold Desktop",
         "img": "FtrLaptop_Remake_6_0"
       },
       {
-        "name": "Gold",
+        "name": "Gold Search engine",
         "img": "FtrLaptop_Remake_6_1"
       },
       {
-        "name": "Gold",
+        "name": "Gold Calculations",
         "img": "FtrLaptop_Remake_6_2"
       },
       {
-        "name": "Gold",
+        "name": "Gold Web browsing",
         "img": "FtrLaptop_Remake_6_3"
       },
       {
-        "name": "Gold",
+        "name": "Gold Online shopping",
         "img": "FtrLaptop_Remake_6_4"
       },
       {
-        "name": "Gold",
+        "name": "Gold Chat tool",
         "img": "FtrLaptop_Remake_6_5"
       }
     ],
@@ -5747,31 +5747,31 @@ const data = [
     "name": "magazine",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Food",
         "img": "FtrMagagineOpened_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Cars",
         "img": "FtrMagagineOpened_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Fashion",
         "img": "FtrMagagineOpened_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Outdoors",
         "img": "FtrMagagineOpened_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Resorts",
         "img": "FtrMagagineOpened_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Music",
         "img": "FtrMagagineOpened_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA Pop stars",
         "img": "FtrMagagineOpened_Remake_0_6"
       }
     ],
@@ -5792,227 +5792,227 @@ const data = [
     "name": "magazine rack",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural Caf\u00e9",
         "img": "FtrMagazinerack_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Travel",
         "img": "FtrMagazinerack_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Fashion",
         "img": "FtrMagazinerack_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Sports",
         "img": "FtrMagazinerack_Remake_0_3"
       },
       {
-        "name": "Natural",
+        "name": "Natural Comics",
         "img": "FtrMagazinerack_Remake_0_4"
       },
       {
-        "name": "Natural",
+        "name": "Natural Kids",
         "img": "FtrMagazinerack_Remake_0_5"
       },
       {
-        "name": "Natural",
+        "name": "Natural Weekly news",
         "img": "FtrMagazinerack_Remake_0_6"
       },
       {
-        "name": "Orange",
+        "name": "Orange Caf\u00e9",
         "img": "FtrMagazinerack_Remake_1_0"
       },
       {
-        "name": "Orange",
+        "name": "Orange Travel",
         "img": "FtrMagazinerack_Remake_1_1"
       },
       {
-        "name": "Orange",
+        "name": "Orange Fashion",
         "img": "FtrMagazinerack_Remake_1_2"
       },
       {
-        "name": "Orange",
+        "name": "Orange Sports",
         "img": "FtrMagazinerack_Remake_1_3"
       },
       {
-        "name": "Orange",
+        "name": "Orange Comics",
         "img": "FtrMagazinerack_Remake_1_4"
       },
       {
-        "name": "Orange",
+        "name": "Orange Kids",
         "img": "FtrMagazinerack_Remake_1_5"
       },
       {
-        "name": "Orange",
+        "name": "Orange Weekly news",
         "img": "FtrMagazinerack_Remake_1_6"
       },
       {
-        "name": "Brown",
+        "name": "Brown Caf\u00e9",
         "img": "FtrMagazinerack_Remake_2_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Travel",
         "img": "FtrMagazinerack_Remake_2_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Fashion",
         "img": "FtrMagazinerack_Remake_2_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Sports",
         "img": "FtrMagazinerack_Remake_2_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Comics",
         "img": "FtrMagazinerack_Remake_2_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Kids",
         "img": "FtrMagazinerack_Remake_2_5"
       },
       {
-        "name": "Brown",
+        "name": "Brown Weekly news",
         "img": "FtrMagazinerack_Remake_2_6"
       },
       {
-        "name": "White",
+        "name": "White Caf\u00e9",
         "img": "FtrMagazinerack_Remake_3_0"
       },
       {
-        "name": "White",
+        "name": "White Travel",
         "img": "FtrMagazinerack_Remake_3_1"
       },
       {
-        "name": "White",
+        "name": "White Fashion",
         "img": "FtrMagazinerack_Remake_3_2"
       },
       {
-        "name": "White",
+        "name": "White Sports",
         "img": "FtrMagazinerack_Remake_3_3"
       },
       {
-        "name": "White",
+        "name": "White Comics",
         "img": "FtrMagazinerack_Remake_3_4"
       },
       {
-        "name": "White",
+        "name": "White Kids",
         "img": "FtrMagazinerack_Remake_3_5"
       },
       {
-        "name": "White",
+        "name": "White Weekly news",
         "img": "FtrMagazinerack_Remake_3_6"
       },
       {
-        "name": "Black",
+        "name": "Black Caf\u00e9",
         "img": "FtrMagazinerack_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Travel",
         "img": "FtrMagazinerack_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Fashion",
         "img": "FtrMagazinerack_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Sports",
         "img": "FtrMagazinerack_Remake_4_3"
       },
       {
-        "name": "Black",
+        "name": "Black Comics",
         "img": "FtrMagazinerack_Remake_4_4"
       },
       {
-        "name": "Black",
+        "name": "Black Kids",
         "img": "FtrMagazinerack_Remake_4_5"
       },
       {
-        "name": "Black",
+        "name": "Black Weekly news",
         "img": "FtrMagazinerack_Remake_4_6"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Caf\u00e9",
         "img": "FtrMagazinerack_Remake_5_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Travel",
         "img": "FtrMagazinerack_Remake_5_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Fashion",
         "img": "FtrMagazinerack_Remake_5_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Sports",
         "img": "FtrMagazinerack_Remake_5_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Comics",
         "img": "FtrMagazinerack_Remake_5_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Kids",
         "img": "FtrMagazinerack_Remake_5_5"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Weekly news",
         "img": "FtrMagazinerack_Remake_5_6"
       },
       {
-        "name": "Green",
+        "name": "Green Caf\u00e9",
         "img": "FtrMagazinerack_Remake_6_0"
       },
       {
-        "name": "Green",
+        "name": "Green Travel",
         "img": "FtrMagazinerack_Remake_6_1"
       },
       {
-        "name": "Green",
+        "name": "Green Fashion",
         "img": "FtrMagazinerack_Remake_6_2"
       },
       {
-        "name": "Green",
+        "name": "Green Sports",
         "img": "FtrMagazinerack_Remake_6_3"
       },
       {
-        "name": "Green",
+        "name": "Green Comics",
         "img": "FtrMagazinerack_Remake_6_4"
       },
       {
-        "name": "Green",
+        "name": "Green Kids",
         "img": "FtrMagazinerack_Remake_6_5"
       },
       {
-        "name": "Green",
+        "name": "Green Weekly news",
         "img": "FtrMagazinerack_Remake_6_6"
       },
       {
-        "name": "Red",
+        "name": "Red Caf\u00e9",
         "img": "FtrMagazinerack_Remake_7_0"
       },
       {
-        "name": "Red",
+        "name": "Red Travel",
         "img": "FtrMagazinerack_Remake_7_1"
       },
       {
-        "name": "Red",
+        "name": "Red Fashion",
         "img": "FtrMagazinerack_Remake_7_2"
       },
       {
-        "name": "Red",
+        "name": "Red Sports",
         "img": "FtrMagazinerack_Remake_7_3"
       },
       {
-        "name": "Red",
+        "name": "Red Comics",
         "img": "FtrMagazinerack_Remake_7_4"
       },
       {
-        "name": "Red",
+        "name": "Red Kids",
         "img": "FtrMagazinerack_Remake_7_5"
       },
       {
-        "name": "Red",
+        "name": "Red Weekly news",
         "img": "FtrMagazinerack_Remake_7_6"
       }
     ],
@@ -6869,195 +6869,195 @@ const data = [
     "name": "mug",
     "variations": [
       {
-        "name": "White",
+        "name": "White Plain",
         "img": "FtrMug_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Square logo",
         "img": "FtrMug_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Round logo",
         "img": "FtrMug_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Fish",
         "img": "FtrMug_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Carrot",
         "img": "FtrMug_Remake_0_4"
       },
       {
-        "name": "White",
+        "name": "White Cheese",
         "img": "FtrMug_Remake_0_5"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Plain",
         "img": "FtrMug_Remake_1_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Square logo",
         "img": "FtrMug_Remake_1_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Round logo",
         "img": "FtrMug_Remake_1_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Fish",
         "img": "FtrMug_Remake_1_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Carrot",
         "img": "FtrMug_Remake_1_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Cheese",
         "img": "FtrMug_Remake_1_5"
       },
       {
-        "name": "Red",
+        "name": "Red Plain",
         "img": "FtrMug_Remake_2_0"
       },
       {
-        "name": "Red",
+        "name": "Red Square logo",
         "img": "FtrMug_Remake_2_1"
       },
       {
-        "name": "Red",
+        "name": "Red Round logo",
         "img": "FtrMug_Remake_2_2"
       },
       {
-        "name": "Red",
+        "name": "Red Fish",
         "img": "FtrMug_Remake_2_3"
       },
       {
-        "name": "Red",
+        "name": "Red Carrot",
         "img": "FtrMug_Remake_2_4"
       },
       {
-        "name": "Red",
+        "name": "Red Cheese",
         "img": "FtrMug_Remake_2_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Plain",
         "img": "FtrMug_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Square logo",
         "img": "FtrMug_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Round logo",
         "img": "FtrMug_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Fish",
         "img": "FtrMug_Remake_3_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Carrot",
         "img": "FtrMug_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Cheese",
         "img": "FtrMug_Remake_3_5"
       },
       {
-        "name": "Green",
+        "name": "Green Plain",
         "img": "FtrMug_Remake_4_0"
       },
       {
-        "name": "Green",
+        "name": "Green Square logo",
         "img": "FtrMug_Remake_4_1"
       },
       {
-        "name": "Green",
+        "name": "Green Round logo",
         "img": "FtrMug_Remake_4_2"
       },
       {
-        "name": "Green",
+        "name": "Green Fish",
         "img": "FtrMug_Remake_4_3"
       },
       {
-        "name": "Green",
+        "name": "Green Carrot",
         "img": "FtrMug_Remake_4_4"
       },
       {
-        "name": "Green",
+        "name": "Green Cheese",
         "img": "FtrMug_Remake_4_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Plain",
         "img": "FtrMug_Remake_5_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Square logo",
         "img": "FtrMug_Remake_5_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Round logo",
         "img": "FtrMug_Remake_5_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Fish",
         "img": "FtrMug_Remake_5_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Carrot",
         "img": "FtrMug_Remake_5_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Cheese",
         "img": "FtrMug_Remake_5_5"
       },
       {
-        "name": "Turquoise",
+        "name": "Turquoise Plain",
         "img": "FtrMug_Remake_6_0"
       },
       {
-        "name": "Turquoise",
+        "name": "Turquoise Square logo",
         "img": "FtrMug_Remake_6_1"
       },
       {
-        "name": "Turquoise",
+        "name": "Turquoise Round logo",
         "img": "FtrMug_Remake_6_2"
       },
       {
-        "name": "Turquoise",
+        "name": "Turquoise Fish",
         "img": "FtrMug_Remake_6_3"
       },
       {
-        "name": "Turquoise",
+        "name": "Turquoise Carrot",
         "img": "FtrMug_Remake_6_4"
       },
       {
-        "name": "Turquoise",
+        "name": "Turquoise Cheese",
         "img": "FtrMug_Remake_6_5"
       },
       {
-        "name": "Black",
+        "name": "Black Plain",
         "img": "FtrMug_Remake_7_0"
       },
       {
-        "name": "Black",
+        "name": "Black Square logo",
         "img": "FtrMug_Remake_7_1"
       },
       {
-        "name": "Black",
+        "name": "Black Round logo",
         "img": "FtrMug_Remake_7_2"
       },
       {
-        "name": "Black",
+        "name": "Black Fish",
         "img": "FtrMug_Remake_7_3"
       },
       {
-        "name": "Black",
+        "name": "Black Carrot",
         "img": "FtrMug_Remake_7_4"
       },
       {
-        "name": "Black",
+        "name": "Black Cheese",
         "img": "FtrMug_Remake_7_5"
       }
     ],
@@ -7436,67 +7436,67 @@ const data = [
     "name": "painting set",
     "variations": [
       {
-        "name": "Yellow",
+        "name": "Yellow Blank",
         "img": "FtrPaintset_Remake_0_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Smile",
         "img": "FtrPaintset_Remake_0_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Bug",
         "img": "FtrPaintset_Remake_0_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Still life",
         "img": "FtrPaintset_Remake_0_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Blank",
         "img": "FtrPaintset_Remake_1_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Smile",
         "img": "FtrPaintset_Remake_1_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Bug",
         "img": "FtrPaintset_Remake_1_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Still life",
         "img": "FtrPaintset_Remake_1_3"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Blank",
         "img": "FtrPaintset_Remake_2_0"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Smile",
         "img": "FtrPaintset_Remake_2_1"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Bug",
         "img": "FtrPaintset_Remake_2_2"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Still life",
         "img": "FtrPaintset_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Blank",
         "img": "FtrPaintset_Remake_3_0"
       },
       {
-        "name": "White",
+        "name": "White Smile",
         "img": "FtrPaintset_Remake_3_1"
       },
       {
-        "name": "White",
+        "name": "White Bug",
         "img": "FtrPaintset_Remake_3_2"
       },
       {
-        "name": "White",
+        "name": "White Still life",
         "img": "FtrPaintset_Remake_3_3"
       }
     ],
@@ -8483,131 +8483,131 @@ const data = [
     "name": "record box",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrRecordbox_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Logo",
         "img": "FtrRecordbox_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Sunset",
         "img": "FtrRecordbox_Remake_0_2"
       },
       {
-        "name": "Black",
+        "name": "Black Various",
         "img": "FtrRecordbox_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White None",
         "img": "FtrRecordbox_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Logo",
         "img": "FtrRecordbox_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Sunset",
         "img": "FtrRecordbox_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Various",
         "img": "FtrRecordbox_Remake_1_3"
       },
       {
-        "name": "Red",
+        "name": "Red None",
         "img": "FtrRecordbox_Remake_2_0"
       },
       {
-        "name": "Red",
+        "name": "Red Logo",
         "img": "FtrRecordbox_Remake_2_1"
       },
       {
-        "name": "Red",
+        "name": "Red Sunset",
         "img": "FtrRecordbox_Remake_2_2"
       },
       {
-        "name": "Red",
+        "name": "Red Various",
         "img": "FtrRecordbox_Remake_2_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow None",
         "img": "FtrRecordbox_Remake_3_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Logo",
         "img": "FtrRecordbox_Remake_3_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Sunset",
         "img": "FtrRecordbox_Remake_3_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Various",
         "img": "FtrRecordbox_Remake_3_3"
       },
       {
-        "name": "Green",
+        "name": "Green None",
         "img": "FtrRecordbox_Remake_4_0"
       },
       {
-        "name": "Green",
+        "name": "Green Logo",
         "img": "FtrRecordbox_Remake_4_1"
       },
       {
-        "name": "Green",
+        "name": "Green Sunset",
         "img": "FtrRecordbox_Remake_4_2"
       },
       {
-        "name": "Green",
+        "name": "Green Various",
         "img": "FtrRecordbox_Remake_4_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrRecordbox_Remake_5_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Logo",
         "img": "FtrRecordbox_Remake_5_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Sunset",
         "img": "FtrRecordbox_Remake_5_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Various",
         "img": "FtrRecordbox_Remake_5_3"
       },
       {
-        "name": "Gray",
+        "name": "Gray None",
         "img": "FtrRecordbox_Remake_6_0"
       },
       {
-        "name": "Gray",
+        "name": "Gray Logo",
         "img": "FtrRecordbox_Remake_6_1"
       },
       {
-        "name": "Gray",
+        "name": "Gray Sunset",
         "img": "FtrRecordbox_Remake_6_2"
       },
       {
-        "name": "Gray",
+        "name": "Gray Various",
         "img": "FtrRecordbox_Remake_6_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink None",
         "img": "FtrRecordbox_Remake_7_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Logo",
         "img": "FtrRecordbox_Remake_7_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Sunset",
         "img": "FtrRecordbox_Remake_7_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Various",
         "img": "FtrRecordbox_Remake_7_3"
       }
     ],
@@ -8711,7 +8711,7 @@ const data = [
     "name": "Reese & Cyrus photo plate",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "FtrWeddingDish"
       }
     ],
@@ -9774,31 +9774,31 @@ const data = [
     "name": "stacked magazines",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Gardening",
         "img": "FtrMagagine_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Travel",
         "img": "FtrMagagine_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Fashion",
         "img": "FtrMagagine_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Sports",
         "img": "FtrMagagine_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Comics",
         "img": "FtrMagagine_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Kids",
         "img": "FtrMagagine_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA Weekly news",
         "img": "FtrMagagine_Remake_0_6"
       }
     ],
@@ -10143,31 +10143,31 @@ const data = [
     "name": "table lamp",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA White",
         "img": "FtrLampDesk_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Black",
         "img": "FtrLampDesk_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Red flowers",
         "img": "FtrLampDesk_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Blue flowers",
         "img": "FtrLampDesk_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Green flowers",
         "img": "FtrLampDesk_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow flowers",
         "img": "FtrLampDesk_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA Pink flowers",
         "img": "FtrLampDesk_Remake_0_6"
       }
     ],
@@ -10188,103 +10188,103 @@ const data = [
     "name": "table setting",
     "variations": [
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrTablesetting_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Navy blue",
         "img": "FtrTablesetting_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Pink",
         "img": "FtrTablesetting_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Orange",
         "img": "FtrTablesetting_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Green",
         "img": "FtrTablesetting_Remake_0_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink White",
         "img": "FtrTablesetting_Remake_1_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Navy blue",
         "img": "FtrTablesetting_Remake_1_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Pink",
         "img": "FtrTablesetting_Remake_1_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Orange",
         "img": "FtrTablesetting_Remake_1_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Green",
         "img": "FtrTablesetting_Remake_1_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow White",
         "img": "FtrTablesetting_Remake_2_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Navy blue",
         "img": "FtrTablesetting_Remake_2_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Pink",
         "img": "FtrTablesetting_Remake_2_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Orange",
         "img": "FtrTablesetting_Remake_2_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Green",
         "img": "FtrTablesetting_Remake_2_4"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue White",
         "img": "FtrTablesetting_Remake_3_0"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Navy blue",
         "img": "FtrTablesetting_Remake_3_1"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Pink",
         "img": "FtrTablesetting_Remake_3_2"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Orange",
         "img": "FtrTablesetting_Remake_3_3"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Green",
         "img": "FtrTablesetting_Remake_3_4"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrTablesetting_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Navy blue",
         "img": "FtrTablesetting_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrTablesetting_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrTablesetting_Remake_4_3"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrTablesetting_Remake_4_4"
       }
     ],
@@ -10421,67 +10421,67 @@ const data = [
     "name": "tea set",
     "variations": [
       {
-        "name": "Green",
+        "name": "Green Yellow",
         "img": "FtrTeaset_Remake_0_0"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrTeaset_Remake_0_1"
       },
       {
-        "name": "Green",
+        "name": "Green Red",
         "img": "FtrTeaset_Remake_0_2"
       },
       {
-        "name": "Green",
+        "name": "Green Gray",
         "img": "FtrTeaset_Remake_0_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Yellow",
         "img": "FtrTeaset_Remake_1_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrTeaset_Remake_1_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Red",
         "img": "FtrTeaset_Remake_1_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Gray",
         "img": "FtrTeaset_Remake_1_3"
       },
       {
-        "name": "Red",
+        "name": "Red Yellow",
         "img": "FtrTeaset_Remake_2_0"
       },
       {
-        "name": "Red",
+        "name": "Red Blue",
         "img": "FtrTeaset_Remake_2_1"
       },
       {
-        "name": "Red",
+        "name": "Red Red",
         "img": "FtrTeaset_Remake_2_2"
       },
       {
-        "name": "Red",
+        "name": "Red Gray",
         "img": "FtrTeaset_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Yellow",
         "img": "FtrTeaset_Remake_3_0"
       },
       {
-        "name": "White",
+        "name": "White Blue",
         "img": "FtrTeaset_Remake_3_1"
       },
       {
-        "name": "White",
+        "name": "White Red",
         "img": "FtrTeaset_Remake_3_2"
       },
       {
-        "name": "White",
+        "name": "White Gray",
         "img": "FtrTeaset_Remake_3_3"
       }
     ],
@@ -11198,23 +11198,23 @@ const data = [
     "name": "unfinished puzzle",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Sunset",
         "img": "FtrPuzzle_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Light Through the Trees",
         "img": "FtrPuzzle_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Snow",
         "img": "FtrPuzzle_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Sepia art",
         "img": "FtrPuzzle_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Castle",
         "img": "FtrPuzzle_Remake_0_4"
       }
     ],

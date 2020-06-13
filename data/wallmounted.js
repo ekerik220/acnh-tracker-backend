@@ -73,35 +73,35 @@ const data = [
     "name": "autograph cards",
     "variations": [
       {
-        "name": "Signature",
+        "name": "Signature Musician's signature",
         "img": "FtrAutograph_Remake_0_0"
       },
       {
-        "name": "Signature",
+        "name": "Signature Comedian's signature",
         "img": "FtrAutograph_Remake_0_1"
       },
       {
-        "name": "Handprints",
+        "name": "Handprints Musician's signature",
         "img": "FtrAutograph_Remake_1_0"
       },
       {
-        "name": "Handprints",
+        "name": "Handprints Comedian's signature",
         "img": "FtrAutograph_Remake_1_1"
       },
       {
-        "name": "Illustration",
+        "name": "Illustration Musician's signature",
         "img": "FtrAutograph_Remake_2_0"
       },
       {
-        "name": "Illustration",
+        "name": "Illustration Comedian's signature",
         "img": "FtrAutograph_Remake_2_1"
       },
       {
-        "name": "Words of wisdom",
+        "name": "Words of wisdom Musician's signature",
         "img": "FtrAutograph_Remake_3_0"
       },
       {
-        "name": "Words of wisdom",
+        "name": "Words of wisdom Comedian's signature",
         "img": "FtrAutograph_Remake_3_1"
       }
     ],
@@ -647,39 +647,39 @@ const data = [
     "name": "corkboard",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural Apple",
         "img": "FtrCorkboard_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Fish",
         "img": "FtrCorkboard_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Flower",
         "img": "FtrCorkboard_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Apple",
         "img": "FtrCorkboard_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Fish",
         "img": "FtrCorkboard_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Flower",
         "img": "FtrCorkboard_Remake_1_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Apple",
         "img": "FtrCorkboard_Remake_2_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Fish",
         "img": "FtrCorkboard_Remake_2_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Flower",
         "img": "FtrCorkboard_Remake_2_2"
       }
     ],
@@ -944,87 +944,87 @@ const data = [
     "name": "diner neon clock",
     "variations": [
       {
-        "name": "Red",
+        "name": "Red Red lines",
         "img": "FtrAmeretroClock_Remake_0_0"
       },
       {
-        "name": "Red",
+        "name": "Red Blue bee",
         "img": "FtrAmeretroClock_Remake_0_1"
       },
       {
-        "name": "Red",
+        "name": "Red B & W numeral",
         "img": "FtrAmeretroClock_Remake_0_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Red lines",
         "img": "FtrAmeretroClock_Remake_1_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue bee",
         "img": "FtrAmeretroClock_Remake_1_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue B & W numeral",
         "img": "FtrAmeretroClock_Remake_1_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Red lines",
         "img": "FtrAmeretroClock_Remake_2_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Blue bee",
         "img": "FtrAmeretroClock_Remake_2_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow B & W numeral",
         "img": "FtrAmeretroClock_Remake_2_2"
       },
       {
-        "name": "Aquamarine",
+        "name": "Aquamarine Red lines",
         "img": "FtrAmeretroClock_Remake_3_0"
       },
       {
-        "name": "Aquamarine",
+        "name": "Aquamarine Blue bee",
         "img": "FtrAmeretroClock_Remake_3_1"
       },
       {
-        "name": "Aquamarine",
+        "name": "Aquamarine B & W numeral",
         "img": "FtrAmeretroClock_Remake_3_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Red lines",
         "img": "FtrAmeretroClock_Remake_4_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Blue bee",
         "img": "FtrAmeretroClock_Remake_4_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink B & W numeral",
         "img": "FtrAmeretroClock_Remake_4_2"
       },
       {
-        "name": "Cream",
+        "name": "Cream Red lines",
         "img": "FtrAmeretroClock_Remake_5_0"
       },
       {
-        "name": "Cream",
+        "name": "Cream Blue bee",
         "img": "FtrAmeretroClock_Remake_5_1"
       },
       {
-        "name": "Cream",
+        "name": "Cream B & W numeral",
         "img": "FtrAmeretroClock_Remake_5_2"
       },
       {
-        "name": "Purple",
+        "name": "Purple Red lines",
         "img": "FtrAmeretroClock_Remake_6_0"
       },
       {
-        "name": "Purple",
+        "name": "Purple Blue bee",
         "img": "FtrAmeretroClock_Remake_6_1"
       },
       {
-        "name": "Purple",
+        "name": "Purple B & W numeral",
         "img": "FtrAmeretroClock_Remake_6_2"
       }
     ],
@@ -1584,103 +1584,103 @@ const data = [
     "name": "hanging scroll",
     "variations": [
       {
-        "name": "Green",
+        "name": "Green Calligraphy",
         "img": "FtrHangingscroll_Remake_0_0"
       },
       {
-        "name": "Green",
+        "name": "Green Mountains",
         "img": "FtrHangingscroll_Remake_0_1"
       },
       {
-        "name": "Green",
+        "name": "Green Fish",
         "img": "FtrHangingscroll_Remake_0_2"
       },
       {
-        "name": "Green",
+        "name": "Green Bird",
         "img": "FtrHangingscroll_Remake_0_3"
       },
       {
-        "name": "Green",
+        "name": "Green Flower",
         "img": "FtrHangingscroll_Remake_0_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Calligraphy",
         "img": "FtrHangingscroll_Remake_1_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Mountains",
         "img": "FtrHangingscroll_Remake_1_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Fish",
         "img": "FtrHangingscroll_Remake_1_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Bird",
         "img": "FtrHangingscroll_Remake_1_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Flower",
         "img": "FtrHangingscroll_Remake_1_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Calligraphy",
         "img": "FtrHangingscroll_Remake_2_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Mountains",
         "img": "FtrHangingscroll_Remake_2_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Fish",
         "img": "FtrHangingscroll_Remake_2_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Bird",
         "img": "FtrHangingscroll_Remake_2_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Flower",
         "img": "FtrHangingscroll_Remake_2_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Calligraphy",
         "img": "FtrHangingscroll_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Mountains",
         "img": "FtrHangingscroll_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Fish",
         "img": "FtrHangingscroll_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Bird",
         "img": "FtrHangingscroll_Remake_3_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Flower",
         "img": "FtrHangingscroll_Remake_3_4"
       },
       {
-        "name": "Purple",
+        "name": "Purple Calligraphy",
         "img": "FtrHangingscroll_Remake_4_0"
       },
       {
-        "name": "Purple",
+        "name": "Purple Mountains",
         "img": "FtrHangingscroll_Remake_4_1"
       },
       {
-        "name": "Purple",
+        "name": "Purple Fish",
         "img": "FtrHangingscroll_Remake_4_2"
       },
       {
-        "name": "Purple",
+        "name": "Purple Bird",
         "img": "FtrHangingscroll_Remake_4_3"
       },
       {
-        "name": "Purple",
+        "name": "Purple Flower",
         "img": "FtrHangingscroll_Remake_4_4"
       }
     ],

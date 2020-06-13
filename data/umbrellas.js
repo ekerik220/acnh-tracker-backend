@@ -3,7 +3,7 @@ const data = [
     "name": "apple umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaApple0"
       }
     ],
@@ -24,7 +24,7 @@ const data = [
     "name": "bat umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaBat0"
       }
     ],
@@ -45,7 +45,7 @@ const data = [
     "name": "beach umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaBeach0"
       }
     ],
@@ -66,7 +66,7 @@ const data = [
     "name": "bear umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaBear0"
       }
     ],
@@ -87,7 +87,7 @@ const data = [
     "name": "black chic umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace5"
       }
     ],
@@ -108,7 +108,7 @@ const data = [
     "name": "black lace umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaRace0"
       }
     ],
@@ -129,7 +129,7 @@ const data = [
     "name": "blue dot parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPolkadot2"
       }
     ],
@@ -150,7 +150,7 @@ const data = [
     "name": "blue shiny-bows parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace2"
       }
     ],
@@ -171,7 +171,7 @@ const data = [
     "name": "blue umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaStandard2"
       }
     ],
@@ -192,7 +192,7 @@ const data = [
     "name": "busted umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaBroken0"
       }
     ],
@@ -213,7 +213,7 @@ const data = [
     "name": "camo umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaOutdoor0"
       }
     ],
@@ -234,7 +234,7 @@ const data = [
     "name": "candy umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaGingham0"
       }
     ],
@@ -255,7 +255,7 @@ const data = [
     "name": "cherry umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaCherry0"
       }
     ],
@@ -276,7 +276,7 @@ const data = [
     "name": "cherry-blossom umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaCherryblossom0"
       }
     ],
@@ -297,7 +297,7 @@ const data = [
     "name": "DAL umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaDoc0"
       }
     ],
@@ -318,7 +318,7 @@ const data = [
     "name": "eggy parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPolkadot1"
       }
     ],
@@ -339,7 +339,7 @@ const data = [
     "name": "exquisite parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaChina0"
       }
     ],
@@ -360,7 +360,7 @@ const data = [
     "name": "fairy-tale umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaFairytale0"
       }
     ],
@@ -381,7 +381,7 @@ const data = [
     "name": "fish umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaFish0"
       }
     ],
@@ -402,7 +402,7 @@ const data = [
     "name": "frog umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaFrog0"
       }
     ],
@@ -423,7 +423,7 @@ const data = [
     "name": "gelato umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaTricolor0"
       }
     ],
@@ -444,7 +444,7 @@ const data = [
     "name": "ghost umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaTeruteru0"
       }
     ],
@@ -465,7 +465,7 @@ const data = [
     "name": "grape umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaGrape0"
       }
     ],
@@ -486,7 +486,7 @@ const data = [
     "name": "green chic umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace4"
       }
     ],
@@ -507,7 +507,7 @@ const data = [
     "name": "green umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaStandard3"
       }
     ],
@@ -528,7 +528,7 @@ const data = [
     "name": "hydrangea umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaHydrangea0"
       }
     ],
@@ -549,7 +549,7 @@ const data = [
     "name": "kabuki umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaKabuki0"
       }
     ],
@@ -570,7 +570,7 @@ const data = [
     "name": "kiwi umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaKiwi0"
       }
     ],
@@ -591,7 +591,7 @@ const data = [
     "name": "lacy parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaLace0"
       }
     ],
@@ -612,7 +612,7 @@ const data = [
     "name": "ladybug umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaLadybug0"
       }
     ],
@@ -633,7 +633,7 @@ const data = [
     "name": "leaf umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaLeaf0"
       }
     ],
@@ -654,7 +654,7 @@ const data = [
     "name": "lemon umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaGingham4"
       }
     ],
@@ -675,7 +675,7 @@ const data = [
     "name": "logo umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaLogo0"
       }
     ],
@@ -696,7 +696,7 @@ const data = [
     "name": "maple-leaf umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaAutumn0"
       }
     ],
@@ -717,7 +717,7 @@ const data = [
     "name": "melon umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaGingham1"
       }
     ],
@@ -738,7 +738,7 @@ const data = [
     "name": "mini-flower-print umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaFlorets0"
       }
     ],
@@ -759,7 +759,7 @@ const data = [
     "name": "mint umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaGingham2"
       }
     ],
@@ -780,7 +780,7 @@ const data = [
     "name": "mush umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaMushroom0"
       }
     ],
@@ -801,7 +801,7 @@ const data = [
     "name": "Nook Inc. umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaRco0"
       }
     ],
@@ -822,7 +822,7 @@ const data = [
     "name": "orange umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaOrange0"
       }
     ],
@@ -843,7 +843,7 @@ const data = [
     "name": "panda umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPanda0"
       }
     ],
@@ -864,7 +864,7 @@ const data = [
     "name": "paper parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaBangasa0"
       }
     ],
@@ -885,7 +885,7 @@ const data = [
     "name": "patterned vinyl umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaBoundary0"
       }
     ],
@@ -906,7 +906,7 @@ const data = [
     "name": "peach umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPeach0"
       }
     ],
@@ -927,7 +927,7 @@ const data = [
     "name": "pear umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPear0"
       }
     ],
@@ -948,7 +948,7 @@ const data = [
     "name": "petal parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaMargaret0"
       }
     ],
@@ -969,7 +969,7 @@ const data = [
     "name": "picnic umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaGingham3"
       }
     ],
@@ -990,7 +990,7 @@ const data = [
     "name": "pineapple umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPineapple0"
       }
     ],
@@ -1011,7 +1011,7 @@ const data = [
     "name": "pink shiny-bows parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace0"
       }
     ],
@@ -1032,7 +1032,7 @@ const data = [
     "name": "pink umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaSchool0"
       }
     ],
@@ -1053,7 +1053,7 @@ const data = [
     "name": "purple chic umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacoda0"
       }
     ],
@@ -1074,7 +1074,7 @@ const data = [
     "name": "purple shiny-bows parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace1"
       }
     ],
@@ -1095,7 +1095,7 @@ const data = [
     "name": "rainbow umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaRainbow0"
       }
     ],
@@ -1116,7 +1116,7 @@ const data = [
     "name": "raindrop umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaRain0"
       }
     ],
@@ -1137,7 +1137,7 @@ const data = [
     "name": "red chic umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace6"
       }
     ],
@@ -1158,7 +1158,7 @@ const data = [
     "name": "red umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaStandard1"
       }
     ],
@@ -1179,7 +1179,7 @@ const data = [
     "name": "snowflake umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaCrystal0"
       }
     ],
@@ -1200,7 +1200,7 @@ const data = [
     "name": "spider umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaSpider0"
       }
     ],
@@ -1221,7 +1221,7 @@ const data = [
     "name": "strawberry umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaStrawberry0"
       }
     ],
@@ -1242,7 +1242,7 @@ const data = [
     "name": "striped umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaStripe0"
       }
     ],
@@ -1263,7 +1263,7 @@ const data = [
     "name": "sunny parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaSunflower0"
       }
     ],
@@ -1284,7 +1284,7 @@ const data = [
     "name": "tartan-check umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPlaid0"
       }
     ],
@@ -1305,7 +1305,7 @@ const data = [
     "name": "Toad parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPolkadotRed"
       }
     ],
@@ -1326,7 +1326,7 @@ const data = [
     "name": "two-tone umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaTwocolor0"
       }
     ],
@@ -1347,7 +1347,7 @@ const data = [
     "name": "vinyl umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaVinyl0"
       }
     ],
@@ -1368,7 +1368,7 @@ const data = [
     "name": "watermelon umbrella",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaWater0"
       }
     ],
@@ -1389,7 +1389,7 @@ const data = [
     "name": "white shiny-bows parasol",
     "variations": [
       {
-        "name": null,
+        "name": "NA",
         "img": "UmbrellaPacodarace3"
       }
     ],

@@ -741,143 +741,143 @@ const data = [
     "name": "baby chair",
     "variations": [
       {
-        "name": "Red",
+        "name": "Red Bear",
         "img": "FtrBabychair_Remake_0_0"
       },
       {
-        "name": "Red",
+        "name": "Red Strawberry",
         "img": "FtrBabychair_Remake_0_1"
       },
       {
-        "name": "Red",
+        "name": "Red Butterfly",
         "img": "FtrBabychair_Remake_0_2"
       },
       {
-        "name": "Red",
+        "name": "Red Train",
         "img": "FtrBabychair_Remake_0_3"
       },
       {
-        "name": "Red",
+        "name": "Red Paw print",
         "img": "FtrBabychair_Remake_0_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Bear",
         "img": "FtrBabychair_Remake_1_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Strawberry",
         "img": "FtrBabychair_Remake_1_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Butterfly",
         "img": "FtrBabychair_Remake_1_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Train",
         "img": "FtrBabychair_Remake_1_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Paw print",
         "img": "FtrBabychair_Remake_1_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Bear",
         "img": "FtrBabychair_Remake_2_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Strawberry",
         "img": "FtrBabychair_Remake_2_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Butterfly",
         "img": "FtrBabychair_Remake_2_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Train",
         "img": "FtrBabychair_Remake_2_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Paw print",
         "img": "FtrBabychair_Remake_2_4"
       },
       {
-        "name": "Green",
+        "name": "Green Bear",
         "img": "FtrBabychair_Remake_3_0"
       },
       {
-        "name": "Green",
+        "name": "Green Strawberry",
         "img": "FtrBabychair_Remake_3_1"
       },
       {
-        "name": "Green",
+        "name": "Green Butterfly",
         "img": "FtrBabychair_Remake_3_2"
       },
       {
-        "name": "Green",
+        "name": "Green Train",
         "img": "FtrBabychair_Remake_3_3"
       },
       {
-        "name": "Green",
+        "name": "Green Paw print",
         "img": "FtrBabychair_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Bear",
         "img": "FtrBabychair_Remake_4_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Strawberry",
         "img": "FtrBabychair_Remake_4_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Butterfly",
         "img": "FtrBabychair_Remake_4_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Train",
         "img": "FtrBabychair_Remake_4_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Paw print",
         "img": "FtrBabychair_Remake_4_4"
       },
       {
-        "name": "White",
+        "name": "White Bear",
         "img": "FtrBabychair_Remake_5_0"
       },
       {
-        "name": "White",
+        "name": "White Strawberry",
         "img": "FtrBabychair_Remake_5_1"
       },
       {
-        "name": "White",
+        "name": "White Butterfly",
         "img": "FtrBabychair_Remake_5_2"
       },
       {
-        "name": "White",
+        "name": "White Train",
         "img": "FtrBabychair_Remake_5_3"
       },
       {
-        "name": "White",
+        "name": "White Paw print",
         "img": "FtrBabychair_Remake_5_4"
       },
       {
-        "name": "Black",
+        "name": "Black Bear",
         "img": "FtrBabychair_Remake_6_0"
       },
       {
-        "name": "Black",
+        "name": "Black Strawberry",
         "img": "FtrBabychair_Remake_6_1"
       },
       {
-        "name": "Black",
+        "name": "Black Butterfly",
         "img": "FtrBabychair_Remake_6_2"
       },
       {
-        "name": "Black",
+        "name": "Black Train",
         "img": "FtrBabychair_Remake_6_3"
       },
       {
-        "name": "Black",
+        "name": "Black Paw print",
         "img": "FtrBabychair_Remake_6_4"
       }
     ],
@@ -1391,31 +1391,31 @@ const data = [
     "name": "beach towel",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Cyan zigzags",
         "img": "FtrBeachtowel_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Red stripes",
         "img": "FtrBeachtowel_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Colorful",
         "img": "FtrBeachtowel_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Shells",
         "img": "FtrBeachtowel_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrBeachtowel_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow",
         "img": "FtrBeachtowel_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA White",
         "img": "FtrBeachtowel_Remake_0_6"
       }
     ],
@@ -1782,23 +1782,23 @@ const data = [
     "name": "blue corner",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Green",
         "img": "FtrRingcornerBlue_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Red",
         "img": "FtrRingcornerBlue_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrRingcornerBlue_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Black",
         "img": "FtrRingcornerBlue_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow",
         "img": "FtrRingcornerBlue_Remake_0_4"
       }
     ],
@@ -2042,143 +2042,143 @@ const data = [
     "name": "bunk bed",
     "variations": [
       {
-        "name": "Silver",
+        "name": "Silver White",
         "img": "FtrBunkbed_Remake_0_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Striped",
         "img": "FtrBunkbed_Remake_0_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Checkered",
         "img": "FtrBunkbed_Remake_0_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Space",
         "img": "FtrBunkbed_Remake_0_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Colorful lines",
         "img": "FtrBunkbed_Remake_0_4"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrBunkbed_Remake_1_0"
       },
       {
-        "name": "Black",
+        "name": "Black Striped",
         "img": "FtrBunkbed_Remake_1_1"
       },
       {
-        "name": "Black",
+        "name": "Black Checkered",
         "img": "FtrBunkbed_Remake_1_2"
       },
       {
-        "name": "Black",
+        "name": "Black Space",
         "img": "FtrBunkbed_Remake_1_3"
       },
       {
-        "name": "Black",
+        "name": "Black Colorful lines",
         "img": "FtrBunkbed_Remake_1_4"
       },
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrBunkbed_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Striped",
         "img": "FtrBunkbed_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Checkered",
         "img": "FtrBunkbed_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Space",
         "img": "FtrBunkbed_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Colorful lines",
         "img": "FtrBunkbed_Remake_2_4"
       },
       {
-        "name": "Red",
+        "name": "Red White",
         "img": "FtrBunkbed_Remake_3_0"
       },
       {
-        "name": "Red",
+        "name": "Red Striped",
         "img": "FtrBunkbed_Remake_3_1"
       },
       {
-        "name": "Red",
+        "name": "Red Checkered",
         "img": "FtrBunkbed_Remake_3_2"
       },
       {
-        "name": "Red",
+        "name": "Red Space",
         "img": "FtrBunkbed_Remake_3_3"
       },
       {
-        "name": "Red",
+        "name": "Red Colorful lines",
         "img": "FtrBunkbed_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrBunkbed_Remake_4_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Striped",
         "img": "FtrBunkbed_Remake_4_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Checkered",
         "img": "FtrBunkbed_Remake_4_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Space",
         "img": "FtrBunkbed_Remake_4_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Colorful lines",
         "img": "FtrBunkbed_Remake_4_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow White",
         "img": "FtrBunkbed_Remake_5_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Striped",
         "img": "FtrBunkbed_Remake_5_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Checkered",
         "img": "FtrBunkbed_Remake_5_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Space",
         "img": "FtrBunkbed_Remake_5_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Colorful lines",
         "img": "FtrBunkbed_Remake_5_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink White",
         "img": "FtrBunkbed_Remake_6_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Striped",
         "img": "FtrBunkbed_Remake_6_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Checkered",
         "img": "FtrBunkbed_Remake_6_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Space",
         "img": "FtrBunkbed_Remake_6_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Colorful lines",
         "img": "FtrBunkbed_Remake_6_4"
       }
     ],
@@ -2848,259 +2848,259 @@ const data = [
     "name": "changing room",
     "variations": [
       {
-        "name": "Gray",
+        "name": "Gray White",
         "img": "FtrFittingroom_Remake_0_0"
       },
       {
-        "name": "Gray",
+        "name": "Gray Purple",
         "img": "FtrFittingroom_Remake_0_1"
       },
       {
-        "name": "Gray",
+        "name": "Gray Black",
         "img": "FtrFittingroom_Remake_0_2"
       },
       {
-        "name": "Gray",
+        "name": "Gray Yellow",
         "img": "FtrFittingroom_Remake_0_3"
       },
       {
-        "name": "Gray",
+        "name": "Gray Pink",
         "img": "FtrFittingroom_Remake_0_4"
       },
       {
-        "name": "Gray",
+        "name": "Gray Red",
         "img": "FtrFittingroom_Remake_0_5"
       },
       {
-        "name": "Gray",
+        "name": "Gray Green",
         "img": "FtrFittingroom_Remake_0_6"
       },
       {
-        "name": "Gray",
+        "name": "Gray Blue",
         "img": "FtrFittingroom_Remake_0_7"
       },
       {
-        "name": "Beige",
+        "name": "Beige White",
         "img": "FtrFittingroom_Remake_1_0"
       },
       {
-        "name": "Beige",
+        "name": "Beige Purple",
         "img": "FtrFittingroom_Remake_1_1"
       },
       {
-        "name": "Beige",
+        "name": "Beige Black",
         "img": "FtrFittingroom_Remake_1_2"
       },
       {
-        "name": "Beige",
+        "name": "Beige Yellow",
         "img": "FtrFittingroom_Remake_1_3"
       },
       {
-        "name": "Beige",
+        "name": "Beige Pink",
         "img": "FtrFittingroom_Remake_1_4"
       },
       {
-        "name": "Beige",
+        "name": "Beige Red",
         "img": "FtrFittingroom_Remake_1_5"
       },
       {
-        "name": "Beige",
+        "name": "Beige Green",
         "img": "FtrFittingroom_Remake_1_6"
       },
       {
-        "name": "Beige",
+        "name": "Beige Blue",
         "img": "FtrFittingroom_Remake_1_7"
       },
       {
-        "name": "Brown",
+        "name": "Brown White",
         "img": "FtrFittingroom_Remake_2_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Purple",
         "img": "FtrFittingroom_Remake_2_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Black",
         "img": "FtrFittingroom_Remake_2_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Yellow",
         "img": "FtrFittingroom_Remake_2_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Pink",
         "img": "FtrFittingroom_Remake_2_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Red",
         "img": "FtrFittingroom_Remake_2_5"
       },
       {
-        "name": "Brown",
+        "name": "Brown Green",
         "img": "FtrFittingroom_Remake_2_6"
       },
       {
-        "name": "Brown",
+        "name": "Brown Blue",
         "img": "FtrFittingroom_Remake_2_7"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown White",
         "img": "FtrFittingroom_Remake_3_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Purple",
         "img": "FtrFittingroom_Remake_3_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Black",
         "img": "FtrFittingroom_Remake_3_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Yellow",
         "img": "FtrFittingroom_Remake_3_3"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Pink",
         "img": "FtrFittingroom_Remake_3_4"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Red",
         "img": "FtrFittingroom_Remake_3_5"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Green",
         "img": "FtrFittingroom_Remake_3_6"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Blue",
         "img": "FtrFittingroom_Remake_3_7"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrFittingroom_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Purple",
         "img": "FtrFittingroom_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Black",
         "img": "FtrFittingroom_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Yellow",
         "img": "FtrFittingroom_Remake_4_3"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrFittingroom_Remake_4_4"
       },
       {
-        "name": "Black",
+        "name": "Black Red",
         "img": "FtrFittingroom_Remake_4_5"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrFittingroom_Remake_4_6"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrFittingroom_Remake_4_7"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrFittingroom_Remake_5_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Purple",
         "img": "FtrFittingroom_Remake_5_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Black",
         "img": "FtrFittingroom_Remake_5_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Yellow",
         "img": "FtrFittingroom_Remake_5_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrFittingroom_Remake_5_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Red",
         "img": "FtrFittingroom_Remake_5_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrFittingroom_Remake_5_6"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrFittingroom_Remake_5_7"
       },
       {
-        "name": "Pink",
+        "name": "Pink White",
         "img": "FtrFittingroom_Remake_6_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Purple",
         "img": "FtrFittingroom_Remake_6_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Black",
         "img": "FtrFittingroom_Remake_6_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Yellow",
         "img": "FtrFittingroom_Remake_6_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Pink",
         "img": "FtrFittingroom_Remake_6_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Red",
         "img": "FtrFittingroom_Remake_6_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Green",
         "img": "FtrFittingroom_Remake_6_6"
       },
       {
-        "name": "Pink",
+        "name": "Pink Blue",
         "img": "FtrFittingroom_Remake_6_7"
       },
       {
-        "name": "Green",
+        "name": "Green White",
         "img": "FtrFittingroom_Remake_7_0"
       },
       {
-        "name": "Green",
+        "name": "Green Purple",
         "img": "FtrFittingroom_Remake_7_1"
       },
       {
-        "name": "Green",
+        "name": "Green Black",
         "img": "FtrFittingroom_Remake_7_2"
       },
       {
-        "name": "Green",
+        "name": "Green Yellow",
         "img": "FtrFittingroom_Remake_7_3"
       },
       {
-        "name": "Green",
+        "name": "Green Pink",
         "img": "FtrFittingroom_Remake_7_4"
       },
       {
-        "name": "Green",
+        "name": "Green Red",
         "img": "FtrFittingroom_Remake_7_5"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrFittingroom_Remake_7_6"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrFittingroom_Remake_7_7"
       }
     ],
@@ -3361,23 +3361,23 @@ const data = [
     "name": "clothesline",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA White",
         "img": "FtrClothesline_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Well-used",
         "img": "FtrClothesline_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Blue stripes",
         "img": "FtrClothesline_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Red plaid",
         "img": "FtrClothesline_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Green plaid",
         "img": "FtrClothesline_Remake_0_4"
       }
     ],
@@ -3398,35 +3398,35 @@ const data = [
     "name": "clothesline pole",
     "variations": [
       {
-        "name": "Silver",
+        "name": "Silver Plain",
         "img": "FtrClotheshorse_Remake_0_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver PE shirt",
         "img": "FtrClotheshorse_Remake_0_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Fish",
         "img": "FtrClotheshorse_Remake_0_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Carrot",
         "img": "FtrClotheshorse_Remake_0_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Plain",
         "img": "FtrClotheshorse_Remake_1_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue PE shirt",
         "img": "FtrClotheshorse_Remake_1_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Fish",
         "img": "FtrClotheshorse_Remake_1_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Carrot",
         "img": "FtrClotheshorse_Remake_1_3"
       }
     ],
@@ -4266,143 +4266,143 @@ const data = [
     "name": "digital scale",
     "variations": [
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrWeightscale_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Floral",
         "img": "FtrWeightscale_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Polka dots",
         "img": "FtrWeightscale_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Black stripes",
         "img": "FtrWeightscale_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Wood",
         "img": "FtrWeightscale_Remake_0_4"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrWeightscale_Remake_1_0"
       },
       {
-        "name": "Black",
+        "name": "Black Floral",
         "img": "FtrWeightscale_Remake_1_1"
       },
       {
-        "name": "Black",
+        "name": "Black Polka dots",
         "img": "FtrWeightscale_Remake_1_2"
       },
       {
-        "name": "Black",
+        "name": "Black Black stripes",
         "img": "FtrWeightscale_Remake_1_3"
       },
       {
-        "name": "Black",
+        "name": "Black Wood",
         "img": "FtrWeightscale_Remake_1_4"
       },
       {
-        "name": "Red",
+        "name": "Red White",
         "img": "FtrWeightscale_Remake_2_0"
       },
       {
-        "name": "Red",
+        "name": "Red Floral",
         "img": "FtrWeightscale_Remake_2_1"
       },
       {
-        "name": "Red",
+        "name": "Red Polka dots",
         "img": "FtrWeightscale_Remake_2_2"
       },
       {
-        "name": "Red",
+        "name": "Red Black stripes",
         "img": "FtrWeightscale_Remake_2_3"
       },
       {
-        "name": "Red",
+        "name": "Red Wood",
         "img": "FtrWeightscale_Remake_2_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrWeightscale_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Floral",
         "img": "FtrWeightscale_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Polka dots",
         "img": "FtrWeightscale_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Black stripes",
         "img": "FtrWeightscale_Remake_3_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Wood",
         "img": "FtrWeightscale_Remake_3_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow White",
         "img": "FtrWeightscale_Remake_4_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Floral",
         "img": "FtrWeightscale_Remake_4_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Polka dots",
         "img": "FtrWeightscale_Remake_4_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Black stripes",
         "img": "FtrWeightscale_Remake_4_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Wood",
         "img": "FtrWeightscale_Remake_4_4"
       },
       {
-        "name": "Green",
+        "name": "Green White",
         "img": "FtrWeightscale_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Floral",
         "img": "FtrWeightscale_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Polka dots",
         "img": "FtrWeightscale_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Black stripes",
         "img": "FtrWeightscale_Remake_5_3"
       },
       {
-        "name": "Green",
+        "name": "Green Wood",
         "img": "FtrWeightscale_Remake_5_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown White",
         "img": "FtrWeightscale_Remake_6_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Floral",
         "img": "FtrWeightscale_Remake_6_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Polka dots",
         "img": "FtrWeightscale_Remake_6_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Black stripes",
         "img": "FtrWeightscale_Remake_6_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Wood",
         "img": "FtrWeightscale_Remake_6_4"
       }
     ],
@@ -4730,51 +4730,51 @@ const data = [
     "name": "director's chair",
     "variations": [
       {
-        "name": "Light brown",
+        "name": "Light brown Natural white",
         "img": "FtrDirectorchair_Remake_0_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Director black",
         "img": "FtrDirectorchair_Remake_0_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Chic pleather",
         "img": "FtrDirectorchair_Remake_0_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Natural white",
         "img": "FtrDirectorchair_Remake_1_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Director black",
         "img": "FtrDirectorchair_Remake_1_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Chic pleather",
         "img": "FtrDirectorchair_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Natural white",
         "img": "FtrDirectorchair_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Director black",
         "img": "FtrDirectorchair_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Chic pleather",
         "img": "FtrDirectorchair_Remake_2_2"
       },
       {
-        "name": "Black",
+        "name": "Black Natural white",
         "img": "FtrDirectorchair_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Director black",
         "img": "FtrDirectorchair_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black Chic pleather",
         "img": "FtrDirectorchair_Remake_3_2"
       }
     ],
@@ -4844,131 +4844,131 @@ const data = [
     "name": "DJ's turntable",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrDJbooth_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Familiar logo",
         "img": "FtrDJbooth_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Chic logo",
         "img": "FtrDJbooth_Remake_0_2"
       },
       {
-        "name": "Black",
+        "name": "Black Rock logo",
         "img": "FtrDJbooth_Remake_0_3"
       },
       {
-        "name": "Black",
+        "name": "Black Emblem logo",
         "img": "FtrDJbooth_Remake_0_4"
       },
       {
-        "name": "Black",
+        "name": "Black Handwritten logo",
         "img": "FtrDJbooth_Remake_0_5"
       },
       {
-        "name": "Black",
+        "name": "Black Pop logo",
         "img": "FtrDJbooth_Remake_0_6"
       },
       {
-        "name": "Black",
+        "name": "Black Cute logo",
         "img": "FtrDJbooth_Remake_0_7"
       },
       {
-        "name": "White",
+        "name": "White None",
         "img": "FtrDJbooth_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Familiar logo",
         "img": "FtrDJbooth_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Chic logo",
         "img": "FtrDJbooth_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Rock logo",
         "img": "FtrDJbooth_Remake_1_3"
       },
       {
-        "name": "White",
+        "name": "White Emblem logo",
         "img": "FtrDJbooth_Remake_1_4"
       },
       {
-        "name": "White",
+        "name": "White Handwritten logo",
         "img": "FtrDJbooth_Remake_1_5"
       },
       {
-        "name": "White",
+        "name": "White Pop logo",
         "img": "FtrDJbooth_Remake_1_6"
       },
       {
-        "name": "White",
+        "name": "White Cute logo",
         "img": "FtrDJbooth_Remake_1_7"
       },
       {
-        "name": "Brown",
+        "name": "Brown None",
         "img": "FtrDJbooth_Remake_2_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Familiar logo",
         "img": "FtrDJbooth_Remake_2_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Chic logo",
         "img": "FtrDJbooth_Remake_2_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Rock logo",
         "img": "FtrDJbooth_Remake_2_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Emblem logo",
         "img": "FtrDJbooth_Remake_2_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Handwritten logo",
         "img": "FtrDJbooth_Remake_2_5"
       },
       {
-        "name": "Brown",
+        "name": "Brown Pop logo",
         "img": "FtrDJbooth_Remake_2_6"
       },
       {
-        "name": "Brown",
+        "name": "Brown Cute logo",
         "img": "FtrDJbooth_Remake_2_7"
       },
       {
-        "name": "Pink",
+        "name": "Pink None",
         "img": "FtrDJbooth_Remake_3_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Familiar logo",
         "img": "FtrDJbooth_Remake_3_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Chic logo",
         "img": "FtrDJbooth_Remake_3_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Rock logo",
         "img": "FtrDJbooth_Remake_3_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Emblem logo",
         "img": "FtrDJbooth_Remake_3_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Handwritten logo",
         "img": "FtrDJbooth_Remake_3_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Pop logo",
         "img": "FtrDJbooth_Remake_3_6"
       },
       {
-        "name": "Pink",
+        "name": "Pink Cute logo",
         "img": "FtrDJbooth_Remake_3_7"
       }
     ],
@@ -5108,99 +5108,99 @@ const data = [
     "name": "drink machine",
     "variations": [
       {
-        "name": "Red",
+        "name": "Red Orange juice",
         "img": "FtrDrinkmachine_Remake_0_0"
       },
       {
-        "name": "Red",
+        "name": "Red Sports drink",
         "img": "FtrDrinkmachine_Remake_0_1"
       },
       {
-        "name": "Red",
+        "name": "Red Sale",
         "img": "FtrDrinkmachine_Remake_0_2"
       },
       {
-        "name": "Red",
+        "name": "Red Cute",
         "img": "FtrDrinkmachine_Remake_0_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange juice",
         "img": "FtrDrinkmachine_Remake_1_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Sports drink",
         "img": "FtrDrinkmachine_Remake_1_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Sale",
         "img": "FtrDrinkmachine_Remake_1_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Cute",
         "img": "FtrDrinkmachine_Remake_1_3"
       },
       {
-        "name": "White",
+        "name": "White Orange juice",
         "img": "FtrDrinkmachine_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Sports drink",
         "img": "FtrDrinkmachine_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Sale",
         "img": "FtrDrinkmachine_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Cute",
         "img": "FtrDrinkmachine_Remake_2_3"
       },
       {
-        "name": "Black",
+        "name": "Black Orange juice",
         "img": "FtrDrinkmachine_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Sports drink",
         "img": "FtrDrinkmachine_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black Sale",
         "img": "FtrDrinkmachine_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Cute",
         "img": "FtrDrinkmachine_Remake_3_3"
       },
       {
-        "name": "Green",
+        "name": "Green Orange juice",
         "img": "FtrDrinkmachine_Remake_4_0"
       },
       {
-        "name": "Green",
+        "name": "Green Sports drink",
         "img": "FtrDrinkmachine_Remake_4_1"
       },
       {
-        "name": "Green",
+        "name": "Green Sale",
         "img": "FtrDrinkmachine_Remake_4_2"
       },
       {
-        "name": "Green",
+        "name": "Green Cute",
         "img": "FtrDrinkmachine_Remake_4_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Orange juice",
         "img": "FtrDrinkmachine_Remake_5_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Sports drink",
         "img": "FtrDrinkmachine_Remake_5_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Sale",
         "img": "FtrDrinkmachine_Remake_5_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Cute",
         "img": "FtrDrinkmachine_Remake_5_3"
       }
     ],
@@ -5254,195 +5254,195 @@ const data = [
     "name": "drum set",
     "variations": [
       {
-        "name": "Golden yellow",
+        "name": "Golden yellow Smooth white",
         "img": "FtrDrumSet_Remake_0_0"
       },
       {
-        "name": "Golden yellow",
+        "name": "Golden yellow Glossy black",
         "img": "FtrDrumSet_Remake_0_1"
       },
       {
-        "name": "Golden yellow",
+        "name": "Golden yellow Black with logo",
         "img": "FtrDrumSet_Remake_0_2"
       },
       {
-        "name": "Golden yellow",
+        "name": "Golden yellow White with logo",
         "img": "FtrDrumSet_Remake_0_3"
       },
       {
-        "name": "Golden yellow",
+        "name": "Golden yellow Rock logo",
         "img": "FtrDrumSet_Remake_0_4"
       },
       {
-        "name": "Golden yellow",
+        "name": "Golden yellow Vintage logo",
         "img": "FtrDrumSet_Remake_0_5"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Smooth white",
         "img": "FtrDrumSet_Remake_1_0"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Glossy black",
         "img": "FtrDrumSet_Remake_1_1"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Black with logo",
         "img": "FtrDrumSet_Remake_1_2"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black White with logo",
         "img": "FtrDrumSet_Remake_1_3"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Rock logo",
         "img": "FtrDrumSet_Remake_1_4"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Vintage logo",
         "img": "FtrDrumSet_Remake_1_5"
       },
       {
-        "name": "Pearl white",
+        "name": "Pearl white Smooth white",
         "img": "FtrDrumSet_Remake_2_0"
       },
       {
-        "name": "Pearl white",
+        "name": "Pearl white Glossy black",
         "img": "FtrDrumSet_Remake_2_1"
       },
       {
-        "name": "Pearl white",
+        "name": "Pearl white Black with logo",
         "img": "FtrDrumSet_Remake_2_2"
       },
       {
-        "name": "Pearl white",
+        "name": "Pearl white White with logo",
         "img": "FtrDrumSet_Remake_2_3"
       },
       {
-        "name": "Pearl white",
+        "name": "Pearl white Rock logo",
         "img": "FtrDrumSet_Remake_2_4"
       },
       {
-        "name": "Pearl white",
+        "name": "Pearl white Vintage logo",
         "img": "FtrDrumSet_Remake_2_5"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Smooth white",
         "img": "FtrDrumSet_Remake_3_0"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Glossy black",
         "img": "FtrDrumSet_Remake_3_1"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Black with logo",
         "img": "FtrDrumSet_Remake_3_2"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood White with logo",
         "img": "FtrDrumSet_Remake_3_3"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Rock logo",
         "img": "FtrDrumSet_Remake_3_4"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Vintage logo",
         "img": "FtrDrumSet_Remake_3_5"
       },
       {
-        "name": "Marine blue",
+        "name": "Marine blue Smooth white",
         "img": "FtrDrumSet_Remake_4_0"
       },
       {
-        "name": "Marine blue",
+        "name": "Marine blue Glossy black",
         "img": "FtrDrumSet_Remake_4_1"
       },
       {
-        "name": "Marine blue",
+        "name": "Marine blue Black with logo",
         "img": "FtrDrumSet_Remake_4_2"
       },
       {
-        "name": "Marine blue",
+        "name": "Marine blue White with logo",
         "img": "FtrDrumSet_Remake_4_3"
       },
       {
-        "name": "Marine blue",
+        "name": "Marine blue Rock logo",
         "img": "FtrDrumSet_Remake_4_4"
       },
       {
-        "name": "Marine blue",
+        "name": "Marine blue Vintage logo",
         "img": "FtrDrumSet_Remake_4_5"
       },
       {
-        "name": "Rose pink",
+        "name": "Rose pink Smooth white",
         "img": "FtrDrumSet_Remake_5_0"
       },
       {
-        "name": "Rose pink",
+        "name": "Rose pink Glossy black",
         "img": "FtrDrumSet_Remake_5_1"
       },
       {
-        "name": "Rose pink",
+        "name": "Rose pink Black with logo",
         "img": "FtrDrumSet_Remake_5_2"
       },
       {
-        "name": "Rose pink",
+        "name": "Rose pink White with logo",
         "img": "FtrDrumSet_Remake_5_3"
       },
       {
-        "name": "Rose pink",
+        "name": "Rose pink Rock logo",
         "img": "FtrDrumSet_Remake_5_4"
       },
       {
-        "name": "Rose pink",
+        "name": "Rose pink Vintage logo",
         "img": "FtrDrumSet_Remake_5_5"
       },
       {
-        "name": "Evergreen",
+        "name": "Evergreen Smooth white",
         "img": "FtrDrumSet_Remake_6_0"
       },
       {
-        "name": "Evergreen",
+        "name": "Evergreen Glossy black",
         "img": "FtrDrumSet_Remake_6_1"
       },
       {
-        "name": "Evergreen",
+        "name": "Evergreen Black with logo",
         "img": "FtrDrumSet_Remake_6_2"
       },
       {
-        "name": "Evergreen",
+        "name": "Evergreen White with logo",
         "img": "FtrDrumSet_Remake_6_3"
       },
       {
-        "name": "Evergreen",
+        "name": "Evergreen Rock logo",
         "img": "FtrDrumSet_Remake_6_4"
       },
       {
-        "name": "Evergreen",
+        "name": "Evergreen Vintage logo",
         "img": "FtrDrumSet_Remake_6_5"
       },
       {
-        "name": "Black & white",
+        "name": "Black & white Smooth white",
         "img": "FtrDrumSet_Remake_7_0"
       },
       {
-        "name": "Black & white",
+        "name": "Black & white Glossy black",
         "img": "FtrDrumSet_Remake_7_1"
       },
       {
-        "name": "Black & white",
+        "name": "Black & white Black with logo",
         "img": "FtrDrumSet_Remake_7_2"
       },
       {
-        "name": "Black & white",
+        "name": "Black & white White with logo",
         "img": "FtrDrumSet_Remake_7_3"
       },
       {
-        "name": "Black & white",
+        "name": "Black & white Rock logo",
         "img": "FtrDrumSet_Remake_7_4"
       },
       {
-        "name": "Black & white",
+        "name": "Black & white Vintage logo",
         "img": "FtrDrumSet_Remake_7_5"
       }
     ],
@@ -5496,195 +5496,195 @@ const data = [
     "name": "effects rack",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrEffectorrack_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Familiar logo",
         "img": "FtrEffectorrack_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Chic logo",
         "img": "FtrEffectorrack_Remake_0_2"
       },
       {
-        "name": "Black",
+        "name": "Black Rock logo",
         "img": "FtrEffectorrack_Remake_0_3"
       },
       {
-        "name": "Black",
+        "name": "Black Emblem logo",
         "img": "FtrEffectorrack_Remake_0_4"
       },
       {
-        "name": "Black",
+        "name": "Black Handwritten logo",
         "img": "FtrEffectorrack_Remake_0_5"
       },
       {
-        "name": "Black",
+        "name": "Black Pop logo",
         "img": "FtrEffectorrack_Remake_0_6"
       },
       {
-        "name": "Black",
+        "name": "Black Cute logo",
         "img": "FtrEffectorrack_Remake_0_7"
       },
       {
-        "name": "White",
+        "name": "White None",
         "img": "FtrEffectorrack_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Familiar logo",
         "img": "FtrEffectorrack_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Chic logo",
         "img": "FtrEffectorrack_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Rock logo",
         "img": "FtrEffectorrack_Remake_1_3"
       },
       {
-        "name": "White",
+        "name": "White Emblem logo",
         "img": "FtrEffectorrack_Remake_1_4"
       },
       {
-        "name": "White",
+        "name": "White Handwritten logo",
         "img": "FtrEffectorrack_Remake_1_5"
       },
       {
-        "name": "White",
+        "name": "White Pop logo",
         "img": "FtrEffectorrack_Remake_1_6"
       },
       {
-        "name": "White",
+        "name": "White Cute logo",
         "img": "FtrEffectorrack_Remake_1_7"
       },
       {
-        "name": "Orange",
+        "name": "Orange None",
         "img": "FtrEffectorrack_Remake_2_0"
       },
       {
-        "name": "Orange",
+        "name": "Orange Familiar logo",
         "img": "FtrEffectorrack_Remake_2_1"
       },
       {
-        "name": "Orange",
+        "name": "Orange Chic logo",
         "img": "FtrEffectorrack_Remake_2_2"
       },
       {
-        "name": "Orange",
+        "name": "Orange Rock logo",
         "img": "FtrEffectorrack_Remake_2_3"
       },
       {
-        "name": "Orange",
+        "name": "Orange Emblem logo",
         "img": "FtrEffectorrack_Remake_2_4"
       },
       {
-        "name": "Orange",
+        "name": "Orange Handwritten logo",
         "img": "FtrEffectorrack_Remake_2_5"
       },
       {
-        "name": "Orange",
+        "name": "Orange Pop logo",
         "img": "FtrEffectorrack_Remake_2_6"
       },
       {
-        "name": "Orange",
+        "name": "Orange Cute logo",
         "img": "FtrEffectorrack_Remake_2_7"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrEffectorrack_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Familiar logo",
         "img": "FtrEffectorrack_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Chic logo",
         "img": "FtrEffectorrack_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Rock logo",
         "img": "FtrEffectorrack_Remake_3_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Emblem logo",
         "img": "FtrEffectorrack_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Handwritten logo",
         "img": "FtrEffectorrack_Remake_3_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pop logo",
         "img": "FtrEffectorrack_Remake_3_6"
       },
       {
-        "name": "Blue",
+        "name": "Blue Cute logo",
         "img": "FtrEffectorrack_Remake_3_7"
       },
       {
-        "name": "Red",
+        "name": "Red None",
         "img": "FtrEffectorrack_Remake_4_0"
       },
       {
-        "name": "Red",
+        "name": "Red Familiar logo",
         "img": "FtrEffectorrack_Remake_4_1"
       },
       {
-        "name": "Red",
+        "name": "Red Chic logo",
         "img": "FtrEffectorrack_Remake_4_2"
       },
       {
-        "name": "Red",
+        "name": "Red Rock logo",
         "img": "FtrEffectorrack_Remake_4_3"
       },
       {
-        "name": "Red",
+        "name": "Red Emblem logo",
         "img": "FtrEffectorrack_Remake_4_4"
       },
       {
-        "name": "Red",
+        "name": "Red Handwritten logo",
         "img": "FtrEffectorrack_Remake_4_5"
       },
       {
-        "name": "Red",
+        "name": "Red Pop logo",
         "img": "FtrEffectorrack_Remake_4_6"
       },
       {
-        "name": "Red",
+        "name": "Red Cute logo",
         "img": "FtrEffectorrack_Remake_4_7"
       },
       {
-        "name": "Pink",
+        "name": "Pink None",
         "img": "FtrEffectorrack_Remake_5_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Familiar logo",
         "img": "FtrEffectorrack_Remake_5_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Chic logo",
         "img": "FtrEffectorrack_Remake_5_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Rock logo",
         "img": "FtrEffectorrack_Remake_5_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Emblem logo",
         "img": "FtrEffectorrack_Remake_5_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Handwritten logo",
         "img": "FtrEffectorrack_Remake_5_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Pop logo",
         "img": "FtrEffectorrack_Remake_5_6"
       },
       {
-        "name": "Pink",
+        "name": "Pink Cute logo",
         "img": "FtrEffectorrack_Remake_5_7"
       }
     ],
@@ -5791,227 +5791,227 @@ const data = [
     "name": "electric guitar",
     "variations": [
       {
-        "name": "Dark red",
+        "name": "Dark red None",
         "img": "FtrElectricguitar2_Remake_0_0"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Familiar logo",
         "img": "FtrElectricguitar2_Remake_0_1"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Chic logo",
         "img": "FtrElectricguitar2_Remake_0_2"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Rock logo",
         "img": "FtrElectricguitar2_Remake_0_3"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Emblem logo",
         "img": "FtrElectricguitar2_Remake_0_4"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Handwritten logo",
         "img": "FtrElectricguitar2_Remake_0_5"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Pop logo",
         "img": "FtrElectricguitar2_Remake_0_6"
       },
       {
-        "name": "Dark red",
+        "name": "Dark red Cute logo",
         "img": "FtrElectricguitar2_Remake_0_7"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood None",
         "img": "FtrElectricguitar2_Remake_1_0"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Familiar logo",
         "img": "FtrElectricguitar2_Remake_1_1"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Chic logo",
         "img": "FtrElectricguitar2_Remake_1_2"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Rock logo",
         "img": "FtrElectricguitar2_Remake_1_3"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Emblem logo",
         "img": "FtrElectricguitar2_Remake_1_4"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Handwritten logo",
         "img": "FtrElectricguitar2_Remake_1_5"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Pop logo",
         "img": "FtrElectricguitar2_Remake_1_6"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Cute logo",
         "img": "FtrElectricguitar2_Remake_1_7"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry None",
         "img": "FtrElectricguitar2_Remake_2_0"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Familiar logo",
         "img": "FtrElectricguitar2_Remake_2_1"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Chic logo",
         "img": "FtrElectricguitar2_Remake_2_2"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Rock logo",
         "img": "FtrElectricguitar2_Remake_2_3"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Emblem logo",
         "img": "FtrElectricguitar2_Remake_2_4"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Handwritten logo",
         "img": "FtrElectricguitar2_Remake_2_5"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Pop logo",
         "img": "FtrElectricguitar2_Remake_2_6"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Cute logo",
         "img": "FtrElectricguitar2_Remake_2_7"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst None",
         "img": "FtrElectricguitar2_Remake_3_0"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Familiar logo",
         "img": "FtrElectricguitar2_Remake_3_1"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Chic logo",
         "img": "FtrElectricguitar2_Remake_3_2"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Rock logo",
         "img": "FtrElectricguitar2_Remake_3_3"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Emblem logo",
         "img": "FtrElectricguitar2_Remake_3_4"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Handwritten logo",
         "img": "FtrElectricguitar2_Remake_3_5"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Pop logo",
         "img": "FtrElectricguitar2_Remake_3_6"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Cute logo",
         "img": "FtrElectricguitar2_Remake_3_7"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald None",
         "img": "FtrElectricguitar2_Remake_4_0"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Familiar logo",
         "img": "FtrElectricguitar2_Remake_4_1"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Chic logo",
         "img": "FtrElectricguitar2_Remake_4_2"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Rock logo",
         "img": "FtrElectricguitar2_Remake_4_3"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Emblem logo",
         "img": "FtrElectricguitar2_Remake_4_4"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Handwritten logo",
         "img": "FtrElectricguitar2_Remake_4_5"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Pop logo",
         "img": "FtrElectricguitar2_Remake_4_6"
       },
       {
-        "name": "Marine emerald",
+        "name": "Marine emerald Cute logo",
         "img": "FtrElectricguitar2_Remake_4_7"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white None",
         "img": "FtrElectricguitar2_Remake_5_0"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Familiar logo",
         "img": "FtrElectricguitar2_Remake_5_1"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Chic logo",
         "img": "FtrElectricguitar2_Remake_5_2"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Rock logo",
         "img": "FtrElectricguitar2_Remake_5_3"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Emblem logo",
         "img": "FtrElectricguitar2_Remake_5_4"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Handwritten logo",
         "img": "FtrElectricguitar2_Remake_5_5"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Pop logo",
         "img": "FtrElectricguitar2_Remake_5_6"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Cute logo",
         "img": "FtrElectricguitar2_Remake_5_7"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black None",
         "img": "FtrElectricguitar2_Remake_6_0"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Familiar logo",
         "img": "FtrElectricguitar2_Remake_6_1"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Chic logo",
         "img": "FtrElectricguitar2_Remake_6_2"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Rock logo",
         "img": "FtrElectricguitar2_Remake_6_3"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Emblem logo",
         "img": "FtrElectricguitar2_Remake_6_4"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Handwritten logo",
         "img": "FtrElectricguitar2_Remake_6_5"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Pop logo",
         "img": "FtrElectricguitar2_Remake_6_6"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Cute logo",
         "img": "FtrElectricguitar2_Remake_6_7"
       }
     ],
@@ -6469,131 +6469,131 @@ const data = [
     "name": "floor lamp",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural White",
         "img": "FtrLamp_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Gray",
         "img": "FtrLamp_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Pink",
         "img": "FtrLamp_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Light blue",
         "img": "FtrLamp_Remake_0_3"
       },
       {
-        "name": "Natural",
+        "name": "Natural Yellow design",
         "img": "FtrLamp_Remake_0_4"
       },
       {
-        "name": "Natural",
+        "name": "Natural Green design",
         "img": "FtrLamp_Remake_0_5"
       },
       {
-        "name": "Natural",
+        "name": "Natural Orange design",
         "img": "FtrLamp_Remake_0_6"
       },
       {
-        "name": "Natural",
+        "name": "Natural Navy design",
         "img": "FtrLamp_Remake_0_7"
       },
       {
-        "name": "Brown",
+        "name": "Brown White",
         "img": "FtrLamp_Remake_1_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Gray",
         "img": "FtrLamp_Remake_1_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Pink",
         "img": "FtrLamp_Remake_1_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Light blue",
         "img": "FtrLamp_Remake_1_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Yellow design",
         "img": "FtrLamp_Remake_1_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Green design",
         "img": "FtrLamp_Remake_1_5"
       },
       {
-        "name": "Brown",
+        "name": "Brown Orange design",
         "img": "FtrLamp_Remake_1_6"
       },
       {
-        "name": "Brown",
+        "name": "Brown Navy design",
         "img": "FtrLamp_Remake_1_7"
       },
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrLamp_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Gray",
         "img": "FtrLamp_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Pink",
         "img": "FtrLamp_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Light blue",
         "img": "FtrLamp_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Yellow design",
         "img": "FtrLamp_Remake_2_4"
       },
       {
-        "name": "White",
+        "name": "White Green design",
         "img": "FtrLamp_Remake_2_5"
       },
       {
-        "name": "White",
+        "name": "White Orange design",
         "img": "FtrLamp_Remake_2_6"
       },
       {
-        "name": "White",
+        "name": "White Navy design",
         "img": "FtrLamp_Remake_2_7"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrLamp_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Gray",
         "img": "FtrLamp_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrLamp_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Light blue",
         "img": "FtrLamp_Remake_3_3"
       },
       {
-        "name": "Black",
+        "name": "Black Yellow design",
         "img": "FtrLamp_Remake_3_4"
       },
       {
-        "name": "Black",
+        "name": "Black Green design",
         "img": "FtrLamp_Remake_3_5"
       },
       {
-        "name": "Black",
+        "name": "Black Orange design",
         "img": "FtrLamp_Remake_3_6"
       },
       {
-        "name": "Black",
+        "name": "Black Navy design",
         "img": "FtrLamp_Remake_3_7"
       }
     ],
@@ -6663,67 +6663,67 @@ const data = [
     "name": "floor seat",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural Pale grass green",
         "img": "FtrFloorchair_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Mustard yellow",
         "img": "FtrFloorchair_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Peach",
         "img": "FtrFloorchair_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Deep blue",
         "img": "FtrFloorchair_Remake_0_3"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Pale grass green",
         "img": "FtrFloorchair_Remake_1_0"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Mustard yellow",
         "img": "FtrFloorchair_Remake_1_1"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Peach",
         "img": "FtrFloorchair_Remake_1_2"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Deep blue",
         "img": "FtrFloorchair_Remake_1_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pale grass green",
         "img": "FtrFloorchair_Remake_2_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Mustard yellow",
         "img": "FtrFloorchair_Remake_2_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Peach",
         "img": "FtrFloorchair_Remake_2_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Deep blue",
         "img": "FtrFloorchair_Remake_2_3"
       },
       {
-        "name": "Black",
+        "name": "Black Pale grass green",
         "img": "FtrFloorchair_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Mustard yellow",
         "img": "FtrFloorchair_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black Peach",
         "img": "FtrFloorchair_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Deep blue",
         "img": "FtrFloorchair_Remake_3_3"
       }
     ],
@@ -7082,115 +7082,115 @@ const data = [
     "name": "frozen bed",
     "variations": [
       {
-        "name": "Ice",
+        "name": "Ice Brown",
         "img": "FtrIceBedW_Remake_0_0"
       },
       {
-        "name": "Ice",
+        "name": "Ice White",
         "img": "FtrIceBedW_Remake_0_1"
       },
       {
-        "name": "Ice",
+        "name": "Ice Gray",
         "img": "FtrIceBedW_Remake_0_2"
       },
       {
-        "name": "Ice",
+        "name": "Ice Dark brown",
         "img": "FtrIceBedW_Remake_0_3"
       },
       {
-        "name": "Ice blue",
+        "name": "Ice blue Brown",
         "img": "FtrIceBedW_Remake_1_0"
       },
       {
-        "name": "Ice blue",
+        "name": "Ice blue White",
         "img": "FtrIceBedW_Remake_1_1"
       },
       {
-        "name": "Ice blue",
+        "name": "Ice blue Gray",
         "img": "FtrIceBedW_Remake_1_2"
       },
       {
-        "name": "Ice blue",
+        "name": "Ice blue Dark brown",
         "img": "FtrIceBedW_Remake_1_3"
       },
       {
-        "name": "Ice pink",
+        "name": "Ice pink Brown",
         "img": "FtrIceBedW_Remake_2_0"
       },
       {
-        "name": "Ice pink",
+        "name": "Ice pink White",
         "img": "FtrIceBedW_Remake_2_1"
       },
       {
-        "name": "Ice pink",
+        "name": "Ice pink Gray",
         "img": "FtrIceBedW_Remake_2_2"
       },
       {
-        "name": "Ice pink",
+        "name": "Ice pink Dark brown",
         "img": "FtrIceBedW_Remake_2_3"
       },
       {
-        "name": "Ice yellow",
+        "name": "Ice yellow Brown",
         "img": "FtrIceBedW_Remake_3_0"
       },
       {
-        "name": "Ice yellow",
+        "name": "Ice yellow White",
         "img": "FtrIceBedW_Remake_3_1"
       },
       {
-        "name": "Ice yellow",
+        "name": "Ice yellow Gray",
         "img": "FtrIceBedW_Remake_3_2"
       },
       {
-        "name": "Ice yellow",
+        "name": "Ice yellow Dark brown",
         "img": "FtrIceBedW_Remake_3_3"
       },
       {
-        "name": "Ice orange",
+        "name": "Ice orange Brown",
         "img": "FtrIceBedW_Remake_4_0"
       },
       {
-        "name": "Ice orange",
+        "name": "Ice orange White",
         "img": "FtrIceBedW_Remake_4_1"
       },
       {
-        "name": "Ice orange",
+        "name": "Ice orange Gray",
         "img": "FtrIceBedW_Remake_4_2"
       },
       {
-        "name": "Ice orange",
+        "name": "Ice orange Dark brown",
         "img": "FtrIceBedW_Remake_4_3"
       },
       {
-        "name": "Ice green",
+        "name": "Ice green Brown",
         "img": "FtrIceBedW_Remake_5_0"
       },
       {
-        "name": "Ice green",
+        "name": "Ice green White",
         "img": "FtrIceBedW_Remake_5_1"
       },
       {
-        "name": "Ice green",
+        "name": "Ice green Gray",
         "img": "FtrIceBedW_Remake_5_2"
       },
       {
-        "name": "Ice green",
+        "name": "Ice green Dark brown",
         "img": "FtrIceBedW_Remake_5_3"
       },
       {
-        "name": "Ice purple",
+        "name": "Ice purple Brown",
         "img": "FtrIceBedW_Remake_6_0"
       },
       {
-        "name": "Ice purple",
+        "name": "Ice purple White",
         "img": "FtrIceBedW_Remake_6_1"
       },
       {
-        "name": "Ice purple",
+        "name": "Ice purple Gray",
         "img": "FtrIceBedW_Remake_6_2"
       },
       {
-        "name": "Ice purple",
+        "name": "Ice purple Dark brown",
         "img": "FtrIceBedW_Remake_6_3"
       }
     ],
@@ -7526,19 +7526,19 @@ const data = [
     "name": "futon",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Red",
         "img": "FtrFuton_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrFuton_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Orange",
         "img": "FtrFuton_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Green",
         "img": "FtrFuton_Remake_0_3"
       }
     ],
@@ -7865,99 +7865,99 @@ const data = [
     "name": "giant teddy bear",
     "variations": [
       {
-        "name": "Cream",
+        "name": "Cream None",
         "img": "FtrBearXL_Remake_0_0"
       },
       {
-        "name": "Cream",
+        "name": "Cream White",
         "img": "FtrBearXL_Remake_0_1"
       },
       {
-        "name": "Cream",
+        "name": "Cream Giant dots",
         "img": "FtrBearXL_Remake_0_2"
       },
       {
-        "name": "Cream",
+        "name": "Cream Giant stripes",
         "img": "FtrBearXL_Remake_0_3"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha None",
         "img": "FtrBearXL_Remake_1_0"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha White",
         "img": "FtrBearXL_Remake_1_1"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Giant dots",
         "img": "FtrBearXL_Remake_1_2"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Giant stripes",
         "img": "FtrBearXL_Remake_1_3"
       },
       {
-        "name": "Choco",
+        "name": "Choco None",
         "img": "FtrBearXL_Remake_2_0"
       },
       {
-        "name": "Choco",
+        "name": "Choco White",
         "img": "FtrBearXL_Remake_2_1"
       },
       {
-        "name": "Choco",
+        "name": "Choco Giant dots",
         "img": "FtrBearXL_Remake_2_2"
       },
       {
-        "name": "Choco",
+        "name": "Choco Giant stripes",
         "img": "FtrBearXL_Remake_2_3"
       },
       {
-        "name": "Floral",
+        "name": "Floral None",
         "img": "FtrBearXL_Remake_3_0"
       },
       {
-        "name": "Floral",
+        "name": "Floral White",
         "img": "FtrBearXL_Remake_3_1"
       },
       {
-        "name": "Floral",
+        "name": "Floral Giant dots",
         "img": "FtrBearXL_Remake_3_2"
       },
       {
-        "name": "Floral",
+        "name": "Floral Giant stripes",
         "img": "FtrBearXL_Remake_3_3"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered None",
         "img": "FtrBearXL_Remake_4_0"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered White",
         "img": "FtrBearXL_Remake_4_1"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Giant dots",
         "img": "FtrBearXL_Remake_4_2"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Giant stripes",
         "img": "FtrBearXL_Remake_4_3"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed None",
         "img": "FtrBearXL_Remake_5_0"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed White",
         "img": "FtrBearXL_Remake_5_1"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Giant dots",
         "img": "FtrBearXL_Remake_5_2"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Giant stripes",
         "img": "FtrBearXL_Remake_5_3"
       }
     ],
@@ -8278,115 +8278,115 @@ const data = [
     "name": "hammock",
     "variations": [
       {
-        "name": "Brown",
+        "name": "Brown Colorful",
         "img": "FtrHammock_Remake_0_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Camouflage",
         "img": "FtrHammock_Remake_0_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Hibiscus flowers",
         "img": "FtrHammock_Remake_0_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown White",
         "img": "FtrHammock_Remake_0_3"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Colorful",
         "img": "FtrHammock_Remake_1_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Camouflage",
         "img": "FtrHammock_Remake_1_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Hibiscus flowers",
         "img": "FtrHammock_Remake_1_2"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown White",
         "img": "FtrHammock_Remake_1_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Colorful",
         "img": "FtrHammock_Remake_2_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Camouflage",
         "img": "FtrHammock_Remake_2_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Hibiscus flowers",
         "img": "FtrHammock_Remake_2_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow White",
         "img": "FtrHammock_Remake_2_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Colorful",
         "img": "FtrHammock_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Camouflage",
         "img": "FtrHammock_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Hibiscus flowers",
         "img": "FtrHammock_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrHammock_Remake_3_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Colorful",
         "img": "FtrHammock_Remake_4_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Camouflage",
         "img": "FtrHammock_Remake_4_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Hibiscus flowers",
         "img": "FtrHammock_Remake_4_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink White",
         "img": "FtrHammock_Remake_4_3"
       },
       {
-        "name": "White",
+        "name": "White Colorful",
         "img": "FtrHammock_Remake_5_0"
       },
       {
-        "name": "White",
+        "name": "White Camouflage",
         "img": "FtrHammock_Remake_5_1"
       },
       {
-        "name": "White",
+        "name": "White Hibiscus flowers",
         "img": "FtrHammock_Remake_5_2"
       },
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrHammock_Remake_5_3"
       },
       {
-        "name": "Black",
+        "name": "Black Colorful",
         "img": "FtrHammock_Remake_6_0"
       },
       {
-        "name": "Black",
+        "name": "Black Camouflage",
         "img": "FtrHammock_Remake_6_1"
       },
       {
-        "name": "Black",
+        "name": "Black Hibiscus flowers",
         "img": "FtrHammock_Remake_6_2"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrHammock_Remake_6_3"
       }
     ],
@@ -9203,19 +9203,19 @@ const data = [
     "name": "iron hanger stand",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black Navy",
         "img": "FtrIronHanger_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Shell pink",
         "img": "FtrIronHanger_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Navy",
         "img": "FtrIronHanger_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Shell pink",
         "img": "FtrIronHanger_Remake_1_1"
       }
     ],
@@ -9286,23 +9286,23 @@ const data = [
     "name": "ironing board",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Stripes",
         "img": "FtrIronstand_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Checkered",
         "img": "FtrIronstand_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Dots",
         "img": "FtrIronstand_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Leaves",
         "img": "FtrIronstand_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Triangles",
         "img": "FtrIronstand_Remake_0_4"
       }
     ],
@@ -9323,63 +9323,63 @@ const data = [
     "name": "ironwood bed",
     "variations": [
       {
-        "name": "Birch",
+        "name": "Birch Navy",
         "img": "FtrIronwoodBedS_Remake_0_0"
       },
       {
-        "name": "Birch",
+        "name": "Birch Blue-gray",
         "img": "FtrIronwoodBedS_Remake_0_1"
       },
       {
-        "name": "Birch",
+        "name": "Birch Brown",
         "img": "FtrIronwoodBedS_Remake_0_2"
       },
       {
-        "name": "Teak",
+        "name": "Teak Navy",
         "img": "FtrIronwoodBedS_Remake_1_0"
       },
       {
-        "name": "Teak",
+        "name": "Teak Blue-gray",
         "img": "FtrIronwoodBedS_Remake_1_1"
       },
       {
-        "name": "Teak",
+        "name": "Teak Brown",
         "img": "FtrIronwoodBedS_Remake_1_2"
       },
       {
-        "name": "Walnut",
+        "name": "Walnut Navy",
         "img": "FtrIronwoodBedS_Remake_2_0"
       },
       {
-        "name": "Walnut",
+        "name": "Walnut Blue-gray",
         "img": "FtrIronwoodBedS_Remake_2_1"
       },
       {
-        "name": "Walnut",
+        "name": "Walnut Brown",
         "img": "FtrIronwoodBedS_Remake_2_2"
       },
       {
-        "name": "Old",
+        "name": "Old Navy",
         "img": "FtrIronwoodBedS_Remake_3_0"
       },
       {
-        "name": "Old",
+        "name": "Old Blue-gray",
         "img": "FtrIronwoodBedS_Remake_3_1"
       },
       {
-        "name": "Old",
+        "name": "Old Brown",
         "img": "FtrIronwoodBedS_Remake_3_2"
       },
       {
-        "name": "Oak",
+        "name": "Oak Navy",
         "img": "FtrIronwoodBedS_Remake_4_0"
       },
       {
-        "name": "Oak",
+        "name": "Oak Blue-gray",
         "img": "FtrIronwoodBedS_Remake_4_1"
       },
       {
-        "name": "Oak",
+        "name": "Oak Brown",
         "img": "FtrIronwoodBedS_Remake_4_2"
       }
     ],
@@ -9792,19 +9792,19 @@ const data = [
     "name": "kimono stand",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Checkered",
         "img": "FtrKimonostand_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Goldfish",
         "img": "FtrKimonostand_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Camellia",
         "img": "FtrKimonostand_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Chain print",
         "img": "FtrKimonostand_Remake_0_3"
       }
     ],
@@ -9915,19 +9915,19 @@ const data = [
     "name": "kotatsu",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Tic-tac-toe pattern",
         "img": "FtrKotatsu_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Flowers",
         "img": "FtrKotatsu_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Checkered",
         "img": "FtrKotatsu_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Stripes",
         "img": "FtrKotatsu_Remake_0_3"
       }
     ],
@@ -10266,259 +10266,259 @@ const data = [
     "name": "loft bed with desk",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural White",
         "img": "FtrBeddesk_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Black",
         "img": "FtrBeddesk_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Light blue",
         "img": "FtrBeddesk_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Orange",
         "img": "FtrBeddesk_Remake_0_3"
       },
       {
-        "name": "Natural",
+        "name": "Natural Yellow",
         "img": "FtrBeddesk_Remake_0_4"
       },
       {
-        "name": "Natural",
+        "name": "Natural Pink",
         "img": "FtrBeddesk_Remake_0_5"
       },
       {
-        "name": "Natural",
+        "name": "Natural Green stripes",
         "img": "FtrBeddesk_Remake_0_6"
       },
       {
-        "name": "Natural",
+        "name": "Natural Red stripes",
         "img": "FtrBeddesk_Remake_0_7"
       },
       {
-        "name": "Brown",
+        "name": "Brown White",
         "img": "FtrBeddesk_Remake_1_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Black",
         "img": "FtrBeddesk_Remake_1_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Light blue",
         "img": "FtrBeddesk_Remake_1_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Orange",
         "img": "FtrBeddesk_Remake_1_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Yellow",
         "img": "FtrBeddesk_Remake_1_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Pink",
         "img": "FtrBeddesk_Remake_1_5"
       },
       {
-        "name": "Brown",
+        "name": "Brown Green stripes",
         "img": "FtrBeddesk_Remake_1_6"
       },
       {
-        "name": "Brown",
+        "name": "Brown Red stripes",
         "img": "FtrBeddesk_Remake_1_7"
       },
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrBeddesk_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Black",
         "img": "FtrBeddesk_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Light blue",
         "img": "FtrBeddesk_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Orange",
         "img": "FtrBeddesk_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Yellow",
         "img": "FtrBeddesk_Remake_2_4"
       },
       {
-        "name": "White",
+        "name": "White Pink",
         "img": "FtrBeddesk_Remake_2_5"
       },
       {
-        "name": "White",
+        "name": "White Green stripes",
         "img": "FtrBeddesk_Remake_2_6"
       },
       {
-        "name": "White",
+        "name": "White Red stripes",
         "img": "FtrBeddesk_Remake_2_7"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrBeddesk_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Black",
         "img": "FtrBeddesk_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black Light blue",
         "img": "FtrBeddesk_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrBeddesk_Remake_3_3"
       },
       {
-        "name": "Black",
+        "name": "Black Yellow",
         "img": "FtrBeddesk_Remake_3_4"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrBeddesk_Remake_3_5"
       },
       {
-        "name": "Black",
+        "name": "Black Green stripes",
         "img": "FtrBeddesk_Remake_3_6"
       },
       {
-        "name": "Black",
+        "name": "Black Red stripes",
         "img": "FtrBeddesk_Remake_3_7"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrBeddesk_Remake_4_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Black",
         "img": "FtrBeddesk_Remake_4_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Light blue",
         "img": "FtrBeddesk_Remake_4_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrBeddesk_Remake_4_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Yellow",
         "img": "FtrBeddesk_Remake_4_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrBeddesk_Remake_4_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green stripes",
         "img": "FtrBeddesk_Remake_4_6"
       },
       {
-        "name": "Blue",
+        "name": "Blue Red stripes",
         "img": "FtrBeddesk_Remake_4_7"
       },
       {
-        "name": "Orange",
+        "name": "Orange White",
         "img": "FtrBeddesk_Remake_5_0"
       },
       {
-        "name": "Orange",
+        "name": "Orange Black",
         "img": "FtrBeddesk_Remake_5_1"
       },
       {
-        "name": "Orange",
+        "name": "Orange Light blue",
         "img": "FtrBeddesk_Remake_5_2"
       },
       {
-        "name": "Orange",
+        "name": "Orange Orange",
         "img": "FtrBeddesk_Remake_5_3"
       },
       {
-        "name": "Orange",
+        "name": "Orange Yellow",
         "img": "FtrBeddesk_Remake_5_4"
       },
       {
-        "name": "Orange",
+        "name": "Orange Pink",
         "img": "FtrBeddesk_Remake_5_5"
       },
       {
-        "name": "Orange",
+        "name": "Orange Green stripes",
         "img": "FtrBeddesk_Remake_5_6"
       },
       {
-        "name": "Orange",
+        "name": "Orange Red stripes",
         "img": "FtrBeddesk_Remake_5_7"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue White",
         "img": "FtrBeddesk_Remake_6_0"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Black",
         "img": "FtrBeddesk_Remake_6_1"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Light blue",
         "img": "FtrBeddesk_Remake_6_2"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Orange",
         "img": "FtrBeddesk_Remake_6_3"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Yellow",
         "img": "FtrBeddesk_Remake_6_4"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Pink",
         "img": "FtrBeddesk_Remake_6_5"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Green stripes",
         "img": "FtrBeddesk_Remake_6_6"
       },
       {
-        "name": "Light blue",
+        "name": "Light blue Red stripes",
         "img": "FtrBeddesk_Remake_6_7"
       },
       {
-        "name": "Pink",
+        "name": "Pink White",
         "img": "FtrBeddesk_Remake_7_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Black",
         "img": "FtrBeddesk_Remake_7_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Light blue",
         "img": "FtrBeddesk_Remake_7_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Orange",
         "img": "FtrBeddesk_Remake_7_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Yellow",
         "img": "FtrBeddesk_Remake_7_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink Pink",
         "img": "FtrBeddesk_Remake_7_5"
       },
       {
-        "name": "Pink",
+        "name": "Pink Green stripes",
         "img": "FtrBeddesk_Remake_7_6"
       },
       {
-        "name": "Pink",
+        "name": "Pink Red stripes",
         "img": "FtrBeddesk_Remake_7_7"
       }
     ],
@@ -10539,67 +10539,67 @@ const data = [
     "name": "log bed",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogBedW_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogBedW_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogBedW_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogBedW_Remake_0_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogBedW_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogBedW_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogBedW_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogBedW_Remake_1_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogBedW_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogBedW_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogBedW_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogBedW_Remake_2_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogBedW_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogBedW_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogBedW_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogBedW_Remake_3_3"
       }
     ],
@@ -10653,83 +10653,83 @@ const data = [
     "name": "log chair",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrLogSofaS_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogSofaS_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogSofaS_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogSofaS_Remake_0_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogSofaS_Remake_0_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood None",
         "img": "FtrLogSofaS_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogSofaS_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogSofaS_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogSofaS_Remake_1_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogSofaS_Remake_1_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrLogSofaS_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogSofaS_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogSofaS_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogSofaS_Remake_2_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogSofaS_Remake_2_4"
       },
       {
-        "name": "White birch",
+        "name": "White birch None",
         "img": "FtrLogSofaS_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogSofaS_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogSofaS_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogSofaS_Remake_3_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogSofaS_Remake_3_4"
       }
     ],
@@ -10750,83 +10750,83 @@ const data = [
     "name": "log decorative shelves",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrLogShelf_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogShelf_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogShelf_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogShelf_Remake_0_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogShelf_Remake_0_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood None",
         "img": "FtrLogShelf_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogShelf_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogShelf_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogShelf_Remake_1_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogShelf_Remake_1_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrLogShelf_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogShelf_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogShelf_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogShelf_Remake_2_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogShelf_Remake_2_4"
       },
       {
-        "name": "White birch",
+        "name": "White birch None",
         "img": "FtrLogShelf_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogShelf_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogShelf_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogShelf_Remake_3_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogShelf_Remake_3_4"
       }
     ],
@@ -10847,83 +10847,83 @@ const data = [
     "name": "log dining table",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrLogTableL_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogTableL_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogTableL_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogTableL_Remake_0_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogTableL_Remake_0_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood None",
         "img": "FtrLogTableL_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogTableL_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogTableL_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogTableL_Remake_1_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogTableL_Remake_1_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrLogTableL_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogTableL_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogTableL_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogTableL_Remake_2_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogTableL_Remake_2_4"
       },
       {
-        "name": "White birch",
+        "name": "White birch None",
         "img": "FtrLogTableL_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogTableL_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogTableL_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogTableL_Remake_3_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogTableL_Remake_3_4"
       }
     ],
@@ -10944,83 +10944,83 @@ const data = [
     "name": "log extra-long sofa",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrLogSofaL_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogSofaL_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogSofaL_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogSofaL_Remake_0_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogSofaL_Remake_0_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood None",
         "img": "FtrLogSofaL_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogSofaL_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogSofaL_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogSofaL_Remake_1_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogSofaL_Remake_1_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrLogSofaL_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogSofaL_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogSofaL_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogSofaL_Remake_2_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogSofaL_Remake_2_4"
       },
       {
-        "name": "White birch",
+        "name": "White birch None",
         "img": "FtrLogSofaL_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogSofaL_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogSofaL_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogSofaL_Remake_3_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogSofaL_Remake_3_4"
       }
     ],
@@ -11041,83 +11041,83 @@ const data = [
     "name": "log garden lounge",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrLogBedS_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogBedS_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogBedS_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogBedS_Remake_0_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogBedS_Remake_0_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood None",
         "img": "FtrLogBedS_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogBedS_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogBedS_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogBedS_Remake_1_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogBedS_Remake_1_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrLogBedS_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogBedS_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogBedS_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogBedS_Remake_2_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogBedS_Remake_2_4"
       },
       {
-        "name": "White birch",
+        "name": "White birch None",
         "img": "FtrLogBedS_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogBedS_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogBedS_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogBedS_Remake_3_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogBedS_Remake_3_4"
       }
     ],
@@ -11138,83 +11138,83 @@ const data = [
     "name": "log round table",
     "variations": [
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrLogTableLRound_Remake_0_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Southwestern flair",
         "img": "FtrLogTableLRound_Remake_0_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Geometric print",
         "img": "FtrLogTableLRound_Remake_0_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Bears",
         "img": "FtrLogTableLRound_Remake_0_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Quilted",
         "img": "FtrLogTableLRound_Remake_0_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood None",
         "img": "FtrLogTableLRound_Remake_1_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Southwestern flair",
         "img": "FtrLogTableLRound_Remake_1_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Geometric print",
         "img": "FtrLogTableLRound_Remake_1_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Bears",
         "img": "FtrLogTableLRound_Remake_1_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Quilted",
         "img": "FtrLogTableLRound_Remake_1_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrLogTableLRound_Remake_2_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Southwestern flair",
         "img": "FtrLogTableLRound_Remake_2_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Geometric print",
         "img": "FtrLogTableLRound_Remake_2_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Bears",
         "img": "FtrLogTableLRound_Remake_2_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Quilted",
         "img": "FtrLogTableLRound_Remake_2_4"
       },
       {
-        "name": "White birch",
+        "name": "White birch None",
         "img": "FtrLogTableLRound_Remake_3_0"
       },
       {
-        "name": "White birch",
+        "name": "White birch Southwestern flair",
         "img": "FtrLogTableLRound_Remake_3_1"
       },
       {
-        "name": "White birch",
+        "name": "White birch Geometric print",
         "img": "FtrLogTableLRound_Remake_3_2"
       },
       {
-        "name": "White birch",
+        "name": "White birch Bears",
         "img": "FtrLogTableLRound_Remake_3_3"
       },
       {
-        "name": "White birch",
+        "name": "White birch Quilted",
         "img": "FtrLogTableLRound_Remake_3_4"
       }
     ],
@@ -11346,19 +11346,19 @@ const data = [
     "name": "loom",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Checkered",
         "img": "FtrLoom_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Goldfish",
         "img": "FtrLoom_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Camellia",
         "img": "FtrLoom_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Chain print",
         "img": "FtrLoom_Remake_0_3"
       }
     ],
@@ -11379,63 +11379,63 @@ const data = [
     "name": "low screen",
     "variations": [
       {
-        "name": "Light brown",
+        "name": "Light brown Plain",
         "img": "FtrScreenJapanLow_Remake_0_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Spring",
         "img": "FtrScreenJapanLow_Remake_0_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Summer",
         "img": "FtrScreenJapanLow_Remake_0_2"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Fall",
         "img": "FtrScreenJapanLow_Remake_0_3"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Winter",
         "img": "FtrScreenJapanLow_Remake_0_4"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Plain",
         "img": "FtrScreenJapanLow_Remake_1_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Spring",
         "img": "FtrScreenJapanLow_Remake_1_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Summer",
         "img": "FtrScreenJapanLow_Remake_1_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Fall",
         "img": "FtrScreenJapanLow_Remake_1_3"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Winter",
         "img": "FtrScreenJapanLow_Remake_1_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Plain",
         "img": "FtrScreenJapanLow_Remake_2_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Spring",
         "img": "FtrScreenJapanLow_Remake_2_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Summer",
         "img": "FtrScreenJapanLow_Remake_2_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Fall",
         "img": "FtrScreenJapanLow_Remake_2_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Winter",
         "img": "FtrScreenJapanLow_Remake_2_4"
       }
     ],
@@ -11498,99 +11498,99 @@ const data = [
     "name": "Mama bear",
     "variations": [
       {
-        "name": "Cream",
+        "name": "Cream None",
         "img": "FtrBearM_Remake_0_0"
       },
       {
-        "name": "Cream",
+        "name": "Cream Red stripes",
         "img": "FtrBearM_Remake_0_1"
       },
       {
-        "name": "Cream",
+        "name": "Cream Blue stripes",
         "img": "FtrBearM_Remake_0_2"
       },
       {
-        "name": "Cream",
+        "name": "Cream Yellow stripes",
         "img": "FtrBearM_Remake_0_3"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha None",
         "img": "FtrBearM_Remake_1_0"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Red stripes",
         "img": "FtrBearM_Remake_1_1"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Blue stripes",
         "img": "FtrBearM_Remake_1_2"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Yellow stripes",
         "img": "FtrBearM_Remake_1_3"
       },
       {
-        "name": "Choco",
+        "name": "Choco None",
         "img": "FtrBearM_Remake_2_0"
       },
       {
-        "name": "Choco",
+        "name": "Choco Red stripes",
         "img": "FtrBearM_Remake_2_1"
       },
       {
-        "name": "Choco",
+        "name": "Choco Blue stripes",
         "img": "FtrBearM_Remake_2_2"
       },
       {
-        "name": "Choco",
+        "name": "Choco Yellow stripes",
         "img": "FtrBearM_Remake_2_3"
       },
       {
-        "name": "Floral",
+        "name": "Floral None",
         "img": "FtrBearM_Remake_3_0"
       },
       {
-        "name": "Floral",
+        "name": "Floral Red stripes",
         "img": "FtrBearM_Remake_3_1"
       },
       {
-        "name": "Floral",
+        "name": "Floral Blue stripes",
         "img": "FtrBearM_Remake_3_2"
       },
       {
-        "name": "Floral",
+        "name": "Floral Yellow stripes",
         "img": "FtrBearM_Remake_3_3"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered None",
         "img": "FtrBearM_Remake_4_0"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Red stripes",
         "img": "FtrBearM_Remake_4_1"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Blue stripes",
         "img": "FtrBearM_Remake_4_2"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Yellow stripes",
         "img": "FtrBearM_Remake_4_3"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed None",
         "img": "FtrBearM_Remake_5_0"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Red stripes",
         "img": "FtrBearM_Remake_5_1"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Blue stripes",
         "img": "FtrBearM_Remake_5_2"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Yellow stripes",
         "img": "FtrBearM_Remake_5_3"
       }
     ],
@@ -12594,23 +12594,23 @@ const data = [
     "name": "neutral corner",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Green",
         "img": "FtrRingcornerNeutral_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Red",
         "img": "FtrRingcornerNeutral_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrRingcornerNeutral_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Black",
         "img": "FtrRingcornerNeutral_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow",
         "img": "FtrRingcornerNeutral_Remake_0_4"
       }
     ],
@@ -12925,143 +12925,143 @@ const data = [
     "name": "outdoor bench",
     "variations": [
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrOutdoorchairM_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Black",
         "img": "FtrOutdoorchairM_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Green",
         "img": "FtrOutdoorchairM_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Blue",
         "img": "FtrOutdoorchairM_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Orange",
         "img": "FtrOutdoorchairM_Remake_0_4"
       },
       {
-        "name": "White",
+        "name": "White Light wood",
         "img": "FtrOutdoorchairM_Remake_0_5"
       },
       {
-        "name": "White",
+        "name": "White Dark wood",
         "img": "FtrOutdoorchairM_Remake_0_6"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrOutdoorchairM_Remake_1_0"
       },
       {
-        "name": "Black",
+        "name": "Black Black",
         "img": "FtrOutdoorchairM_Remake_1_1"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrOutdoorchairM_Remake_1_2"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrOutdoorchairM_Remake_1_3"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrOutdoorchairM_Remake_1_4"
       },
       {
-        "name": "Black",
+        "name": "Black Light wood",
         "img": "FtrOutdoorchairM_Remake_1_5"
       },
       {
-        "name": "Black",
+        "name": "Black Dark wood",
         "img": "FtrOutdoorchairM_Remake_1_6"
       },
       {
-        "name": "Green",
+        "name": "Green White",
         "img": "FtrOutdoorchairM_Remake_2_0"
       },
       {
-        "name": "Green",
+        "name": "Green Black",
         "img": "FtrOutdoorchairM_Remake_2_1"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrOutdoorchairM_Remake_2_2"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrOutdoorchairM_Remake_2_3"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrOutdoorchairM_Remake_2_4"
       },
       {
-        "name": "Green",
+        "name": "Green Light wood",
         "img": "FtrOutdoorchairM_Remake_2_5"
       },
       {
-        "name": "Green",
+        "name": "Green Dark wood",
         "img": "FtrOutdoorchairM_Remake_2_6"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrOutdoorchairM_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Black",
         "img": "FtrOutdoorchairM_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrOutdoorchairM_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrOutdoorchairM_Remake_3_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrOutdoorchairM_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Light wood",
         "img": "FtrOutdoorchairM_Remake_3_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Dark wood",
         "img": "FtrOutdoorchairM_Remake_3_6"
       },
       {
-        "name": "Red",
+        "name": "Red White",
         "img": "FtrOutdoorchairM_Remake_4_0"
       },
       {
-        "name": "Red",
+        "name": "Red Black",
         "img": "FtrOutdoorchairM_Remake_4_1"
       },
       {
-        "name": "Red",
+        "name": "Red Green",
         "img": "FtrOutdoorchairM_Remake_4_2"
       },
       {
-        "name": "Red",
+        "name": "Red Blue",
         "img": "FtrOutdoorchairM_Remake_4_3"
       },
       {
-        "name": "Red",
+        "name": "Red Orange",
         "img": "FtrOutdoorchairM_Remake_4_4"
       },
       {
-        "name": "Red",
+        "name": "Red Light wood",
         "img": "FtrOutdoorchairM_Remake_4_5"
       },
       {
-        "name": "Red",
+        "name": "Red Dark wood",
         "img": "FtrOutdoorchairM_Remake_4_6"
       }
     ],
@@ -13144,143 +13144,143 @@ const data = [
     "name": "outdoor table",
     "variations": [
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrOutdoortableM_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Black",
         "img": "FtrOutdoortableM_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Green",
         "img": "FtrOutdoortableM_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Blue",
         "img": "FtrOutdoortableM_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Orange",
         "img": "FtrOutdoortableM_Remake_0_4"
       },
       {
-        "name": "White",
+        "name": "White Light wood",
         "img": "FtrOutdoortableM_Remake_0_5"
       },
       {
-        "name": "White",
+        "name": "White Dark wood",
         "img": "FtrOutdoortableM_Remake_0_6"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrOutdoortableM_Remake_1_0"
       },
       {
-        "name": "Black",
+        "name": "Black Black",
         "img": "FtrOutdoortableM_Remake_1_1"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrOutdoortableM_Remake_1_2"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrOutdoortableM_Remake_1_3"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrOutdoortableM_Remake_1_4"
       },
       {
-        "name": "Black",
+        "name": "Black Light wood",
         "img": "FtrOutdoortableM_Remake_1_5"
       },
       {
-        "name": "Black",
+        "name": "Black Dark wood",
         "img": "FtrOutdoortableM_Remake_1_6"
       },
       {
-        "name": "Green",
+        "name": "Green White",
         "img": "FtrOutdoortableM_Remake_2_0"
       },
       {
-        "name": "Green",
+        "name": "Green Black",
         "img": "FtrOutdoortableM_Remake_2_1"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrOutdoortableM_Remake_2_2"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrOutdoortableM_Remake_2_3"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrOutdoortableM_Remake_2_4"
       },
       {
-        "name": "Green",
+        "name": "Green Light wood",
         "img": "FtrOutdoortableM_Remake_2_5"
       },
       {
-        "name": "Green",
+        "name": "Green Dark wood",
         "img": "FtrOutdoortableM_Remake_2_6"
       },
       {
-        "name": "Blue",
+        "name": "Blue White",
         "img": "FtrOutdoortableM_Remake_3_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Black",
         "img": "FtrOutdoortableM_Remake_3_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrOutdoortableM_Remake_3_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrOutdoortableM_Remake_3_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrOutdoortableM_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue Light wood",
         "img": "FtrOutdoortableM_Remake_3_5"
       },
       {
-        "name": "Blue",
+        "name": "Blue Dark wood",
         "img": "FtrOutdoortableM_Remake_3_6"
       },
       {
-        "name": "Red",
+        "name": "Red White",
         "img": "FtrOutdoortableM_Remake_4_0"
       },
       {
-        "name": "Red",
+        "name": "Red Black",
         "img": "FtrOutdoortableM_Remake_4_1"
       },
       {
-        "name": "Red",
+        "name": "Red Green",
         "img": "FtrOutdoortableM_Remake_4_2"
       },
       {
-        "name": "Red",
+        "name": "Red Blue",
         "img": "FtrOutdoortableM_Remake_4_3"
       },
       {
-        "name": "Red",
+        "name": "Red Orange",
         "img": "FtrOutdoortableM_Remake_4_4"
       },
       {
-        "name": "Red",
+        "name": "Red Light wood",
         "img": "FtrOutdoortableM_Remake_4_5"
       },
       {
-        "name": "Red",
+        "name": "Red Dark wood",
         "img": "FtrOutdoortableM_Remake_4_6"
       }
     ],
@@ -13421,99 +13421,99 @@ const data = [
     "name": "Papa bear",
     "variations": [
       {
-        "name": "Cream",
+        "name": "Cream None",
         "img": "FtrBearL_Remake_0_0"
       },
       {
-        "name": "Cream",
+        "name": "Cream Red",
         "img": "FtrBearL_Remake_0_1"
       },
       {
-        "name": "Cream",
+        "name": "Cream Blue",
         "img": "FtrBearL_Remake_0_2"
       },
       {
-        "name": "Cream",
+        "name": "Cream Yellow",
         "img": "FtrBearL_Remake_0_3"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha None",
         "img": "FtrBearL_Remake_1_0"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Red",
         "img": "FtrBearL_Remake_1_1"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Blue",
         "img": "FtrBearL_Remake_1_2"
       },
       {
-        "name": "Caramel mocha",
+        "name": "Caramel mocha Yellow",
         "img": "FtrBearL_Remake_1_3"
       },
       {
-        "name": "Choco",
+        "name": "Choco None",
         "img": "FtrBearL_Remake_2_0"
       },
       {
-        "name": "Choco",
+        "name": "Choco Red",
         "img": "FtrBearL_Remake_2_1"
       },
       {
-        "name": "Choco",
+        "name": "Choco Blue",
         "img": "FtrBearL_Remake_2_2"
       },
       {
-        "name": "Choco",
+        "name": "Choco Yellow",
         "img": "FtrBearL_Remake_2_3"
       },
       {
-        "name": "Floral",
+        "name": "Floral None",
         "img": "FtrBearL_Remake_3_0"
       },
       {
-        "name": "Floral",
+        "name": "Floral Red",
         "img": "FtrBearL_Remake_3_1"
       },
       {
-        "name": "Floral",
+        "name": "Floral Blue",
         "img": "FtrBearL_Remake_3_2"
       },
       {
-        "name": "Floral",
+        "name": "Floral Yellow",
         "img": "FtrBearL_Remake_3_3"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered None",
         "img": "FtrBearL_Remake_4_0"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Red",
         "img": "FtrBearL_Remake_4_1"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Blue",
         "img": "FtrBearL_Remake_4_2"
       },
       {
-        "name": "Checkered",
+        "name": "Checkered Yellow",
         "img": "FtrBearL_Remake_4_3"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed None",
         "img": "FtrBearL_Remake_5_0"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Red",
         "img": "FtrBearL_Remake_5_1"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Blue",
         "img": "FtrBearL_Remake_5_2"
       },
       {
-        "name": "Tweed",
+        "name": "Tweed Yellow",
         "img": "FtrBearL_Remake_5_3"
       }
     ],
@@ -13555,63 +13555,63 @@ const data = [
     "name": "paper lantern",
     "variations": [
       {
-        "name": "Natural wood",
+        "name": "Natural wood Plain",
         "img": "FtrLampJapan_Remake_0_0"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Spring",
         "img": "FtrLampJapan_Remake_0_1"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Summer",
         "img": "FtrLampJapan_Remake_0_2"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Fall",
         "img": "FtrLampJapan_Remake_0_3"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Winter",
         "img": "FtrLampJapan_Remake_0_4"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Plain",
         "img": "FtrLampJapan_Remake_1_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Spring",
         "img": "FtrLampJapan_Remake_1_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Summer",
         "img": "FtrLampJapan_Remake_1_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Fall",
         "img": "FtrLampJapan_Remake_1_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Winter",
         "img": "FtrLampJapan_Remake_1_4"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Plain",
         "img": "FtrLampJapan_Remake_2_0"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Spring",
         "img": "FtrLampJapan_Remake_2_1"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Summer",
         "img": "FtrLampJapan_Remake_2_2"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Fall",
         "img": "FtrLampJapan_Remake_2_3"
       },
       {
-        "name": "Orange wood",
+        "name": "Orange wood Winter",
         "img": "FtrLampJapan_Remake_2_4"
       }
     ],
@@ -13769,63 +13769,63 @@ const data = [
     "name": "pet bed",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural White",
         "img": "FtrPetBed_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Moss green",
         "img": "FtrPetBed_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Polka dots",
         "img": "FtrPetBed_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Checkered",
         "img": "FtrPetBed_Remake_0_3"
       },
       {
-        "name": "Natural",
+        "name": "Natural Floral",
         "img": "FtrPetBed_Remake_0_4"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown White",
         "img": "FtrPetBed_Remake_1_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Moss green",
         "img": "FtrPetBed_Remake_1_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Polka dots",
         "img": "FtrPetBed_Remake_1_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Checkered",
         "img": "FtrPetBed_Remake_1_3"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Floral",
         "img": "FtrPetBed_Remake_1_4"
       },
       {
-        "name": "White",
+        "name": "White White",
         "img": "FtrPetBed_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Moss green",
         "img": "FtrPetBed_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Polka dots",
         "img": "FtrPetBed_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Checkered",
         "img": "FtrPetBed_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Floral",
         "img": "FtrPetBed_Remake_2_4"
       }
     ],
@@ -13965,31 +13965,31 @@ const data = [
     "name": "pile of zen cushions",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Deep blue",
         "img": "FtrCushionJapanPile_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Indigo",
         "img": "FtrCushionJapanPile_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Azuki red",
         "img": "FtrCushionJapanPile_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Deep green",
         "img": "FtrCushionJapanPile_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Goldfish",
         "img": "FtrCushionJapanPile_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Crane",
         "img": "FtrCushionJapanPile_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA Gold",
         "img": "FtrCushionJapanPile_Remake_0_6"
       }
     ],
@@ -14109,51 +14109,51 @@ const data = [
     "name": "plain wooden shop sign",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural Pet",
         "img": "FtrSignWood_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Wanted",
         "img": "FtrSignWood_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Ad",
         "img": "FtrSignWood_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Warning",
         "img": "FtrSignWood_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Pet",
         "img": "FtrSignWood_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Wanted",
         "img": "FtrSignWood_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Ad",
         "img": "FtrSignWood_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Warning",
         "img": "FtrSignWood_Remake_1_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pet",
         "img": "FtrSignWood_Remake_2_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Wanted",
         "img": "FtrSignWood_Remake_2_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Ad",
         "img": "FtrSignWood_Remake_2_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Warning",
         "img": "FtrSignWood_Remake_2_3"
       }
     ],
@@ -14327,63 +14327,63 @@ const data = [
     "name": "poolside bed",
     "variations": [
       {
-        "name": "Light brown",
+        "name": "Light brown White",
         "img": "FtrPoolsidebed_Remake_0_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Black",
         "img": "FtrPoolsidebed_Remake_0_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Blue",
         "img": "FtrPoolsidebed_Remake_0_2"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Red",
         "img": "FtrPoolsidebed_Remake_0_3"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Yellow",
         "img": "FtrPoolsidebed_Remake_0_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown White",
         "img": "FtrPoolsidebed_Remake_1_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Black",
         "img": "FtrPoolsidebed_Remake_1_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Blue",
         "img": "FtrPoolsidebed_Remake_1_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Red",
         "img": "FtrPoolsidebed_Remake_1_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Yellow",
         "img": "FtrPoolsidebed_Remake_1_4"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown White",
         "img": "FtrPoolsidebed_Remake_2_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Black",
         "img": "FtrPoolsidebed_Remake_2_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Blue",
         "img": "FtrPoolsidebed_Remake_2_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Red",
         "img": "FtrPoolsidebed_Remake_2_3"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Yellow",
         "img": "FtrPoolsidebed_Remake_2_4"
       }
     ],
@@ -14959,23 +14959,23 @@ const data = [
     "name": "red corner",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Green",
         "img": "FtrRingcornerRed_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Red",
         "img": "FtrRingcornerRed_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrRingcornerRed_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Black",
         "img": "FtrRingcornerRed_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow",
         "img": "FtrRingcornerRed_Remake_0_4"
       }
     ],
@@ -15017,163 +15017,163 @@ const data = [
     "name": "refrigerator",
     "variations": [
       {
-        "name": "White",
+        "name": "White None",
         "img": "FtrRefrigerator_Remake_0_0"
       },
       {
-        "name": "White",
+        "name": "White Cute",
         "img": "FtrRefrigerator_Remake_0_1"
       },
       {
-        "name": "White",
+        "name": "White Rock",
         "img": "FtrRefrigerator_Remake_0_2"
       },
       {
-        "name": "White",
+        "name": "White Fruits",
         "img": "FtrRefrigerator_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Notices",
         "img": "FtrRefrigerator_Remake_0_4"
       },
       {
-        "name": "Red",
+        "name": "Red None",
         "img": "FtrRefrigerator_Remake_1_0"
       },
       {
-        "name": "Red",
+        "name": "Red Cute",
         "img": "FtrRefrigerator_Remake_1_1"
       },
       {
-        "name": "Red",
+        "name": "Red Rock",
         "img": "FtrRefrigerator_Remake_1_2"
       },
       {
-        "name": "Red",
+        "name": "Red Fruits",
         "img": "FtrRefrigerator_Remake_1_3"
       },
       {
-        "name": "Red",
+        "name": "Red Notices",
         "img": "FtrRefrigerator_Remake_1_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink None",
         "img": "FtrRefrigerator_Remake_2_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Cute",
         "img": "FtrRefrigerator_Remake_2_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Rock",
         "img": "FtrRefrigerator_Remake_2_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Fruits",
         "img": "FtrRefrigerator_Remake_2_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Notices",
         "img": "FtrRefrigerator_Remake_2_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow None",
         "img": "FtrRefrigerator_Remake_3_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Cute",
         "img": "FtrRefrigerator_Remake_3_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Rock",
         "img": "FtrRefrigerator_Remake_3_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Fruits",
         "img": "FtrRefrigerator_Remake_3_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Notices",
         "img": "FtrRefrigerator_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrRefrigerator_Remake_4_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Cute",
         "img": "FtrRefrigerator_Remake_4_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Rock",
         "img": "FtrRefrigerator_Remake_4_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Fruits",
         "img": "FtrRefrigerator_Remake_4_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Notices",
         "img": "FtrRefrigerator_Remake_4_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown None",
         "img": "FtrRefrigerator_Remake_5_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Cute",
         "img": "FtrRefrigerator_Remake_5_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Rock",
         "img": "FtrRefrigerator_Remake_5_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Fruits",
         "img": "FtrRefrigerator_Remake_5_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Notices",
         "img": "FtrRefrigerator_Remake_5_4"
       },
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrRefrigerator_Remake_6_0"
       },
       {
-        "name": "Black",
+        "name": "Black Cute",
         "img": "FtrRefrigerator_Remake_6_1"
       },
       {
-        "name": "Black",
+        "name": "Black Rock",
         "img": "FtrRefrigerator_Remake_6_2"
       },
       {
-        "name": "Black",
+        "name": "Black Fruits",
         "img": "FtrRefrigerator_Remake_6_3"
       },
       {
-        "name": "Black",
+        "name": "Black Notices",
         "img": "FtrRefrigerator_Remake_6_4"
       },
       {
-        "name": "Silver",
+        "name": "Silver None",
         "img": "FtrRefrigerator_Remake_7_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Cute",
         "img": "FtrRefrigerator_Remake_7_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Rock",
         "img": "FtrRefrigerator_Remake_7_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Fruits",
         "img": "FtrRefrigerator_Remake_7_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Notices",
         "img": "FtrRefrigerator_Remake_7_4"
       }
     ],
@@ -15223,75 +15223,75 @@ const data = [
     "name": "retro gas pump",
     "variations": [
       {
-        "name": "Red",
+        "name": "Red Yellow oil",
         "img": "FtrAmeretroGasstand_Remake_0_0"
       },
       {
-        "name": "Red",
+        "name": "Red Green with animal",
         "img": "FtrAmeretroGasstand_Remake_0_1"
       },
       {
-        "name": "Red",
+        "name": "Red Black retro",
         "img": "FtrAmeretroGasstand_Remake_0_2"
       },
       {
-        "name": "Green",
+        "name": "Green Yellow oil",
         "img": "FtrAmeretroGasstand_Remake_1_0"
       },
       {
-        "name": "Green",
+        "name": "Green Green with animal",
         "img": "FtrAmeretroGasstand_Remake_1_1"
       },
       {
-        "name": "Green",
+        "name": "Green Black retro",
         "img": "FtrAmeretroGasstand_Remake_1_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Yellow oil",
         "img": "FtrAmeretroGasstand_Remake_2_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Green with animal",
         "img": "FtrAmeretroGasstand_Remake_2_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Black retro",
         "img": "FtrAmeretroGasstand_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Yellow oil",
         "img": "FtrAmeretroGasstand_Remake_3_0"
       },
       {
-        "name": "White",
+        "name": "White Green with animal",
         "img": "FtrAmeretroGasstand_Remake_3_1"
       },
       {
-        "name": "White",
+        "name": "White Black retro",
         "img": "FtrAmeretroGasstand_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Yellow oil",
         "img": "FtrAmeretroGasstand_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Green with animal",
         "img": "FtrAmeretroGasstand_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Black retro",
         "img": "FtrAmeretroGasstand_Remake_4_2"
       },
       {
-        "name": "Retro",
+        "name": "Retro Yellow oil",
         "img": "FtrAmeretroGasstand_Remake_5_0"
       },
       {
-        "name": "Retro",
+        "name": "Retro Green with animal",
         "img": "FtrAmeretroGasstand_Remake_5_1"
       },
       {
-        "name": "Retro",
+        "name": "Retro Black retro",
         "img": "FtrAmeretroGasstand_Remake_5_2"
       }
     ],
@@ -15386,259 +15386,259 @@ const data = [
     "name": "rock guitar",
     "variations": [
       {
-        "name": "Sunburst",
+        "name": "Sunburst None",
         "img": "FtrElectricguitar1_Remake_0_0"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Familiar logo",
         "img": "FtrElectricguitar1_Remake_0_1"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Chic logo",
         "img": "FtrElectricguitar1_Remake_0_2"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Rock logo",
         "img": "FtrElectricguitar1_Remake_0_3"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Emblem logo",
         "img": "FtrElectricguitar1_Remake_0_4"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Handwritten logo",
         "img": "FtrElectricguitar1_Remake_0_5"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Pop logo",
         "img": "FtrElectricguitar1_Remake_0_6"
       },
       {
-        "name": "Sunburst",
+        "name": "Sunburst Cute logo",
         "img": "FtrElectricguitar1_Remake_0_7"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink None",
         "img": "FtrElectricguitar1_Remake_1_0"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Familiar logo",
         "img": "FtrElectricguitar1_Remake_1_1"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Chic logo",
         "img": "FtrElectricguitar1_Remake_1_2"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Rock logo",
         "img": "FtrElectricguitar1_Remake_1_3"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Emblem logo",
         "img": "FtrElectricguitar1_Remake_1_4"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Handwritten logo",
         "img": "FtrElectricguitar1_Remake_1_5"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Pop logo",
         "img": "FtrElectricguitar1_Remake_1_6"
       },
       {
-        "name": "Coral pink",
+        "name": "Coral pink Cute logo",
         "img": "FtrElectricguitar1_Remake_1_7"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black None",
         "img": "FtrElectricguitar1_Remake_2_0"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Familiar logo",
         "img": "FtrElectricguitar1_Remake_2_1"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Chic logo",
         "img": "FtrElectricguitar1_Remake_2_2"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Rock logo",
         "img": "FtrElectricguitar1_Remake_2_3"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Emblem logo",
         "img": "FtrElectricguitar1_Remake_2_4"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Handwritten logo",
         "img": "FtrElectricguitar1_Remake_2_5"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Pop logo",
         "img": "FtrElectricguitar1_Remake_2_6"
       },
       {
-        "name": "Cosmo black",
+        "name": "Cosmo black Cute logo",
         "img": "FtrElectricguitar1_Remake_2_7"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red None",
         "img": "FtrElectricguitar1_Remake_3_0"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Familiar logo",
         "img": "FtrElectricguitar1_Remake_3_1"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Chic logo",
         "img": "FtrElectricguitar1_Remake_3_2"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Rock logo",
         "img": "FtrElectricguitar1_Remake_3_3"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Emblem logo",
         "img": "FtrElectricguitar1_Remake_3_4"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Handwritten logo",
         "img": "FtrElectricguitar1_Remake_3_5"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Pop logo",
         "img": "FtrElectricguitar1_Remake_3_6"
       },
       {
-        "name": "Fire red",
+        "name": "Fire red Cute logo",
         "img": "FtrElectricguitar1_Remake_3_7"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow None",
         "img": "FtrElectricguitar1_Remake_4_0"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Familiar logo",
         "img": "FtrElectricguitar1_Remake_4_1"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Chic logo",
         "img": "FtrElectricguitar1_Remake_4_2"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Rock logo",
         "img": "FtrElectricguitar1_Remake_4_3"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Emblem logo",
         "img": "FtrElectricguitar1_Remake_4_4"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Handwritten logo",
         "img": "FtrElectricguitar1_Remake_4_5"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Pop logo",
         "img": "FtrElectricguitar1_Remake_4_6"
       },
       {
-        "name": "Orange-yellow",
+        "name": "Orange-yellow Cute logo",
         "img": "FtrElectricguitar1_Remake_4_7"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood None",
         "img": "FtrElectricguitar1_Remake_5_0"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Familiar logo",
         "img": "FtrElectricguitar1_Remake_5_1"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Chic logo",
         "img": "FtrElectricguitar1_Remake_5_2"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Rock logo",
         "img": "FtrElectricguitar1_Remake_5_3"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Emblem logo",
         "img": "FtrElectricguitar1_Remake_5_4"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Handwritten logo",
         "img": "FtrElectricguitar1_Remake_5_5"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Pop logo",
         "img": "FtrElectricguitar1_Remake_5_6"
       },
       {
-        "name": "Natural wood",
+        "name": "Natural wood Cute logo",
         "img": "FtrElectricguitar1_Remake_5_7"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white None",
         "img": "FtrElectricguitar1_Remake_6_0"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Familiar logo",
         "img": "FtrElectricguitar1_Remake_6_1"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Chic logo",
         "img": "FtrElectricguitar1_Remake_6_2"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Rock logo",
         "img": "FtrElectricguitar1_Remake_6_3"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Emblem logo",
         "img": "FtrElectricguitar1_Remake_6_4"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Handwritten logo",
         "img": "FtrElectricguitar1_Remake_6_5"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Pop logo",
         "img": "FtrElectricguitar1_Remake_6_6"
       },
       {
-        "name": "Chic white",
+        "name": "Chic white Cute logo",
         "img": "FtrElectricguitar1_Remake_6_7"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue None",
         "img": "FtrElectricguitar1_Remake_7_0"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Familiar logo",
         "img": "FtrElectricguitar1_Remake_7_1"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Chic logo",
         "img": "FtrElectricguitar1_Remake_7_2"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Rock logo",
         "img": "FtrElectricguitar1_Remake_7_3"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Emblem logo",
         "img": "FtrElectricguitar1_Remake_7_4"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Handwritten logo",
         "img": "FtrElectricguitar1_Remake_7_5"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Pop logo",
         "img": "FtrElectricguitar1_Remake_7_6"
       },
       {
-        "name": "Cool blue",
+        "name": "Cool blue Cute logo",
         "img": "FtrElectricguitar1_Remake_7_7"
       }
     ],
@@ -16015,19 +16015,19 @@ const data = [
     "name": "scattered papers",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Essays",
         "img": "FtrFloorpapers_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Manuscript paper",
         "img": "FtrFloorpapers_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Illustrations",
         "img": "FtrFloorpapers_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Plans",
         "img": "FtrFloorpapers_Remake_0_3"
       }
     ],
@@ -16685,259 +16685,259 @@ const data = [
     "name": "simple panel",
     "variations": [
       {
-        "name": "Light gray",
+        "name": "Light gray Plain panel",
         "img": "FtrScreenSimple_Remake_0_0"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Lined panel",
         "img": "FtrScreenSimple_Remake_0_1"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Pegboard",
         "img": "FtrScreenSimple_Remake_0_2"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Horizontal planks",
         "img": "FtrScreenSimple_Remake_0_3"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Lattice",
         "img": "FtrScreenSimple_Remake_0_4"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Mud wall",
         "img": "FtrScreenSimple_Remake_0_5"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Concrete",
         "img": "FtrScreenSimple_Remake_0_6"
       },
       {
-        "name": "Light gray",
+        "name": "Light gray Gold",
         "img": "FtrScreenSimple_Remake_0_7"
       },
       {
-        "name": "Black",
+        "name": "Black Plain panel",
         "img": "FtrScreenSimple_Remake_1_0"
       },
       {
-        "name": "Black",
+        "name": "Black Lined panel",
         "img": "FtrScreenSimple_Remake_1_1"
       },
       {
-        "name": "Black",
+        "name": "Black Pegboard",
         "img": "FtrScreenSimple_Remake_1_2"
       },
       {
-        "name": "Black",
+        "name": "Black Horizontal planks",
         "img": "FtrScreenSimple_Remake_1_3"
       },
       {
-        "name": "Black",
+        "name": "Black Lattice",
         "img": "FtrScreenSimple_Remake_1_4"
       },
       {
-        "name": "Black",
+        "name": "Black Mud wall",
         "img": "FtrScreenSimple_Remake_1_5"
       },
       {
-        "name": "Black",
+        "name": "Black Concrete",
         "img": "FtrScreenSimple_Remake_1_6"
       },
       {
-        "name": "Black",
+        "name": "Black Gold",
         "img": "FtrScreenSimple_Remake_1_7"
       },
       {
-        "name": "White",
+        "name": "White Plain panel",
         "img": "FtrScreenSimple_Remake_2_0"
       },
       {
-        "name": "White",
+        "name": "White Lined panel",
         "img": "FtrScreenSimple_Remake_2_1"
       },
       {
-        "name": "White",
+        "name": "White Pegboard",
         "img": "FtrScreenSimple_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Horizontal planks",
         "img": "FtrScreenSimple_Remake_2_3"
       },
       {
-        "name": "White",
+        "name": "White Lattice",
         "img": "FtrScreenSimple_Remake_2_4"
       },
       {
-        "name": "White",
+        "name": "White Mud wall",
         "img": "FtrScreenSimple_Remake_2_5"
       },
       {
-        "name": "White",
+        "name": "White Concrete",
         "img": "FtrScreenSimple_Remake_2_6"
       },
       {
-        "name": "White",
+        "name": "White Gold",
         "img": "FtrScreenSimple_Remake_2_7"
       },
       {
-        "name": "Brown",
+        "name": "Brown Plain panel",
         "img": "FtrScreenSimple_Remake_3_0"
       },
       {
-        "name": "Brown",
+        "name": "Brown Lined panel",
         "img": "FtrScreenSimple_Remake_3_1"
       },
       {
-        "name": "Brown",
+        "name": "Brown Pegboard",
         "img": "FtrScreenSimple_Remake_3_2"
       },
       {
-        "name": "Brown",
+        "name": "Brown Horizontal planks",
         "img": "FtrScreenSimple_Remake_3_3"
       },
       {
-        "name": "Brown",
+        "name": "Brown Lattice",
         "img": "FtrScreenSimple_Remake_3_4"
       },
       {
-        "name": "Brown",
+        "name": "Brown Mud wall",
         "img": "FtrScreenSimple_Remake_3_5"
       },
       {
-        "name": "Brown",
+        "name": "Brown Concrete",
         "img": "FtrScreenSimple_Remake_3_6"
       },
       {
-        "name": "Brown",
+        "name": "Brown Gold",
         "img": "FtrScreenSimple_Remake_3_7"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Plain panel",
         "img": "FtrScreenSimple_Remake_4_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Lined panel",
         "img": "FtrScreenSimple_Remake_4_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Pegboard",
         "img": "FtrScreenSimple_Remake_4_2"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Horizontal planks",
         "img": "FtrScreenSimple_Remake_4_3"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Lattice",
         "img": "FtrScreenSimple_Remake_4_4"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Mud wall",
         "img": "FtrScreenSimple_Remake_4_5"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Concrete",
         "img": "FtrScreenSimple_Remake_4_6"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Gold",
         "img": "FtrScreenSimple_Remake_4_7"
       },
       {
-        "name": "Copper",
+        "name": "Copper Plain panel",
         "img": "FtrScreenSimple_Remake_5_0"
       },
       {
-        "name": "Copper",
+        "name": "Copper Lined panel",
         "img": "FtrScreenSimple_Remake_5_1"
       },
       {
-        "name": "Copper",
+        "name": "Copper Pegboard",
         "img": "FtrScreenSimple_Remake_5_2"
       },
       {
-        "name": "Copper",
+        "name": "Copper Horizontal planks",
         "img": "FtrScreenSimple_Remake_5_3"
       },
       {
-        "name": "Copper",
+        "name": "Copper Lattice",
         "img": "FtrScreenSimple_Remake_5_4"
       },
       {
-        "name": "Copper",
+        "name": "Copper Mud wall",
         "img": "FtrScreenSimple_Remake_5_5"
       },
       {
-        "name": "Copper",
+        "name": "Copper Concrete",
         "img": "FtrScreenSimple_Remake_5_6"
       },
       {
-        "name": "Copper",
+        "name": "Copper Gold",
         "img": "FtrScreenSimple_Remake_5_7"
       },
       {
-        "name": "Silver",
+        "name": "Silver Plain panel",
         "img": "FtrScreenSimple_Remake_6_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Lined panel",
         "img": "FtrScreenSimple_Remake_6_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Pegboard",
         "img": "FtrScreenSimple_Remake_6_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Horizontal planks",
         "img": "FtrScreenSimple_Remake_6_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Lattice",
         "img": "FtrScreenSimple_Remake_6_4"
       },
       {
-        "name": "Silver",
+        "name": "Silver Mud wall",
         "img": "FtrScreenSimple_Remake_6_5"
       },
       {
-        "name": "Silver",
+        "name": "Silver Concrete",
         "img": "FtrScreenSimple_Remake_6_6"
       },
       {
-        "name": "Silver",
+        "name": "Silver Gold",
         "img": "FtrScreenSimple_Remake_6_7"
       },
       {
-        "name": "Gold",
+        "name": "Gold Plain panel",
         "img": "FtrScreenSimple_Remake_7_0"
       },
       {
-        "name": "Gold",
+        "name": "Gold Lined panel",
         "img": "FtrScreenSimple_Remake_7_1"
       },
       {
-        "name": "Gold",
+        "name": "Gold Pegboard",
         "img": "FtrScreenSimple_Remake_7_2"
       },
       {
-        "name": "Gold",
+        "name": "Gold Horizontal planks",
         "img": "FtrScreenSimple_Remake_7_3"
       },
       {
-        "name": "Gold",
+        "name": "Gold Lattice",
         "img": "FtrScreenSimple_Remake_7_4"
       },
       {
-        "name": "Gold",
+        "name": "Gold Mud wall",
         "img": "FtrScreenSimple_Remake_7_5"
       },
       {
-        "name": "Gold",
+        "name": "Gold Concrete",
         "img": "FtrScreenSimple_Remake_7_6"
       },
       {
-        "name": "Gold",
+        "name": "Gold Gold",
         "img": "FtrScreenSimple_Remake_7_7"
       }
     ],
@@ -17468,163 +17468,163 @@ const data = [
     "name": "stall",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural None",
         "img": "FtrFloat_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Green stripes",
         "img": "FtrFloat_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Red stripes",
         "img": "FtrFloat_Remake_0_2"
       },
       {
-        "name": "Natural",
+        "name": "Natural Colorful",
         "img": "FtrFloat_Remake_0_3"
       },
       {
-        "name": "Natural",
+        "name": "Natural Waves",
         "img": "FtrFloat_Remake_0_4"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown None",
         "img": "FtrFloat_Remake_1_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Green stripes",
         "img": "FtrFloat_Remake_1_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Red stripes",
         "img": "FtrFloat_Remake_1_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Colorful",
         "img": "FtrFloat_Remake_1_3"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Waves",
         "img": "FtrFloat_Remake_1_4"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown None",
         "img": "FtrFloat_Remake_2_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Green stripes",
         "img": "FtrFloat_Remake_2_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Red stripes",
         "img": "FtrFloat_Remake_2_2"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Colorful",
         "img": "FtrFloat_Remake_2_3"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Waves",
         "img": "FtrFloat_Remake_2_4"
       },
       {
-        "name": "Green",
+        "name": "Green None",
         "img": "FtrFloat_Remake_3_0"
       },
       {
-        "name": "Green",
+        "name": "Green Green stripes",
         "img": "FtrFloat_Remake_3_1"
       },
       {
-        "name": "Green",
+        "name": "Green Red stripes",
         "img": "FtrFloat_Remake_3_2"
       },
       {
-        "name": "Green",
+        "name": "Green Colorful",
         "img": "FtrFloat_Remake_3_3"
       },
       {
-        "name": "Green",
+        "name": "Green Waves",
         "img": "FtrFloat_Remake_3_4"
       },
       {
-        "name": "Pink",
+        "name": "Pink None",
         "img": "FtrFloat_Remake_4_0"
       },
       {
-        "name": "Pink",
+        "name": "Pink Green stripes",
         "img": "FtrFloat_Remake_4_1"
       },
       {
-        "name": "Pink",
+        "name": "Pink Red stripes",
         "img": "FtrFloat_Remake_4_2"
       },
       {
-        "name": "Pink",
+        "name": "Pink Colorful",
         "img": "FtrFloat_Remake_4_3"
       },
       {
-        "name": "Pink",
+        "name": "Pink Waves",
         "img": "FtrFloat_Remake_4_4"
       },
       {
-        "name": "White",
+        "name": "White None",
         "img": "FtrFloat_Remake_5_0"
       },
       {
-        "name": "White",
+        "name": "White Green stripes",
         "img": "FtrFloat_Remake_5_1"
       },
       {
-        "name": "White",
+        "name": "White Red stripes",
         "img": "FtrFloat_Remake_5_2"
       },
       {
-        "name": "White",
+        "name": "White Colorful",
         "img": "FtrFloat_Remake_5_3"
       },
       {
-        "name": "White",
+        "name": "White Waves",
         "img": "FtrFloat_Remake_5_4"
       },
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrFloat_Remake_6_0"
       },
       {
-        "name": "Black",
+        "name": "Black Green stripes",
         "img": "FtrFloat_Remake_6_1"
       },
       {
-        "name": "Black",
+        "name": "Black Red stripes",
         "img": "FtrFloat_Remake_6_2"
       },
       {
-        "name": "Black",
+        "name": "Black Colorful",
         "img": "FtrFloat_Remake_6_3"
       },
       {
-        "name": "Black",
+        "name": "Black Waves",
         "img": "FtrFloat_Remake_6_4"
       },
       {
-        "name": "Gray",
+        "name": "Gray None",
         "img": "FtrFloat_Remake_7_0"
       },
       {
-        "name": "Gray",
+        "name": "Gray Green stripes",
         "img": "FtrFloat_Remake_7_1"
       },
       {
-        "name": "Gray",
+        "name": "Gray Red stripes",
         "img": "FtrFloat_Remake_7_2"
       },
       {
-        "name": "Gray",
+        "name": "Gray Colorful",
         "img": "FtrFloat_Remake_7_3"
       },
       {
-        "name": "Gray",
+        "name": "Gray Waves",
         "img": "FtrFloat_Remake_7_4"
       }
     ],
@@ -17645,67 +17645,67 @@ const data = [
     "name": "standard umbrella stand",
     "variations": [
       {
-        "name": "Black",
+        "name": "Black Stripes",
         "img": "FtrUmbrellastand_Remake_0_0"
       },
       {
-        "name": "Black",
+        "name": "Black Dots",
         "img": "FtrUmbrellastand_Remake_0_1"
       },
       {
-        "name": "Black",
+        "name": "Black Navy",
         "img": "FtrUmbrellastand_Remake_0_2"
       },
       {
-        "name": "Black",
+        "name": "Black Red & white & blue",
         "img": "FtrUmbrellastand_Remake_0_3"
       },
       {
-        "name": "White",
+        "name": "White Stripes",
         "img": "FtrUmbrellastand_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Dots",
         "img": "FtrUmbrellastand_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Navy",
         "img": "FtrUmbrellastand_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Red & white & blue",
         "img": "FtrUmbrellastand_Remake_1_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Stripes",
         "img": "FtrUmbrellastand_Remake_2_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Dots",
         "img": "FtrUmbrellastand_Remake_2_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Navy",
         "img": "FtrUmbrellastand_Remake_2_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Red & white & blue",
         "img": "FtrUmbrellastand_Remake_2_3"
       },
       {
-        "name": "Green",
+        "name": "Green Stripes",
         "img": "FtrUmbrellastand_Remake_3_0"
       },
       {
-        "name": "Green",
+        "name": "Green Dots",
         "img": "FtrUmbrellastand_Remake_3_1"
       },
       {
-        "name": "Green",
+        "name": "Green Navy",
         "img": "FtrUmbrellastand_Remake_3_2"
       },
       {
-        "name": "Green",
+        "name": "Green Red & white & blue",
         "img": "FtrUmbrellastand_Remake_3_3"
       }
     ],
@@ -18218,35 +18218,35 @@ const data = [
     "name": "table with cloth",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA White",
         "img": "FtrTableCloth_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Brown",
         "img": "FtrTableCloth_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Green",
         "img": "FtrTableCloth_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Red",
         "img": "FtrTableCloth_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Pink",
         "img": "FtrTableCloth_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Yellow",
         "img": "FtrTableCloth_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA Light green",
         "img": "FtrTableCloth_Remake_0_6"
       },
       {
-        "name": "NA",
+        "name": "NA Light blue",
         "img": "FtrTableCloth_Remake_0_7"
       }
     ],
@@ -19366,143 +19366,143 @@ const data = [
     "name": "upright locker",
     "variations": [
       {
-        "name": "Silver",
+        "name": "Silver None",
         "img": "FtrLocker_Remake_0_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Cool",
         "img": "FtrLocker_Remake_0_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver Cute",
         "img": "FtrLocker_Remake_0_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Pop",
         "img": "FtrLocker_Remake_0_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Notes",
         "img": "FtrLocker_Remake_0_4"
       },
       {
-        "name": "White",
+        "name": "White None",
         "img": "FtrLocker_Remake_1_0"
       },
       {
-        "name": "White",
+        "name": "White Cool",
         "img": "FtrLocker_Remake_1_1"
       },
       {
-        "name": "White",
+        "name": "White Cute",
         "img": "FtrLocker_Remake_1_2"
       },
       {
-        "name": "White",
+        "name": "White Pop",
         "img": "FtrLocker_Remake_1_3"
       },
       {
-        "name": "White",
+        "name": "White Notes",
         "img": "FtrLocker_Remake_1_4"
       },
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrLocker_Remake_2_0"
       },
       {
-        "name": "Black",
+        "name": "Black Cool",
         "img": "FtrLocker_Remake_2_1"
       },
       {
-        "name": "Black",
+        "name": "Black Cute",
         "img": "FtrLocker_Remake_2_2"
       },
       {
-        "name": "Black",
+        "name": "Black Pop",
         "img": "FtrLocker_Remake_2_3"
       },
       {
-        "name": "Black",
+        "name": "Black Notes",
         "img": "FtrLocker_Remake_2_4"
       },
       {
-        "name": "Red",
+        "name": "Red None",
         "img": "FtrLocker_Remake_3_0"
       },
       {
-        "name": "Red",
+        "name": "Red Cool",
         "img": "FtrLocker_Remake_3_1"
       },
       {
-        "name": "Red",
+        "name": "Red Cute",
         "img": "FtrLocker_Remake_3_2"
       },
       {
-        "name": "Red",
+        "name": "Red Pop",
         "img": "FtrLocker_Remake_3_3"
       },
       {
-        "name": "Red",
+        "name": "Red Notes",
         "img": "FtrLocker_Remake_3_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrLocker_Remake_4_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Cool",
         "img": "FtrLocker_Remake_4_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Cute",
         "img": "FtrLocker_Remake_4_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pop",
         "img": "FtrLocker_Remake_4_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Notes",
         "img": "FtrLocker_Remake_4_4"
       },
       {
-        "name": "Green",
+        "name": "Green None",
         "img": "FtrLocker_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Cool",
         "img": "FtrLocker_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Cute",
         "img": "FtrLocker_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Pop",
         "img": "FtrLocker_Remake_5_3"
       },
       {
-        "name": "Green",
+        "name": "Green Notes",
         "img": "FtrLocker_Remake_5_4"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow None",
         "img": "FtrLocker_Remake_6_0"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Cool",
         "img": "FtrLocker_Remake_6_1"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Cute",
         "img": "FtrLocker_Remake_6_2"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Pop",
         "img": "FtrLocker_Remake_6_3"
       },
       {
-        "name": "Yellow",
+        "name": "Yellow Notes",
         "img": "FtrLocker_Remake_6_4"
       }
     ],
@@ -19734,67 +19734,67 @@ const data = [
     "name": "vintage TV tray",
     "variations": [
       {
-        "name": "Gold",
+        "name": "Gold Green",
         "img": "FtrTVtray_Remake_0_0"
       },
       {
-        "name": "Gold",
+        "name": "Gold Black",
         "img": "FtrTVtray_Remake_0_1"
       },
       {
-        "name": "Gold",
+        "name": "Gold White",
         "img": "FtrTVtray_Remake_0_2"
       },
       {
-        "name": "Gold",
+        "name": "Gold Natural wood",
         "img": "FtrTVtray_Remake_0_3"
       },
       {
-        "name": "Silver",
+        "name": "Silver Green",
         "img": "FtrTVtray_Remake_1_0"
       },
       {
-        "name": "Silver",
+        "name": "Silver Black",
         "img": "FtrTVtray_Remake_1_1"
       },
       {
-        "name": "Silver",
+        "name": "Silver White",
         "img": "FtrTVtray_Remake_1_2"
       },
       {
-        "name": "Silver",
+        "name": "Silver Natural wood",
         "img": "FtrTVtray_Remake_1_3"
       },
       {
-        "name": "Copper",
+        "name": "Copper Green",
         "img": "FtrTVtray_Remake_2_0"
       },
       {
-        "name": "Copper",
+        "name": "Copper Black",
         "img": "FtrTVtray_Remake_2_1"
       },
       {
-        "name": "Copper",
+        "name": "Copper White",
         "img": "FtrTVtray_Remake_2_2"
       },
       {
-        "name": "Copper",
+        "name": "Copper Natural wood",
         "img": "FtrTVtray_Remake_2_3"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrTVtray_Remake_3_0"
       },
       {
-        "name": "Black",
+        "name": "Black Black",
         "img": "FtrTVtray_Remake_3_1"
       },
       {
-        "name": "Black",
+        "name": "Black White",
         "img": "FtrTVtray_Remake_3_2"
       },
       {
-        "name": "Black",
+        "name": "Black Natural wood",
         "img": "FtrTVtray_Remake_3_3"
       }
     ],
@@ -20118,27 +20118,27 @@ const data = [
     "name": "wedding welcome board",
     "variations": [
       {
-        "name": "Cute",
+        "name": "Cute Message",
         "img": "FtrWeddingBoard_Remake_0_0"
       },
       {
-        "name": "Cute",
+        "name": "Cute Reese & Cyrus",
         "img": "FtrWeddingBoard_Remake_0_1"
       },
       {
-        "name": "Chic",
+        "name": "Chic Message",
         "img": "FtrWeddingBoard_Remake_1_0"
       },
       {
-        "name": "Chic",
+        "name": "Chic Reese & Cyrus",
         "img": "FtrWeddingBoard_Remake_1_1"
       },
       {
-        "name": "Garden",
+        "name": "Garden Message",
         "img": "FtrWeddingBoard_Remake_2_0"
       },
       {
-        "name": "Garden",
+        "name": "Garden Reese & Cyrus",
         "img": "FtrWeddingBoard_Remake_2_1"
       }
     ],
@@ -20217,23 +20217,23 @@ const data = [
     "name": "wheelchair",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Blue",
         "img": "FtrWheelchair_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Red plaid",
         "img": "FtrWheelchair_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Green plaid",
         "img": "FtrWheelchair_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Beige",
         "img": "FtrWheelchair_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Colorful",
         "img": "FtrWheelchair_Remake_0_4"
       }
     ],
@@ -20555,131 +20555,131 @@ const data = [
     "name": "wooden double bed",
     "variations": [
       {
-        "name": "Light wood",
+        "name": "Light wood Orange",
         "img": "FtrWoodenBedW_Remake_0_0"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Pink",
         "img": "FtrWoodenBedW_Remake_0_1"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Blue",
         "img": "FtrWoodenBedW_Remake_0_2"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Green",
         "img": "FtrWoodenBedW_Remake_0_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Orange",
         "img": "FtrWoodenBedW_Remake_1_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Pink",
         "img": "FtrWoodenBedW_Remake_1_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Blue",
         "img": "FtrWoodenBedW_Remake_1_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Green",
         "img": "FtrWoodenBedW_Remake_1_3"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Orange",
         "img": "FtrWoodenBedW_Remake_2_0"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Pink",
         "img": "FtrWoodenBedW_Remake_2_1"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Blue",
         "img": "FtrWoodenBedW_Remake_2_2"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Green",
         "img": "FtrWoodenBedW_Remake_2_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Orange",
         "img": "FtrWoodenBedW_Remake_3_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pink",
         "img": "FtrWoodenBedW_Remake_3_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Blue",
         "img": "FtrWoodenBedW_Remake_3_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Green",
         "img": "FtrWoodenBedW_Remake_3_3"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrWoodenBedW_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrWoodenBedW_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrWoodenBedW_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrWoodenBedW_Remake_4_3"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrWoodenBedW_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Pink",
         "img": "FtrWoodenBedW_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrWoodenBedW_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrWoodenBedW_Remake_5_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrWoodenBedW_Remake_6_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrWoodenBedW_Remake_6_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrWoodenBedW_Remake_6_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrWoodenBedW_Remake_6_3"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Orange",
         "img": "FtrWoodenBedW_Remake_7_0"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Pink",
         "img": "FtrWoodenBedW_Remake_7_1"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Blue",
         "img": "FtrWoodenBedW_Remake_7_2"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Green",
         "img": "FtrWoodenBedW_Remake_7_3"
       }
     ],
@@ -20847,163 +20847,163 @@ const data = [
     "name": "wooden mini table",
     "variations": [
       {
-        "name": "Light wood",
+        "name": "Light wood None",
         "img": "FtrWoodenTableMini_Remake_0_0"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Orange",
         "img": "FtrWoodenTableMini_Remake_0_1"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Pink",
         "img": "FtrWoodenTableMini_Remake_0_2"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Blue",
         "img": "FtrWoodenTableMini_Remake_0_3"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Green",
         "img": "FtrWoodenTableMini_Remake_0_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrWoodenTableMini_Remake_1_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Orange",
         "img": "FtrWoodenTableMini_Remake_1_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Pink",
         "img": "FtrWoodenTableMini_Remake_1_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Blue",
         "img": "FtrWoodenTableMini_Remake_1_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Green",
         "img": "FtrWoodenTableMini_Remake_1_4"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood None",
         "img": "FtrWoodenTableMini_Remake_2_0"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Orange",
         "img": "FtrWoodenTableMini_Remake_2_1"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Pink",
         "img": "FtrWoodenTableMini_Remake_2_2"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Blue",
         "img": "FtrWoodenTableMini_Remake_2_3"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Green",
         "img": "FtrWoodenTableMini_Remake_2_4"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrWoodenTableMini_Remake_3_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Orange",
         "img": "FtrWoodenTableMini_Remake_3_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pink",
         "img": "FtrWoodenTableMini_Remake_3_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Blue",
         "img": "FtrWoodenTableMini_Remake_3_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Green",
         "img": "FtrWoodenTableMini_Remake_3_4"
       },
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrWoodenTableMini_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrWoodenTableMini_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrWoodenTableMini_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrWoodenTableMini_Remake_4_3"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrWoodenTableMini_Remake_4_4"
       },
       {
-        "name": "Green",
+        "name": "Green None",
         "img": "FtrWoodenTableMini_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrWoodenTableMini_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Pink",
         "img": "FtrWoodenTableMini_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrWoodenTableMini_Remake_5_3"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrWoodenTableMini_Remake_5_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrWoodenTableMini_Remake_6_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrWoodenTableMini_Remake_6_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrWoodenTableMini_Remake_6_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrWoodenTableMini_Remake_6_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrWoodenTableMini_Remake_6_4"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood None",
         "img": "FtrWoodenTableMini_Remake_7_0"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Orange",
         "img": "FtrWoodenTableMini_Remake_7_1"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Pink",
         "img": "FtrWoodenTableMini_Remake_7_2"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Blue",
         "img": "FtrWoodenTableMini_Remake_7_3"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Green",
         "img": "FtrWoodenTableMini_Remake_7_4"
       }
     ],
@@ -21024,131 +21024,131 @@ const data = [
     "name": "wooden simple bed",
     "variations": [
       {
-        "name": "Light wood",
+        "name": "Light wood Orange",
         "img": "FtrWoodenBedS_Remake_0_0"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Pink",
         "img": "FtrWoodenBedS_Remake_0_1"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Blue",
         "img": "FtrWoodenBedS_Remake_0_2"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Green",
         "img": "FtrWoodenBedS_Remake_0_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Orange",
         "img": "FtrWoodenBedS_Remake_1_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Pink",
         "img": "FtrWoodenBedS_Remake_1_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Blue",
         "img": "FtrWoodenBedS_Remake_1_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Green",
         "img": "FtrWoodenBedS_Remake_1_3"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Orange",
         "img": "FtrWoodenBedS_Remake_2_0"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Pink",
         "img": "FtrWoodenBedS_Remake_2_1"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Blue",
         "img": "FtrWoodenBedS_Remake_2_2"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Green",
         "img": "FtrWoodenBedS_Remake_2_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Orange",
         "img": "FtrWoodenBedS_Remake_3_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pink",
         "img": "FtrWoodenBedS_Remake_3_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Blue",
         "img": "FtrWoodenBedS_Remake_3_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Green",
         "img": "FtrWoodenBedS_Remake_3_3"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrWoodenBedS_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrWoodenBedS_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrWoodenBedS_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrWoodenBedS_Remake_4_3"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrWoodenBedS_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Pink",
         "img": "FtrWoodenBedS_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrWoodenBedS_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrWoodenBedS_Remake_5_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrWoodenBedS_Remake_6_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrWoodenBedS_Remake_6_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrWoodenBedS_Remake_6_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrWoodenBedS_Remake_6_3"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Orange",
         "img": "FtrWoodenBedS_Remake_7_0"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Pink",
         "img": "FtrWoodenBedS_Remake_7_1"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Blue",
         "img": "FtrWoodenBedS_Remake_7_2"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Green",
         "img": "FtrWoodenBedS_Remake_7_3"
       }
     ],
@@ -21169,163 +21169,163 @@ const data = [
     "name": "wooden stool",
     "variations": [
       {
-        "name": "Light wood",
+        "name": "Light wood None",
         "img": "FtrWoodenStoolS_Remake_0_0"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Orange",
         "img": "FtrWoodenStoolS_Remake_0_1"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Pink",
         "img": "FtrWoodenStoolS_Remake_0_2"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Blue",
         "img": "FtrWoodenStoolS_Remake_0_3"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Green",
         "img": "FtrWoodenStoolS_Remake_0_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrWoodenStoolS_Remake_1_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Orange",
         "img": "FtrWoodenStoolS_Remake_1_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Pink",
         "img": "FtrWoodenStoolS_Remake_1_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Blue",
         "img": "FtrWoodenStoolS_Remake_1_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Green",
         "img": "FtrWoodenStoolS_Remake_1_4"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood None",
         "img": "FtrWoodenStoolS_Remake_2_0"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Orange",
         "img": "FtrWoodenStoolS_Remake_2_1"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Pink",
         "img": "FtrWoodenStoolS_Remake_2_2"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Blue",
         "img": "FtrWoodenStoolS_Remake_2_3"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Green",
         "img": "FtrWoodenStoolS_Remake_2_4"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrWoodenStoolS_Remake_3_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Orange",
         "img": "FtrWoodenStoolS_Remake_3_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pink",
         "img": "FtrWoodenStoolS_Remake_3_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Blue",
         "img": "FtrWoodenStoolS_Remake_3_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Green",
         "img": "FtrWoodenStoolS_Remake_3_4"
       },
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrWoodenStoolS_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrWoodenStoolS_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrWoodenStoolS_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrWoodenStoolS_Remake_4_3"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrWoodenStoolS_Remake_4_4"
       },
       {
-        "name": "Green",
+        "name": "Green None",
         "img": "FtrWoodenStoolS_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrWoodenStoolS_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Pink",
         "img": "FtrWoodenStoolS_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrWoodenStoolS_Remake_5_3"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrWoodenStoolS_Remake_5_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrWoodenStoolS_Remake_6_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrWoodenStoolS_Remake_6_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrWoodenStoolS_Remake_6_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrWoodenStoolS_Remake_6_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrWoodenStoolS_Remake_6_4"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood None",
         "img": "FtrWoodenStoolS_Remake_7_0"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Orange",
         "img": "FtrWoodenStoolS_Remake_7_1"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Pink",
         "img": "FtrWoodenStoolS_Remake_7_2"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Blue",
         "img": "FtrWoodenStoolS_Remake_7_3"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Green",
         "img": "FtrWoodenStoolS_Remake_7_4"
       }
     ],
@@ -21346,163 +21346,163 @@ const data = [
     "name": "wooden table",
     "variations": [
       {
-        "name": "Light wood",
+        "name": "Light wood None",
         "img": "FtrWoodenTableL_Remake_0_0"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Orange",
         "img": "FtrWoodenTableL_Remake_0_1"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Pink",
         "img": "FtrWoodenTableL_Remake_0_2"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Blue",
         "img": "FtrWoodenTableL_Remake_0_3"
       },
       {
-        "name": "Light wood",
+        "name": "Light wood Green",
         "img": "FtrWoodenTableL_Remake_0_4"
       },
       {
-        "name": "White wood",
+        "name": "White wood None",
         "img": "FtrWoodenTableL_Remake_1_0"
       },
       {
-        "name": "White wood",
+        "name": "White wood Orange",
         "img": "FtrWoodenTableL_Remake_1_1"
       },
       {
-        "name": "White wood",
+        "name": "White wood Pink",
         "img": "FtrWoodenTableL_Remake_1_2"
       },
       {
-        "name": "White wood",
+        "name": "White wood Blue",
         "img": "FtrWoodenTableL_Remake_1_3"
       },
       {
-        "name": "White wood",
+        "name": "White wood Green",
         "img": "FtrWoodenTableL_Remake_1_4"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood None",
         "img": "FtrWoodenTableL_Remake_2_0"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Orange",
         "img": "FtrWoodenTableL_Remake_2_1"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Pink",
         "img": "FtrWoodenTableL_Remake_2_2"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Blue",
         "img": "FtrWoodenTableL_Remake_2_3"
       },
       {
-        "name": "Cherry wood",
+        "name": "Cherry wood Green",
         "img": "FtrWoodenTableL_Remake_2_4"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood None",
         "img": "FtrWoodenTableL_Remake_3_0"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Orange",
         "img": "FtrWoodenTableL_Remake_3_1"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Pink",
         "img": "FtrWoodenTableL_Remake_3_2"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Blue",
         "img": "FtrWoodenTableL_Remake_3_3"
       },
       {
-        "name": "Dark wood",
+        "name": "Dark wood Green",
         "img": "FtrWoodenTableL_Remake_3_4"
       },
       {
-        "name": "Black",
+        "name": "Black None",
         "img": "FtrWoodenTableL_Remake_4_0"
       },
       {
-        "name": "Black",
+        "name": "Black Orange",
         "img": "FtrWoodenTableL_Remake_4_1"
       },
       {
-        "name": "Black",
+        "name": "Black Pink",
         "img": "FtrWoodenTableL_Remake_4_2"
       },
       {
-        "name": "Black",
+        "name": "Black Blue",
         "img": "FtrWoodenTableL_Remake_4_3"
       },
       {
-        "name": "Black",
+        "name": "Black Green",
         "img": "FtrWoodenTableL_Remake_4_4"
       },
       {
-        "name": "Green",
+        "name": "Green None",
         "img": "FtrWoodenTableL_Remake_5_0"
       },
       {
-        "name": "Green",
+        "name": "Green Orange",
         "img": "FtrWoodenTableL_Remake_5_1"
       },
       {
-        "name": "Green",
+        "name": "Green Pink",
         "img": "FtrWoodenTableL_Remake_5_2"
       },
       {
-        "name": "Green",
+        "name": "Green Blue",
         "img": "FtrWoodenTableL_Remake_5_3"
       },
       {
-        "name": "Green",
+        "name": "Green Green",
         "img": "FtrWoodenTableL_Remake_5_4"
       },
       {
-        "name": "Blue",
+        "name": "Blue None",
         "img": "FtrWoodenTableL_Remake_6_0"
       },
       {
-        "name": "Blue",
+        "name": "Blue Orange",
         "img": "FtrWoodenTableL_Remake_6_1"
       },
       {
-        "name": "Blue",
+        "name": "Blue Pink",
         "img": "FtrWoodenTableL_Remake_6_2"
       },
       {
-        "name": "Blue",
+        "name": "Blue Blue",
         "img": "FtrWoodenTableL_Remake_6_3"
       },
       {
-        "name": "Blue",
+        "name": "Blue Green",
         "img": "FtrWoodenTableL_Remake_6_4"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood None",
         "img": "FtrWoodenTableL_Remake_7_0"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Orange",
         "img": "FtrWoodenTableL_Remake_7_1"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Pink",
         "img": "FtrWoodenTableL_Remake_7_2"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Blue",
         "img": "FtrWoodenTableL_Remake_7_3"
       },
       {
-        "name": "Pink wood",
+        "name": "Pink wood Green",
         "img": "FtrWoodenTableL_Remake_7_4"
       }
     ],
@@ -21909,51 +21909,51 @@ const data = [
     "name": "writing chair",
     "variations": [
       {
-        "name": "Natural",
+        "name": "Natural Yellow",
         "img": "FtrStudyChair_Remake_0_0"
       },
       {
-        "name": "Natural",
+        "name": "Natural Blue",
         "img": "FtrStudyChair_Remake_0_1"
       },
       {
-        "name": "Natural",
+        "name": "Natural Pink",
         "img": "FtrStudyChair_Remake_0_2"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Yellow",
         "img": "FtrStudyChair_Remake_1_0"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Blue",
         "img": "FtrStudyChair_Remake_1_1"
       },
       {
-        "name": "Light brown",
+        "name": "Light brown Pink",
         "img": "FtrStudyChair_Remake_1_2"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Yellow",
         "img": "FtrStudyChair_Remake_2_0"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Blue",
         "img": "FtrStudyChair_Remake_2_1"
       },
       {
-        "name": "Dark brown",
+        "name": "Dark brown Pink",
         "img": "FtrStudyChair_Remake_2_2"
       },
       {
-        "name": "White",
+        "name": "White Yellow",
         "img": "FtrStudyChair_Remake_3_0"
       },
       {
-        "name": "White",
+        "name": "White Blue",
         "img": "FtrStudyChair_Remake_3_1"
       },
       {
-        "name": "White",
+        "name": "White Pink",
         "img": "FtrStudyChair_Remake_3_2"
       }
     ],
@@ -22065,31 +22065,31 @@ const data = [
     "name": "zen cushion",
     "variations": [
       {
-        "name": "NA",
+        "name": "NA Deep blue",
         "img": "FtrCushionJapan_Remake_0_0"
       },
       {
-        "name": "NA",
+        "name": "NA Indigo",
         "img": "FtrCushionJapan_Remake_0_1"
       },
       {
-        "name": "NA",
+        "name": "NA Azuki red",
         "img": "FtrCushionJapan_Remake_0_2"
       },
       {
-        "name": "NA",
+        "name": "NA Deep green",
         "img": "FtrCushionJapan_Remake_0_3"
       },
       {
-        "name": "NA",
+        "name": "NA Goldfish",
         "img": "FtrCushionJapan_Remake_0_4"
       },
       {
-        "name": "NA",
+        "name": "NA Crane",
         "img": "FtrCushionJapan_Remake_0_5"
       },
       {
-        "name": "NA",
+        "name": "NA Gold",
         "img": "FtrCushionJapan_Remake_0_6"
       }
     ],
